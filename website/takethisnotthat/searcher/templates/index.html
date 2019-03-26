@@ -1,0 +1,103 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Course Syllabus/Eval Search</title>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+        <link rel="stylesheet" href="{% static 'searcher/main.css' %}">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat|Shrikhand" rel="stylesheet">
+    </head>
+    <body>
+
+    <div class="bg-danger navbar-dark text-white">
+    <div class="container">
+      <nav class="navbar px-0 navbar-expand-lg navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a href="/home" class="pl-md-0 p-3 text-white">Home</a>
+            <a href="/searcher" class="p-3 text-decoration-none text-white">Get the tea...</a>
+            <a href="/uploader" class="p-3 text-decoration-none text-white">Upload a syllabus!</a>
+          </div>
+        </div>
+      </nav>
+
+    </div>
+    </div>
+
+    <div class="jumbotron bg-secondary text-center text-danger mb-0 radius-0">
+        <div class="container">
+            <div class="ht-tm-header">
+                <div id="header">
+                <h1 class="display-1 display-xxl text-uppercase">Deal or No Deal</h1>
+                </h2>UChicago Course Edition</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-8 order-md-1">
+      <h4 class="mb-3">Want all the piping-hot tea on a course or instructor? Search below!</h4>
+    </div>
+
+    </br>
+
+    <div class="col-md-8 order-md-1">
+        <form method="get">
+            {% csrf_token %}
+            <table class="form">
+            {{ form }}
+            </table>
+            <input type="submit" value="Submit" />
+        </form>
+    </div>
+
+    {% if args %}
+    <div class="args">
+        <pre>{{ args }}</pre>
+    </div>
+    {% endif %}
+
+    {% if err %}
+    <div class="error">
+        {{ err|safe }}
+    </div>
+    {% endif %}
+
+
+
+    <div class="frame">
+        {% if result != None %}
+        <div class="results">
+            <table class="courses">
+                <tr>
+                    {% for col in columns %}
+                    <th>{{ col }}</th>
+                    {% endfor %}
+                </tr>
+                {% for entry in result %}
+                <tr>
+                    {% for col in entry %}
+                    <td>{{ col }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        <p class="num_results">Results: {{ num_results }}</p>
+        {% endif %}
+    </div>
+
+    </br>
+    <p>Want to upload your own syllabi and contribute to our database?</p><a href="{% url 'uploader:uploaderfunction' %}">UPLOAD HERE</a>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  </body>
+</html>

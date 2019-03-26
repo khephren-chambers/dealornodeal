@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Course Syllabus/Eval Search</title>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+        <link rel="stylesheet" href="{% static 'searcher/main.css' %}">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat|Shrikhand" rel="stylesheet">
+    </head>
+    <body>
+
+    <div class="bg-danger navbar-dark text-white">
+    <div class="container">
+      <nav class="navbar px-0 navbar-expand-lg navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a href="/home" class="pl-md-0 p-3 text-white">Home</a>
+            <a href="/searcher" class="p-3 text-decoration-none text-white">Get the tea...</a>
+            <a href="/uploader" class="p-3 text-decoration-none text-white">Upload a syllabus!</a>
+          </div>
+        </div>
+      </nav>
+
+    </div>
+    </div>
+
+    <div class="jumbotron bg-secondary text-center text-danger mb-0 radius-0">
+        <div class="container">
+            <div class="ht-tm-header">
+                <div id="header">
+                <h1 class="display-1 display-xxl text-uppercase">Deal or No Deal</h1>
+                </h2>UChicago Course Edition</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    </br>
+
+    <div class="col-md-8 order-md-1">
+      <h4 class="mb-3">Upload a syllabus and contribute to our growing database here!</h4>
+    </div>
+
+    <body>
+    	<form class="col-md-8 order-md-1" action="{% url 'uploaderfunction' %}" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+            <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+            <p>
+                {{ form.docfile.errors }}
+                {{ form.docfile }}
+            </p>
+		    <input type="submit" name="submit" value="Upload" />
+		</form>
+    </br>
+    <p class="col-md-8 order-md-1">Please have your syllabus in "DEPT #####.pdf" form, i.e.: "CMSC 12200.pdf".</p>
+	</body>
+</html>
