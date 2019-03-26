@@ -1,0 +1,3608 @@
+Course_Num,Dept,Num,Title
+1,ANTH,19601,Populism and Its Discontents
+2,ANTH,20009,"Embodiment: Governance, Resistance, Ethics"
+3,ANTH,20010,Anthropology of the Future
+4,ANTH,20011,"Peasants: Anthropology, Rural Life, Capitalism"
+5,ANTH,20144,London Program: Institution
+6,ANTH,20400,Anthropology of Olympic Sport
+7,ANTH,20405,Anthropology of Disability
+8,ANTH,20420,Anthropology of Olympic Sport
+9,ANTH,20540,The Chicago Climate Change & Culture Institute-I
+10,ANTH,20541,The Chicago Climate Change & Culture Institute-II
+11,ANTH,20701,Introduction to African Civilization I
+12,ANTH,20702,Introduction to African Civilization II
+13,ANTH,20703,Introduction to African Civilization III
+14,ANTH,21107,Anthropological Theory
+15,ANTH,21201,Chicago Blues
+16,ANTH,21303,Making the Natural World: Foundations of Human Ecology
+17,ANTH,21306,Explorations in Oral Narrative
+18,ANTH,21333,"The Lived Body: Anthropology, Materiality, Meaningful Practice"
+19,ANTH,21341,Making Plants Work: Anthropology of Human-Plant Relationships
+20,ANTH,21342,Welcome to the Good Life: The Black Edition
+21,ANTH,21343,Anthropology and/of Tourism: Of Otherness and Encounters
+22,ANTH,21344,The Meaning of Police
+23,ANTH,21406,Celebrity and Science in Paleoanthropology
+24,ANTH,21420,Ethnographic Methods
+25,ANTH,21428,Apes and Human Evolution
+26,ANTH,21431,"Counting, Calculation and Computation: Anthropologies of Number"
+27,ANTH,21525,"Love, Conjugality, and Capital: Intimacy in the Modern World"
+28,ANTH,21730,"Science, Technology and Media via Japan"
+29,ANTH,22129,The Vocation of a Scientist
+30,ANTH,22165,Politics of Technoscience in Africa
+31,ANTH,22170,Taste and Technoscience
+32,ANTH,22710,Signs and the State
+33,ANTH,22825,"Globalization, Immigration, and Culture"
+34,ANTH,23026,Science in the South: Decolonizing the Study of Knowledge in Latin America & the Caribbean
+35,ANTH,23027,Toxic States: Corrupted Ecologies in Latin America and the Caribbean
+36,ANTH,23062,"Contemporary Studies on Ayllu, Kinship, and Social Organization in the Andes"
+37,ANTH,23093,Latin American Extractivisms
+38,ANTH,23096,Development and the Right to Housing in Latin America: A Critical Appraisal
+39,ANTH,23101,Introduction to Latin American Civilization I
+40,ANTH,23102,Introduction to Latin American Civilization II
+41,ANTH,23103,Introduction to Latin American Civilization III
+42,ANTH,23405,War: What's It Good For
+43,ANTH,23607,The Immigrant as American Prototype
+44,ANTH,23700,"Capitalism, Colonialism, and Nationalism in the Pacific"
+45,ANTH,23802,Populism and its Discontents
+46,ANTH,23906,"Magic, Science, and Religion"
+47,ANTH,23911,Anthropology of Religion
+48,ANTH,24001,Colonizations I
+49,ANTH,24002,Colonizations II
+50,ANTH,24003,Colonizations III
+51,ANTH,24101,Introduction to the Civilizations of South Asia I
+52,ANTH,24102,Introduction to the Civilizations of South Asia II
+53,ANTH,24302,Disability in Local and Global Contexts
+54,ANTH,24307,"Lab, Field, and Clinic: History and Anthropology of Medicine and the Life Sciences"
+55,ANTH,24308,History of Perception
+56,ANTH,24309,Reproductive Worlds
+57,ANTH,24312,"Body & Soul: The Anthropology of Religion, Health, & Healing"
+58,ANTH,24315,"Culture, Mental Health, and Psychiatry"
+59,ANTH,24316,Thinking Psychoanalytically: From the Sciences to the Arts
+60,ANTH,24320,Cultural Psychology
+61,ANTH,24330,Medical Anthropology
+62,ANTH,24345,"Anthropology and 'The Good Life': Ethics, Morality, Well-Being"
+63,ANTH,24350,Historical Epistemology & Contemporary Biomedicine
+64,ANTH,24351,Philosophies of Praxis and Conjuncture
+65,ANTH,24355,Experiencing Madness: Empathic Methods in Cultural Psychiatry
+66,ANTH,24510,Anthropology Of Museums-1
+67,ANTH,24511,Anthropology Of Museum-2
+68,ANTH,24520,Temple or Forum: Designing the Obama Presidential Center
+69,ANTH,24810,Atmospherics
+70,ANTH,25100,Anthropology of the Body
+71,ANTH,25117,About Nature: From Science to Sense
+72,ANTH,25118,Earthbound Metaphysics: Speculations on Earths and Heavens
+73,ANTH,25148,Israel in Film and Ethnography
+74,ANTH,25150,Anthropology of Israel
+75,ANTH,25200,Approaches to Gender in Anthropology
+76,ANTH,25207,"Gender, Sexuality, & Religion"
+77,ANTH,25209,Morality across the Life Course
+78,ANTH,25255,"Borders, (Im)mobilities and Human Rights"
+79,ANTH,25305,Anthropology of Food and Cuisine
+80,ANTH,25401,Consumption
+81,ANTH,25411,California: Utopia/Dystopia
+82,ANTH,25905,Introduction to the Musical Folklore of Central Asia
+83,ANTH,25906,Shamans and Oral Poets of Central Asia
+84,ANTH,25908,Balkan Folklore
+85,ANTH,25975,AdvRdgs: Anthropology of the Modern Subject
+86,ANTH,26100,Ancient Celtic Societies
+87,ANTH,26710,Ancient Landscapes I
+88,ANTH,26711,Ancient Landscapes II
+89,ANTH,26760,Archaeology of Bronze Age China
+90,ANTH,26765,"Archaeology of Anyang: Bronzes, Inscriptions, and World Heritage"
+91,ANTH,26900,Archaeological Data Sets
+92,ANTH,27116,"Language and Migration: Individual, Social and Institutional Perspectives"
+93,ANTH,27305,Pornography and Language
+94,ANTH,27400,Language/Power/Identity in South East Europe
+95,ANTH,27430,Linguistic Politics: Language Revitalization
+96,ANTH,27601,Populism and Its Discontents
+97,ANTH,27605,"Language, Culture, and Thought"
+98,ANTH,27700,Romani Language and Linguistics
+99,ANTH,27902,Modern Spoken Yucatec Maya-2
+100,ANTH,27903,Modern Spoken Yucatec Maya-3
+101,ANTH,28110,Human Origins: Milestones in Human Evolution and the Fossil Record
+102,ANTH,28400,Bioarchaeology and the Human Skeleton
+103,ANTH,29500,Archaeology Laboratory Practicum
+104,ANTH,29601,Populism and Its Discontents
+105,ANTH,29700,Readings in Anthropology
+106,ANTH,29900,Preparation of Bachelor's Essay
+107,ANTH,29910,Bachelor's Essay Seminar
+108,ARTH,10100,Introduction to Art
+109,ARTH,14105,Introduction to Roman Art and Archaeology
+110,ARTH,14107,Greek Art and Archaeology
+111,ARTH,14200,Introduction to Medieval Art
+112,ARTH,14400,Italian Renaissance Art
+113,ARTH,15650,Art Since 1900
+114,ARTH,15780,Modern Art from the Enlightenment until Today
+115,ARTH,15800,Contemporary Art
+116,ARTH,17121,The Art of Leonardo da Vinci
+117,ARTH,17410,Frank Lloyd Wright in Chicago and Beyond
+118,ARTH,17504,Art in Chicago
+119,ARTH,17613,"Architecture, Power, & Urban Development in Rome: Romulus to Mussolini"
+120,ARTH,17700,19th Century French Art in the Art Institute
+121,ARTH,17705,A Curating History: The Documenta Case
+122,ARTH,17735,The Art of Post-Revolutionary Mexico
+123,ARTH,18000,Photography And Film
+124,ARTH,18206,"Drawing, Building, Bulldozer: Intro to Architecture & Built Env"
+125,ARTH,20000,Introduction to Film Analysis
+126,ARTH,20612,Early Christian and Late Ancient Jewish Art
+127,ARTH,20700,Understanding the Built Environment
+128,ARTH,21320,Philippe Parreno's Media Temporalities
+129,ARTH,21410,"Advanced Theories of Sex/Gender: Ideology, Culture, and Sexuality"
+130,ARTH,21810,Post-War American Avant-Garde
+131,ARTH,22020,Contemporary Art from Latin America
+132,ARTH,22106,Introduction to the Study of Iconography
+133,ARTH,22302,"Byzantium: Art, Religion, Culture"
+134,ARTH,22402,Perspective as a Challenge to Art History
+135,ARTH,22405,Perspective: Rhetoric & Poetic
+136,ARTH,23015,Ornament and Islamic Art
+137,ARTH,23700,The Painted Room in Early Modern Italy and China
+138,ARTH,23804,COSI: Italian Renaissance
+139,ARTH,23807,"Rhoades Seminar: Art, War, & Pageantry in Medieval & Early Modern Europe"
+140,ARTH,23808,COSI: Etched & Incised - Renaissance & Baroque Printmaking in Europe & Beyond
+141,ARTH,24002,Advanced Nonfiction Workshop: Writing About the Arts
+142,ARTH,24008,Advanced Nonfiction Workshop: Drawing from Life
+143,ARTH,24170,Research the Chicago Cityscape
+144,ARTH,24190,Imagining Chicago's Common Buildings
+145,ARTH,24250,A Visual History of Latin American Women
+146,ARTH,24415,The Bauhaus at 100
+147,ARTH,24416,Biocentrism: The Concept of Life in German Literature and Art
+148,ARTH,24625,Chinese Art & Material Culture in the Field Museum Collection
+149,ARTH,24810,The Body and Embodiment in Ancient Greek Art
+150,ARTH,25115,Winckelmann: Enlightenment Art Historian and Philosopher
+151,ARTH,25202,Visual Encounters in the Global Renaissance
+152,ARTH,25213,Hermeneutics of the Image
+153,ARTH,25300,Pilgrimage in Antiquity and the Early Christendom
+154,ARTH,25500,Avant-Garde in East Central Europe
+155,ARTH,25708,Imagining Private Life in Early Modern China
+156,ARTH,25885,20th Century American Drama
+157,ARTH,25900,Theories of Media
+158,ARTH,26110,Ways of Curating and Collecting
+159,ARTH,26200,Magic and the Cinema
+160,ARTH,26790,A Curating Case-Study: The Hut
+161,ARTH,27301,Aesthetics: Phil/Photo/Film
+162,ARTH,27304,Photo/Modernism/Esthetic
+163,ARTH,27420,Modernist Architecture on Campus
+164,ARTH,27800,The Material Science of Art (Suzanne Deal Booth Conservation Seminar
+165,ARTH,28002,Islamic Art and Architecture of the Medieval Perso-Turkic Courts
+166,ARTH,28405,The Films of Alfred Hitchcock
+167,ARTH,28500,History of International Cinema I: Silent Era
+168,ARTH,28600,History of International Cinema II: Sound Era to 1960
+169,ARTH,28701,Postcolonialism and Contemporary Art in East Asia
+170,ARTH,28815,"World's Fairs, 1851-1937: Chicago and Paris"
+171,ARTH,29410,Dimensions of Citizenship: The Venice Architecture Biennale 2018
+172,ARTH,29412,The Face in Western Culture from the Mona Lisa to the Selfie
+173,ARTH,29504,"Art, Community, Activism"
+174,ARTH,29505,Objects of Japanese History
+175,ARTH,29600,Junior Seminar: Doing Art History
+176,ARTH,29700,Ug Rdg Course: Art History
+177,ARTH,29800,Senior Seminar: Writing Workshop
+178,ARTH,29900,Preparation for the BA Paper
+179,ASTR,12600,"Matter, Energy, Space, and Time"
+180,ASTR,12610,Black Holes
+181,ASTR,12620,The Big Bang
+182,ASTR,12700,Stars
+183,ASTR,12710,Galaxies
+184,ASTR,12720,Exoplanets
+185,ASTR,13300,Introduction to Astrophysics
+186,ASTR,18000,The Search for Extraterrestrial Life
+187,ASTR,18100,The Milky Way
+188,ASTR,18700,From Fossils to Fermi's Paradox: Origin and Evolution of Intelligent Life
+189,ASTR,20000,Tutorial in Astronomy and Astrophysics
+190,ASTR,21100,Computational Techniques in Astrophysics
+191,ASTR,21200,Observational Techniques
+192,ASTR,23900,Physics of Galaxies
+193,ASTR,24100,The Physics of Stars
+194,ASTR,24300,Cosmological Physics
+195,ASTR,25400,Radiation Processes in Astrophysics
+196,ASTR,28200,Current Topics in Astrophysics
+197,ASTR,28300,Current Topics in Astrophysics: Instrumentation
+198,ASTR,29700,Participation in Research
+199,ASTR,29800,Undergraduate Research Seminar
+200,ASTR,29900,Honors Thesis
+201,BIOS,20151,Introduction to Quantitative Modeling in Biology (Basic
+202,BIOS,20152,Introduction to Quantitative Modeling in Biology (Advanced
+203,BIOS,20153,Fundamentals of Ecology and Ev
+204,BIOS,20170,Microbial and Human Cell Biology
+205,BIOS,20171,Human Genetics and Developmental Biology
+206,BIOS,20172,Mathematical Modeling for Pre-Med Students
+207,BIOS,20173,Perspectives of Human Physiology
+208,BIOS,20175,Biochemistry and Metabolism
+209,BIOS,20186,Fundamentals of Cell and Molecular Biology
+210,BIOS,20187,Fundamentals of Genetics
+211,BIOS,20188,Fundamentals of Physiology
+212,BIOS,20189,Fundamentals of Developmental Biology
+213,BIOS,20190,Principles of Developmental Biology
+214,BIOS,20191,Integrative Physiology
+215,BIOS,20196,Ecology and Conservation
+216,BIOS,20198,Biodiversity
+217,BIOS,20234,Molecular Biology of the Cell
+218,BIOS,20235,Biological Systems
+219,BIOS,20236,Biological Dynamics
+220,BIOS,20242,Principles of Physiology
+221,BIOS,20200,Introduction to Biochemistry
+222,BIOS,21216,Intro Statistical Genetics
+223,BIOS,21229,Genome Informatics: How Cells Reorganize Genomes
+224,BIOS,21236,Genetics of Model Organisms
+225,BIOS,21237,Developmental Mechanisms
+226,BIOS,21238,Cell Biology II
+227,BIOS,21249,"Organization, Expression, and Transmission of Genome Information"
+228,BIOS,21306,Human Genetics and Evolution
+229,BIOS,21317,Topics in Biological Chemistry
+230,BIOS,21328,Biophysics of Biomolecules
+231,BIOS,21349,Protein Structure and Functions in Medicine
+232,BIOS,21356,Vertebrate Development
+233,BIOS,21358,"Simulation, Modeling, and Computation in Biophysics"
+234,BIOS,21360,Advanced Molecular Biology
+235,BIOS,21407,Image Processing in Biology
+236,BIOS,21415,Stem Cells in Development and Diseases
+237,BIOS,21416,Stem Cells and Regeneration
+238,BIOS,21417,Systems Biology: Molecular Regulatory Logic of Networks
+239,BIOS,21418,Historical and Conceptual Foundations of DevoEvo
+240,BIOS,21506,Biological Physics
+241,BIOS,21507,The Engineering and Biology of Tissue Repair
+242,BIOS,22226,Human Developmental Biology
+243,BIOS,22233,Comparative Vertebrate Anatomy
+244,BIOS,22236,Reproductive Biology of Primates
+245,BIOS,22245,Biomechanics: How Life Works
+246,BIOS,22249,Principles of Toxicology
+247,BIOS,22250,Chordates: Evolution and Comparative Anatomy
+248,BIOS,22260,Vertebrate Structure and Function
+249,BIOS,22265,Human Origins: Milestones in Human Evolution and the Fossil Record
+250,BIOS,22306,Evolution and Development
+251,BIOS,23100,Dinosaur Science
+252,BIOS,23232,Ecology and Evolution in the Southwest
+253,BIOS,23233,Ecology and Evolution in the Southwest:Field School
+254,BIOS,23242,Primate Evolution and the Roots of Human Biology
+255,BIOS,23247,Bioarchaeology and the Human Skeleton
+256,BIOS,23249,Animal Behavior
+257,BIOS,23252,Field Ecology
+258,BIOS,23254,Mammalian Ecology
+259,BIOS,23258,Molecular Evolution I: Fundamentals and Principles
+260,BIOS,23261,Invertebrate Paleobiology and Evolution
+261,BIOS,23262,Mammalian Evolutionary Biology
+262,BIOS,23266,Evolutionary Adaptation
+263,BIOS,23289,Marine Ecology
+264,BIOS,23299,Plant Development and Molecular Genetics
+265,BIOS,23365,Evolutionary and Genomic Medicine I
+266,BIOS,23404,Reconstructing the Tree of Life: An Introduction to Phylogenetics
+267,BIOS,23406,Biogeography
+268,BIOS,23409,The Ecology and Evolution of Infectious Diseases
+269,BIOS,23410,"Complex Interactions: Coevolution, Parasites, Mutualists, and Cheaters"
+270,BIOS,24110,Fundamental Neuroscience
+271,BIOS,24120,Cellular Neuroscience
+272,BIOS,24130,Systems Neuroscience
+273,BIOS,24131,Molecular Neuroscience
+274,BIOS,24208,Survey of Systems Neuroscience
+275,BIOS,24217,Conquest of Pain
+276,BIOS,24231,Methods in Computational Neuroscience
+277,BIOS,24232,Computational Approaches to Cognitive Neuroscience
+278,BIOS,24248,Biological Clocks and Behavior
+279,BIOS,24408,Modeling and Signal Analysis for Neuroscientists
+280,BIOS,25108,Cancer Biology
+281,BIOS,25109,Topics in Reproduction and Cancer
+282,BIOS,25126,Animal Models of Human Disease
+283,BIOS,25206,Fundamentals of Bacterial Physiology
+284,BIOS,25216,Molecular Basis of Bacterial Disease
+285,BIOS,25226,Endocrinology I: Cell Signaling
+286,BIOS,25227,Endocrinology II: Systems and Physiology
+287,BIOS,25228,Endocrinology III: Human Disease
+288,BIOS,25256,Immunobiology
+289,BIOS,25258,Immunopathology
+290,BIOS,25260,Host Pathogen Interactions
+291,BIOS,25266,Molecular Immunology
+292,BIOS,25267,Mucosal Immunology
+293,BIOS,25287,Introduction to Virology
+294,BIOS,25308,Heterogeneity in Human Cancer: Etiology and Treatment
+295,BIOS,25326,Tumor Microenvironment and Metastasis
+296,BIOS,25327,Health Disparities in Breast Cancer
+297,BIOS,25407,Organ Transplantation
+298,BIOS,26120,An Introduction to Bioinformatics and Proteomics
+299,BIOS,26210,Mathematical Methods for Biological Sciences I
+300,BIOS,26211,Mathematical Methods for Biological Sciences II
+301,BIOS,26318,Fundamentals of Biological Data Analysis
+302,BIOS,27710,Ecology - Marine Biological Laboratory
+303,BIOS,27711,Biogeochemical Analysis in Terrestrial and Aquatic Ecosystems  Marine Biological Laboratory
+304,BIOS,27712,Independent Undergraduate Research in Environmental Sciences  Marine Biological Laboratory
+305,BIOS,27713,Quantitative Environmental Analyses  Marine Biological Laboratory
+306,BIOS,27714,Methods in Microbial Ecology - Marine Biological Laboratory
+307,BIOS,27715,Roles of Animals in Ecosystems  Marine Biological Laboratory
+308,BIOS,27720,Microbiomes Across Environments
+309,BIOS,27721,Observing Proteins in Action: How to Design and Build Your Own Instruments
+310,BIOS,27723,Biodiversity and Genomics: Exploring the Marine Animal Diversity of Woods Hole Using Molecular Tools
+311,BIOS,27810,Epidemiology and Population Health: Global Health Sciences I
+312,BIOS,27811,Global Health Sciences II: Microbiology
+313,BIOS,28700,Biodiagnostics and Biosensors
+314,BIOS,28407,Genomics and Systems Biology
+315,BIOS,2280,Drinking Alcohol: Social Problem or Normal Cultural Practice
+316,BIOS,2490,Biology and Sociology of AIDS
+317,BIOS,29100,Biology of Toxoplasma
+318,BIOS,29265,Evolution and Economics of Human Behavior
+319,BIOS,29271,The Psychology and Neurobiology of Stress
+320,BIOS,29294,Introduction to Global Health
+321,BIOS,29300,Biological Psychology
+322,BIOS,29314,Medical Ethics: Central Topics
+323,BIOS,29323,Health Care and the Limits of State Action
+324,BIOS,29326,Introduction to Medical Physics and Medical Imaging
+325,BIOS,29327,Topics in Clinical Research
+326,BIOS,29812,Global Health Sciences III: Topics in Global Health
+327,BIOS,199,Undergraduate Research
+328,BIOS,206,Readings: Biology
+329,BIOS,296,Undergraduate Honors Research
+330,BIOS,299,Advanced Research: Biological Sciences
+331,CHEM,111,Collaborative Learning in General Chemistry I
+332,CHEM,112,Collaborative Learning in General Chemistry II
+333,CHEM,113,Collaborative Learning in General Chemistry III
+334,CHEM,220,Collaborative Learning in Organic Chemistry I
+335,CHEM,221,Collaborative Learning in Organic Chemistry II
+336,CHEM,222,Collaborative Learning in Organic Chemistry III
+337,CHEM,10100,Introductory General Chemistry I
+338,CHEM,10200,Introductory General Chemistry II
+339,CHEM,11300,Comprehensive General Chemistry III
+340,CHEM,11100,Comprehensive General Chemistry I
+341,CHEM,11200,Comprehensive General Chemistry II
+342,CHEM,11300,Comprehensive General Chemistry III
+343,CHEM,12100,Honors General Chemistry I
+344,CHEM,12200,Honors General Chemistry II
+345,CHEM,12300,Honors General Chemistry III
+346,CHEM,20100,Inorganic Chemistry I
+347,CHEM,20200,Inorganic Chemistry II
+348,CHEM,22000,Organic Chemistry I
+349,CHEM,22100,Organic Chemistry II
+350,CHEM,22200,Organic Chemistry III
+351,CHEM,22700,Advanced Organic/Inorganic Laboratory
+352,CHEM,23300,Intermediate Organic Chemistry
+353,CHEM,26100,Quantum Mechanics
+354,CHEM,26200,Thermodynamics
+355,CHEM,26300,Chemical Kinetics and Dynamics
+356,CHEM,26700,Experimental Physical Chemistry
+357,CHEM,26800,Computational Chemistry and Biology
+358,CHEM,29600,Research in Chemistry
+359,CHEM,29900,Advanced Research in Chemistry
+360,CHEM,30100,Advanced Inorganic Chemistry
+361,CHEM,30200,Synthesis and Physical Methods in Inorganic Chemistry
+362,CHEM,30400,Organometallic Chemistry
+363,CHEM,30500,Nanoscale Materials
+364,CHEM,30600,Chemistry Of The Elements and Materials
+365,CHEM,30900,Bioinorganic Chemistry
+366,CHEM,32100,Physical Organic Chemistry I
+367,CHEM,32200,Organic Synthesis and Structure
+368,CHEM,32300,Strategies and Tactics of Organic Synthesis
+369,CHEM,32400,Physical Organic Chemistry II
+370,CHEM,32500,Bioorganic Chemistry
+371,CHEM,33000,Complex Chemical Systems
+372,CHEM,33100,New Synthetic Reactions and Catalysts
+373,CHEM,33200,Chemical Biology I
+374,CHEM,33300,Chemical Biology II
+375,CHEM,33500,Chemistry of Enzyme Catalysis
+376,CHEM,33600,Biological Chemistry of Materials: Principles and Applications
+377,CHEM,33700,"RNA Structure, Function, and Biology"
+378,CHEM,33800,Organotransition Metal Chemisty
+379,CHEM,36100,Wave Mechanics and Spectroscopy
+380,CHEM,36200,Quantum Mechanics
+381,CHEM,36300,Statistical Thermodynamics
+382,CHEM,36400,Advanced Statistical Mechanics
+383,CHEM,36500,Chemical Dynamics
+384,CHEM,37100,Advanced Spectroscopies
+385,CHEM,37300,Advanced Special Topics in Theory and Computation
+386,CHEM,38700,Biophysical Chemistry
+387,CHEM,39000,Materials Chemistry I
+388,CHEM,39100,Materials Chemistry II
+389,CMST,10100,Introduction to Film Analysis
+390,CMST,11000,Film Academy At Chicago
+391,CMST,14400,Film and the Moving Image
+392,CMST,14502,Cinema and Poetry: The Modern City
+393,CMST,14519,Global Melodrama
+394,CMST,20400,Problems in the Study of Gender and Sexuality: Media Wars
+395,CMST,20430,"Gender, Sexuality, Imagination"
+396,CMST,21004,Afrofuturism
+397,CMST,21200,Politics of Film in Twentieth-Century American History
+398,CMST,21703,Weimar Cinema
+399,CMST,21810,Post-War American Avant-Garde
+400,CMST,22235,Revolutionary Romance in Socialist China
+401,CMST,22507,Cinema and the Holocaust
+402,CMST,23406,Contemporary French Cinema
+403,CMST,23412,Philippe Parreno's Media Temporalities
+404,CMST,23500,Pasolini
+405,CMST,23805,Opera in the Age of its Mechanical Reproducibility
+406,CMST,23820,Unsettling Encounters: Colonial Latin America in Film
+407,CMST,23904,Topics in Latin American Cinema and Media
+408,CMST,23905,Creative Thesis Workshop
+409,CMST,23906,Latin American Cinema: 1930 to the Present
+410,CMST,23907,Creative Thesis Workshop - Narrative
+411,CMST,23908,Creative Thesis Workshop - Non-Fiction
+412,CMST,23930,Documentary Production I
+413,CMST,23931,Documentary Production II
+414,CMST,24107,Bombay to Bollywood
+415,CMST,24112,Screening India: Bollywood and Beyond
+416,CMST,24201,Cinema in Africa
+417,CMST,24400,From Post-War to Post-Wall: A History of Polish Film
+418,CMST,24414,Soviet Science Fiction
+419,CMST,24506,Poetics of Visual Style in Postwar Eastern Europe
+420,CMST,24521,Film and Revolution
+421,CMST,24530,Cowboys and Tramps in Film and Literature
+422,CMST,24531,Cowboy Modernity
+423,CMST,24550,Central Asian Cinema
+424,CMST,24568,"The Underground: Alienation, Mobilization, Resistance"
+425,CMST,24603,Topics in EALC: Ghosts & the Fantastic in Literature and Film
+426,CMST,24606,China's New Documentary Cinema
+427,CMST,24913,Making Sense of a Moving World: Japanese Cinema Through 1945
+428,CMST,25100,Avant-Garde in East Central Europe
+429,CMST,25102,Narratives Suspense in European/Russian Lit/Film
+430,CMST,25514,Symbolism and Cinema
+431,CMST,25600,Magic and the Cinema
+432,CMST,25612,Comics as Medium
+433,CMST,25951,American Television: From Broadcast Networks to the Internet
+434,CMST,25953,Transmedia Game
+435,CMST,25954,Alternate Reality Games: Theory and Production
+436,CMST,26200,Brecht and Beyond
+437,CMST,26303,Chris Marker
+438,CMST,26402,Orson Welles
+439,CMST,26403,Post WWII American Mise en Scene Directors
+440,CMST,26405,D.W. Griffith
+441,CMST,26500,The Films of Alfred Hitchcock
+442,CMST,26503,Scandinavian Cinema in the Classic Period (1910-1960
+443,CMST,26504,Ingmar Bergman: Cinema & Theater
+444,CMST,26601,The Soviet Visual Experience
+445,CMST,26705,Kieslowski: The Decalogue
+446,CMST,27005,Filming the Police
+447,CMST,27011,Experimental Captures
+448,CMST,27110,Digital Cinema
+449,CMST,27112,Cinema and Movement
+450,CMST,27201,Zizek on Film
+451,CMST,27205,Film Aesthetics
+452,CMST,27230,Modern Film Theory
+453,CMST,27700,Advanced Photography
+454,CMST,27800,Theories of Media
+455,CMST,27803,"The Body of Cinema: Hypnoses, Emotions, Animalities"
+456,CMST,27805,"Framing, Re-framing, and Un-framing Cinema"
+457,CMST,27810,Cinema and New Media
+458,CMST,27911,Augmented Reality Production
+459,CMST,27915,"Introduction to Videogame Studies: Art, Play, and Society"
+460,CMST,27916,Critical Videogame Studies
+461,CMST,27920,Virtual Reality Production
+462,CMST,28006,Minimalist Experiment in Film and Video
+463,CMST,28010,Sound / Image Mapping
+464,CMST,28100,Issues in Film Music
+465,CMST,28118,Listening to Movies
+466,CMST,28310,Kafka and Performance
+467,CMST,28500,History of International Cinema I: Silent Era
+468,CMST,28600,History of International Cinema II: Sound Era to 1960
+469,CMST,28700,"History of International Cinema, Part III: 1960 to Present"
+470,CMST,28810,Advanced Study Theater: Games & Performance
+471,CMST,28921,Introduction to 16mm Filmmaking
+472,CMST,29002,Motion Pictures in the Human Sciences
+473,CMST,29300,Aesthetics: Phil/Photo/Film
+474,CMST,29700,Reading and Research CMST
+475,CMST,29800,Senior Colloquium
+476,CMST,29900,B.A. Essay: CMST
+477,CLCV,14113,Introduction to Roman Art and Archaeology
+478,CLCV,15000,Myth and Its Critics
+479,CLCV,20118,"Changing, Resting, Living: Aristotle's Natural Philosophy"
+480,CLCV,20216,Egypt in Late Antiquity
+481,CLCV,20400,Who Were the Greeks
+482,CLCV,20700,Anc Mediterr World-1: Greece
+483,CLCV,20800,Anc Mediterr World-2: Rome
+484,CLCV,20900,Ancient Mediterranean World III
+485,CLCV,21500,"Medieval Book: History, Typology, Function"
+486,CLCV,21700,Archaeology for Anc Historians
+487,CLCV,21717,"Sophocles, Ajax"
+488,CLCV,21718,"Socrates, Plato and Aristotle on Courage"
+489,CLCV,21807,Greek Art and Archaeology
+490,CLCV,21915,The Present Past in Greece Since 1769
+491,CLCV,22117,Fate and Duty: European Tragedy from Aeschylus to Brecht
+492,CLCV,22216,"Italian Renaissance: Dante, Machiavelli, and the Wars of Popes and Kings"
+493,CLCV,22514,Markets and Moral Economies
+494,CLCV,22518,Humor in Antiquity
+495,CLCV,22700,Ancient Philos/Hist Philos-1
+496,CLCV,22718,Sports and Leisure in the Ancient World
+497,CLCV,22914,The Italian Renaissance
+498,CLCV,22917,How to Build a Global Empire
+499,CLCV,23400,Boethius: Consolation of Philosophy
+500,CLCV,23518,Persia: The First World Empire
+501,CLCV,23608,Aristophanes' Athens
+502,CLCV,23712,"Aquinas: On God, Being and Evil"
+503,CLCV,24017,The Spartan Divergence
+504,CLCV,24116,"History of Skepticism, Pre-socratic Greece to Enlightenment"
+505,CLCV,24118,Coptic Bible
+506,CLCV,24309,Byzantium and Islam
+507,CLCV,24406,War & Society in Graeco Roman World
+508,CLCV,24818,The Body and Embodiment in Ancient Greek Art
+509,CLCV,24918,Early Traveling Writing: Pausanias in Roman Greece
+510,CLCV,25117,Philo of Alexandria
+511,CLCV,25218,Mediterranean Islands: Odd and Insular Histories
+512,CLCV,25417,Censorship from the Inquisition to the Present
+513,CLCV,25700,Ancient Empires I
+514,CLCV,25800,Ancient Empires-II
+515,CLCV,25900,Ancient Empires-3
+516,CLCV,25806,The Epigraphy of the Greek World
+517,CLCV,25818,Stoic Ethics Through Roman Eyes
+518,CLCV,26011,Ancient Views of the Economy
+519,CLCV,26017,Gods and God in Imperial Asia Minor (1-300 CE
+520,CLCV,26037,Myth and Its Critics
+521,CLCV,26216,Pagans and Christians: Greek Backgrounds to Early Christianity
+522,CLCV,26517,Ancient Greek Aesthetics
+523,CLCV,26518,Introduction to Women and Gender in the Ancient World
+524,CLCV,26601,The Ancient City: The Greek World
+525,CLCV,26618,Cities and Urban Space in the Ancient World
+526,CLCV,26916,Aztecs and Romans: Antiquity in the Making of Modern Mexico
+527,CLCV,27200,Virgil: The Aeneid in Translation
+528,CLCV,27506,Archaic Greece
+529,CLCV,29110,Ancient Myth
+530,CLCV,29700,Reading Course: Classical Civ
+531,CLCV,29800,BA Paper Seminar
+532,GREK,10100,Introduction to Attic Greek I
+533,GREK,10200,Introduction To Attic Greek II
+534,GREK,10300,Introduction to Attic Greek III: Prose
+535,GREK,10123,Summer Intensive Introductory Ancient Greek
+536,GREK,20100,Intermediate Greek I: Plato
+537,GREK,20200,Intermediate Greek II: Sophocles
+538,GREK,20300,Intermediate Greek III
+539,GREK,20123,Summer Intensive Intermediate Ancient Greek
+540,GREK,21216,Greek Philosophy
+541,GREK,21300,Greek Tragedy
+542,GREK,21700,Lyric and Epinician Poetry
+543,GREK,21800,Greek Epic
+544,GREK,21900,Greek Oratory
+545,GREK,22300,Greek Tragedy: Hellenistic/Imperial Literature
+546,GREK,22400,Greek Comedy: Aristophanes
+547,GREK,22515,Greek Historians: Thucydides
+548,GREK,23915,The Greek Magical Papryi
+549,GREK,24600,Philo of Alexandria
+550,GREK,24718,Longinus' On the Sublime
+551,GREK,25116,Reading Greek Literature in the Papyri
+552,GREK,26517,Indo-European Linguistic Paleontology
+553,GREK,29700,Reading Course: Greek
+554,LATN,10100,Introduction to Classical Latin I
+555,LATN,10200,Introduction to Classical Latin II
+556,LATN,10300,Introduction to Classical Latin III
+557,LATN,10123,Summer Intensive Introductory Latin
+558,LATN,11100,Accelerated Introduction to Classical Latin I
+559,LATN,11200,Accelerated Introduction to Classical Latin II
+560,LATN,20100,Intermediate Latin I: Cicero
+561,LATN,20200,Intermediate Latin II: Aeneid
+562,LATN,20300,Intermediate Latin III
+563,LATN,20123,Summer Intensive Intermediate Latin
+564,LATN,21100,Roman Elegy
+565,LATN,21200,Roman Novel
+566,LATN,21300,Vergil
+567,LATN,21500,Roman Satire
+568,LATN,21600,Roman Oratory
+569,LATN,21700,Post-Virgilian Epic
+570,LATN,21800,Roman Historian
+571,LATN,21900,Roman Comedy
+572,LATN,22100,Lucretius
+573,LATN,24615,Augustine: Early Philosophical Works
+574,LATN,26000,Latin Paleography
+575,LATN,26118,"Cicero's ""De Oratore"
+576,LATN,27017,Einhard
+577,LATN,29700,Reading Course
+578,CHDV,20000,Introduction to Human Development
+579,CHDV,20100,Human Development Research Designs in Social Sciences
+580,CHDV,20305,Inequality in Urban Spaces
+581,CHDV,21000,Cultural Psychology
+582,CHDV,21401,Introduction to African Civilization II
+583,CHDV,22350,Social Neuroscience
+584,CHDV,23204,Medical Anthropology
+585,CHDV,23249,Animal Behavior
+586,CHDV,23900,Introduction to Language Development
+587,CHDV,26000,Social Psychology
+588,CHDV,26901,Psychology for Citizens
+589,CHDV,27802,Seminar: Challenging Legends and Other Received Truths: A Socratic Practicum
+590,CHDV,27860,History of Evolutionary Behavioral Sciences
+591,CHDV,28301,Disability and Design
+592,CHDV,29700,Undergraduate Reading and Research
+593,CHDV,29800,BA Honors Seminar
+594,CHDV,29900,Honors Paper Preparation
+595,CMLT,20109,Comparative Methods in the Humanities
+596,CMLT,23112,Trans Performativity
+597,CMLT,23212,"Art, Ekphrasis, and Myth in Early Modern Spanish Theater"
+598,CMLT,24105,Letters to Zion
+599,CMLT,26210,Oedipus in Zion: The Oedipal Figure in Modern Hebrew Literature
+600,CMLT,26660,The Rise of the Global New Right
+601,CMLT,26912,20th Century Russian & South East European Emigre Literature
+602,CMLT,28110,Queer Jewish Literature
+603,CMLT,29023,Returning the Gaze: The West and the Rest
+604,CRES,20701,Introduction to African Civilization I
+605,CRES,20802,Introduction to African Civilization II
+606,CRES,22706,Slavery and Freedom in the Atlantic World
+607,CRES,24813,South African Fictions and Factions
+608,CRES,20104,Urban Structure and Process
+609,CRES,22150,Contemporary African American Politics
+610,CRES,24601,Martin and Malcolm: Life and Belief
+611,CRES,25405,Child Poverty and Chicago Schools
+612,CRES,27502,Africans in the Early Americas
+613,CRES,10800,Intro To East Asian Civilization I
+614,CRES,10900,Intro to East Asian Civilization II
+615,CRES,11000,Intro to East Asian Civilization III
+616,CRES,24255,"Everyday Maoism: Work, Daily Life, and Material Culture in Socialist China"
+617,CRES,24706,Edo/Tokyo: Society and the City in Japan
+618,CRES,26913,"The Politics of Immigration: Race, Rights, and Activism"
+619,CRES,27900,Asian Wars of the Twentieth Century
+620,CRES,16101,Introduction to Latin American Civilization I
+621,CRES,16102,Introduction to Latin American Civilization II
+622,CRES,16103,Introduction to Latin American Civilization III
+623,CRES,21903,Intro. a las lit. hispánicas: textos hispanoamericanos desde la colonia a la independencia
+624,CRES,27101,"Intro to Brazilian Culture: Essay, Fiction, Cinema and Music"
+625,CRES,27303,Topics in US-Mexico Borderlands History
+626,CRES,27504,Racism without Race
+627,CRES,28000,United States Latinos: Origins and Histories
+628,CRES,29000,"Latin American Religions, New and Old"
+629,CRES,36500,"Hist of Mexico 1876, to Present"
+630,CRES,27501,Urban Indians: Native Americans and the City
+631,CRES,10200,Introduction to World Music
+632,CRES,20104,Urban Structure and Process
+633,CRES,20140,Qualitative Field Methods
+634,CRES,20207,"Race, Ethnicity, and Human Development"
+635,CRES,21903,Intro. a las lit. hispánicas: textos hispanoamericanos desde la colonia a la independencia
+636,CRES,22706,Slavery and Freedom in the Atlantic World
+637,CRES,24001,Colonizations I
+638,CRES,24002,Colonizations II
+639,CRES,24003,Colonizations III
+640,CRES,27302,"Gender, Sexuality, Indigenous Women in the Colonial Encounter"
+641,CRES,27503,"Reading the Border: Gender, Texts, and Performance"
+642,CRES,27605,United States Legal History
+643,CRES,28011,Religions of the African Diaspora
+644,CRES,29302,Human Rights II: History and Theory
+645,CRES,29800,BA Colloquium: Theory and Methods in Comparative Race and Ethnic Studies
+646,CRES,29900,Preparation for the BA Essay
+647,BIOS,24231,Methods in Computational Neuroscience
+648,BIOS,24232,Computational Approaches to Cognitive Neuroscience
+649,BIOS,24408,Modeling and Signal Analysis for Neuroscientists
+650,BIOS,26210,Mathematical Methods for Biological Sciences I
+651,BIOS,26211,Mathematical Methods for Biological Sciences II
+652,CMSC,10100,Introduction to Programming for the World Wide Web I
+653,CMSC,10200,Introduction to Programming for the World Wide Web II
+654,CMSC,11000,Multimed Prog: Interdisc Art-1
+655,CMSC,11100,Multimedia Programming as an Interdisciplinary Art II
+656,CMSC,11710,Networks
+657,CMSC,11800,Introduction to Data Science - I
+658,CMSC,11900,Introduction to Data Science II
+659,CMSC,12100,Computer Science with Applications I
+660,CMSC,12200,Computer Science with Applications II
+661,CMSC,12300,Computer Science with Applications III
+662,CMSC,15100,Intro To Computer Science-1
+663,CMSC,15200,Intro To Computer Science-2
+664,CMSC,15400,Introduction to Computer Systems
+665,CMSC,16100,Honors Introduction to Computer Science I
+666,CMSC,16200,Honors Introduction to Computer Science II
+667,CMSC,20900,Computers for Learning
+668,CMSC,21010,Mathematical Foundations
+669,CMSC,22000,Introduction to Software Development
+670,CMSC,22001,Software Construction
+671,CMSC,22010,Digital Fabrication
+672,CMSC,22100,Programming Languages
+673,CMSC,22200,Computer Architecture
+674,CMSC,22300,Functional Programming
+675,CMSC,22600,Compilers for Computer Languages
+676,CMSC,23000,Operating Systems
+677,CMSC,23010,Parallel Computing
+678,CMSC,23200,Introduction to Computer Security
+679,CMSC,23210,Usable Security and Privacy
+680,CMSC,23280,Cryptocurrencies
+681,CMSC,23300,Networks and Distributed Systems
+682,CMSC,23310,Advanced Distributed Systems
+683,CMSC,23400,Mobile Computing
+684,CMSC,23500,Introduction to Database Systems
+685,CMSC,23700,Introduction to Computer Graphics
+686,CMSC,23710,Scientific Visualization
+687,CMSC,23800,Game Construction
+688,CMSC,23900,Data Visualization
+689,CMSC,25010,Artificial Intelligence
+690,CMSC,25025,Machine Learning and Large-Scale Data Analysis
+691,CMSC,25050,Computer Vision
+692,CMSC,25300,Mathematical Foundations of Machine Learning
+693,CMSC,25400,Machine Learning
+694,CMSC,27100,Discrete Mathematics
+695,CMSC,27130,Honors Discrete Mathematics
+696,CMSC,27200,Theory of Algorithms
+697,CMSC,27230,Honors Theory of Algorithms
+698,CMSC,27410,Honors Combinatorics
+699,CMSC,27500,Graph Theory
+700,CMSC,27530,Honors Graph Theory
+701,CMSC,27600,Computational Biology
+702,CMSC,27610,Digital Biology
+703,CMSC,27700,Mathematical Logic-1
+704,CMSC,27800,Mathematical Logic II
+705,CMSC,27900,"Chaos, Complexity And Computers"
+706,CMSC,28000,Introduction to Formal Languages
+707,CMSC,28100,Introduction to Complexity Theory
+708,CMSC,28130,Honors Introduction to Complexity Theory
+709,CMSC,28400,Introduction to Cryptography
+710,CMSC,28510,Introduction to Scientific Computing
+711,CMSC,28515,Introduction to Numerical Partial Differential Equations
+712,CMSC,29512,Entrepreneurship in Technology
+713,CMSC,29700,Reading and Research in Computer Science
+714,CMSC,29900,Bachelor's Thesis
+715,CRWR,10206,Beginning Fiction Workshop
+716,CRWR,10306,Beginning Poetry Workshop
+717,CRWR,10406,Beginning Nonfiction Workshop
+718,CRWR,12106,Intro to Genres: Science Fiction
+719,CRWR,12107,Reading as a Writer: Crime and Story
+720,CRWR,12109,Introduction to Genres: Wizards
+721,CRWR,12127,Reading as a Writer: Hallucinations
+722,CRWR,12128,Reading as a Writer: The Sea
+723,CRWR,17000,Fundamentals in Creative Writing: Literary Empathy
+724,CRWR,17001,Fundamentals in Creative Writing: Testimony
+725,CRWR,18200,Poetry and the Human III
+726,CRWR,20200,Technical Seminar in Fiction: Characterization
+727,CRWR,20201,"Technical Seminar in Fiction: Auto Fiction, Essayism, Truth"
+728,CRWR,20302,Technical Seminar in Poetry: Units of Composition
+729,CRWR,20401,Technical Seminar in Nonfiction: The Synecdoche
+730,CRWR,21500,Advanced Translation Workshop: Prose Style
+731,CRWR,22113,Advanced Fiction Workshop: The Love Story
+732,CRWR,22118,Advanced Fiction Workshop: Constructing a Full Length Novel
+733,CRWR,22119,Advanced Fiction Workshop: Music in Fiction and Improvised Composition
+734,CRWR,22121,Advanced Fiction Workshop: Young Adult Literature
+735,CRWR,24004,Advanced Nonfiction Workshop: Writing in Crisis
+736,CRWR,29200,Thesis/Major Projects: Fiction
+737,CRWR,29300,Thesis/Major Projects: Poetry
+738,CRWR,29400,Thesis/Major Projects: Creative Nonfiction
+739,DIGS,20001,Introduction to Computer Programming
+740,DIGS,20002,Basic Mathematics and Statistics for Digital Studies
+741,DIGS,20003,"Data Management for Linguistic, Cultural, and Historical Research"
+742,DIGS,20004,"Data Analysis for Linguistic, Cultural, and Historical Research"
+743,DIGS,20005,"Data Publication for Linguistic, Cultural, and Historical Research"
+744,DIGS,20006,Natural Language Processing
+745,DIGS,20007,"Issues in Digital Studies of Language, Culture, and History"
+746,EALC,10510,Topics in EALC: East Asian Popular Music
+747,EALC,10520,Topics in EALC: Gendered Bodies in East Asia
+748,EALC,10600,Topics in EALC: Ghosts & the Fantastic in Literature and Film
+749,EALC,10603,Topics in EALC: The Chinese Classics
+750,EALC,10704,Topics in EALC: The Modern Short Story in East Asia
+751,EALC,10705,Topics in EALC: Imagining Environment
+752,EALC,10710,Topics in EALC: Intertwined Literatures of Postwar Asia
+753,EALC,22235,Revolutionary Romance in Socialist China
+754,EALC,22451,"Social and Economic Institutions of Chinese Socialism, 1949 to 1980"
+755,EALC,23001,Censorship in East Asia: The Case of Colonial Korea
+756,EALC,24201,China's Eco-Environmental Challenges and Society's Responses
+757,EALC,24202,"Citizenship in China: Concepts, Practices, Dynamics"
+758,EALC,24411,The Science of Literature
+759,EALC,24626,"Japanese Cultures of the Cold War: Literature, Film, Music"
+760,EALC,25600,Gender and Modernity in Colonial Korea
+761,EALC,26800,"Korean Literature, Foreign Criticism"
+762,EALC,27501,The Worlds of Honglou meng (Dream of the Red Chamber): Traditional Chinese Novel & Literary Culture
+763,EALC,28010,"Archaeology of Anyang: Bronzes, Inscriptions, and World Heritage"
+764,EALC,28015,Archaeology of Bronze Age China
+765,EALC,29500,Senior Thesis Tutorial I
+766,EALC,29600,Senior Thesis Tutorial II
+767,EALC,29700,Senior Thesis Tutorial III
+768,CHIN,10100,Elementary Modern Chinese I
+769,CHIN,10200,Elementary Modern Chinese II
+770,CHIN,10300,Elementary Modern Chinese III
+771,CHIN,10123,Summer Intensive Introductory Chinese
+772,CHIN,11100,First-Year Chinese for Bilingual Speakers I
+773,CHIN,11200,First-Year Chinese for Bilingual Speakers II
+774,CHIN,11300,First -Yr. Chinese for Bilinqual Speakers II
+775,CHIN,15000,Chinese in Beijing
+776,CHIN,15001,Elementary Chinese in Beijing
+777,CHIN,15003,Intermediate Chinese in Beijing
+778,CHIN,15005,Advanced Chinese in Beijing
+779,CHIN,15007,Elementary Chinese in Hong Kong
+780,CHIN,15011,Advanced Chinese in Hong Kong
+781,CHIN,20100,Intermediate Modern Chinese I
+782,CHIN,20200,Intermediate Modern Chinese II
+783,CHIN,20300,Intermediate Modern Chinese III
+784,CHIN,20401,Advanced Modern Chinese-1
+785,CHIN,20402,Advanced Modern Chinese-2
+786,CHIN,20403,Advanced Modern Chinese-III
+787,CHIN,20501,Fourth-Year Modern Chinese-I
+788,CHIN,20502,Fourth-Year Modern Chinese-II
+789,CHIN,20503,Fourth-Year Modern Chinese-3
+790,CHIN,20508,Readings in Literary Chinese I
+791,CHIN,20509,Readings In Literary Chinese-2
+792,CHIN,20510,Readings in Literary Chinese III
+793,CHIN,20800,Elementary Literary Chinese I
+794,CHIN,20900,Elementary Literary Chinese II
+795,CHIN,21000,Elementary Literary Chinese III
+796,CHIN,22110,Second-Year Chinese for Bilingual Speakers I
+797,CHIN,23110,Third-Year Chinese for Bilingual Speakers I
+798,CHIN,31100,Business Chinese I
+799,CHIN,31200,Business Chinese II
+800,CHIN,31300,Business Chinese III
+801,JAPN,10100,Elementary Modern Japanese-1
+802,JAPN,10200,Elementary Modern Japanese II
+803,JAPN,10300,Elementary Modern Japanese-III
+804,JAPN,20100,Intermediate Modern Japanese I
+805,JAPN,20200,Intermediate Modern Japanese II
+806,JAPN,20300,Intermediate Modern Japanese III
+807,JAPN,20401,Advanced Modern Japanese-1
+808,JAPN,20402,Advanced Modern Japanese II
+809,JAPN,20403,Advanced Modern Japanese III
+810,JAPN,20600,4th Year Modern Japanese-2
+811,JAPN,21200,Intermediate Modern Japanese Through Japanimation I
+812,JAPN,21300,Intermediate Modern Japanese through Japanimation II
+813,JAPN,24900,Pre-Modern Japanese: Kindai Bungo I
+814,KORE,10100,Introduction to the Korean Language I
+815,KORE,10200,Introduction to the Korean Language II
+816,KORE,10300,Introduction to the Korean Language III
+817,KORE,20100,Intermediate Korean I
+818,KORE,20200,Intermediate Korean-2
+819,KORE,20300,Intermediate Korean III
+820,KORE,20401,Advanced Korean I
+821,KORE,20402,Advanced Korean-2
+822,KORE,20403,Advanced Korean-3
+823,KORE,21100,Fourth Year Korean I
+824,KORE,21200,Fourth-Year Modern Korean II
+825,KORE,21300,Fourth-Year Modern Korean III
+826,ECON,10000,Principles of Microeconomics
+827,ECON,10200,Principles of Macroeconomics
+828,ECON,11020,Introduction to Econometrics
+829,ECON,12210,"Economic History II: The Early Modern World, circa 1300-1800"
+830,ECON,12220,Economic History III: The Global Economy from Great Depression to Great Recession
+831,ECON,13000,Introduction to Money and Banking
+832,ECON,14810,Evolution and Economics of Human Behavior
+833,ECON,19000,Economics for Everyone
+834,ECON,19100,Economics for Everyone: Macro
+835,ECON,19800,Introduction to Microeconomics
+836,ECON,19900,Intro To Macroeconomics
+837,ECON,20000,The Elements of Economic Analysis I
+838,ECON,20100,The Elements of Economic Analysis II
+839,ECON,20200,The Elements of Economic Analysis III
+840,ECON,20300,Elements of Economic Analysis IV
+841,ECON,20010,The Elements of Economic Analysis I Honors
+842,ECON,20110,The Elements of Economic Analysis II Honors
+843,ECON,20210,The Elements of Economic Analysis III Honors
+844,ECON,20520,Formal Models of Political Economics
+845,ECON,20700,Game Theory and Economic Applications
+846,ECON,20770,Decision and Strategy
+847,ECON,20780,Decision and Strategy II
+848,ECON,20800,Theory of Auctions
+849,ECON,21010,Statistical Methods in Economics
+850,ECON,21020,Econometrics
+851,ECON,21030,Econometrics - Honors
+852,ECON,21110,Applied Microeconometrics
+853,ECON,21130,Topics in Microeconometrics
+854,ECON,21150,Topics in Applied Econometrics
+855,ECON,21300,Data Construction and Interpretation in Economic Applications
+856,ECON,21320,Applications of Econometric and Data Science Methods
+857,ECON,21330,Econometrics and Machine Learning
+858,ECON,21410,Computational Methods in Economics
+859,ECON,21730,Applied Behavioral Economics
+860,ECON,21800,Experimental Economics
+861,ECON,21830,Social Neuroscience
+862,ECON,22200,Topics in American Economic History
+863,ECON,22410,UChicago Economics: The People and the Seminal Ideas
+864,ECON,22600,Innovators
+865,ECON,22650,Creativity
+866,ECON,23000,Money and Banking
+867,ECON,23040,Cryptocurrencies
+868,ECON,23200,Topics in Macroeconomics
+869,ECON,23230,Macroeconomic Crises
+870,ECON,23330,Introduction to Dynamic Economic Modeling
+871,ECON,23410,Economic Growth
+872,ECON,23950,Economic Policy Analysis
+873,ECON,24000,Labor Economics
+874,ECON,24450,"Inequality and the Social Safety Net: Theory, Empirics, and Policies"
+875,ECON,24720,"Inequality: Origins, Dimensions, and Policy"
+876,ECON,25000,Introduction To Finance
+877,ECON,25100,Financial Economic
+878,ECON,25130,Behavioral Finance
+879,ECON,25710,China's Economic Development & Transition
+880,ECON,26010,Public Finance
+881,ECON,26020,Public Sector Economics
+882,ECON,26500,Environmental Economics
+883,ECON,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+884,ECON,26540,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+885,ECON,26700,Economics of Education
+886,ECON,26800,Energy and Energy Policy
+887,ECON,26920,Behavioral Economics and Policy
+888,ECON,27000,International Economics
+889,ECON,27700,Health Economics and Public Policy
+890,ECON,27720,Economics and Regulation of Health Care Markets: Theory and Empirics
+891,ECON,28060,The Economics of Organizations: An Experimental Perspective
+892,ECON,28100,The Economics of Sports
+893,ECON,28600,Economic Analysis of Law
+894,ECON,28620,Crony Capitalism
+895,ECON,28700,The Economics of Crime
+896,ECON,29700,Undergrad Rdg/Rsch: Economics
+897,ECON,29800,Undergraduate Honors Workshop
+898,BUSN,20100,Financial Accounting
+899,BUSN,20101,Managerial Accounting
+900,BUSN,20150,Financial Statement Analysis
+901,BUSN,20330,Building the New Venture
+902,BUSN,20340,Developing a New Venture
+903,BUSN,20160,Accounting for Entrepreneurship
+904,BUSN,20410,Corporation Finance
+905,BUSN,20400,Investments
+906,BUSN,20702,Managerial Decision Making
+907,BUSN,20710,Behavioral Economics
+908,BUSN,20701,Managing in Organizations
+909,BUSN,20600,Marketing Management
+910,BUSN,20610,Pricing Strategy
+911,BUSN,20620,Data Science for Marketing
+912,BUSN,20500,Operations Management
+913,BUSN,20510,Managerial Decision Modeling
+914,BUSN,20800,Big Data
+915,BUSN,20810,Machine Learning
+916,BUSN,20820,Financial Econometrics
+917,BUSN,20900,Competitive Strategy
+918,BUSN,20230,International Financial Policy
+919,ENGL,10400,Introduction to Poetry
+920,ENGL,10600,Introduction to Drama
+921,ENGL,10640,Introduction to Victorian Literature: Men and Women
+922,ENGL,10703,20th-Century American Short Fiction
+923,ENGL,10706,Introduction to Fiction
+924,ENGL,10800,Introduction to Film Analysis
+925,ENGL,10860,Introduction to Modernism
+926,ENGL,11004,History of the Novel
+927,ENGL,12300,Poetry And Being
+928,ENGL,12320,Critical Videogame Studies
+929,ENGL,12520,"Climate Change in Literature, Art, and Film"
+930,ENGL,12720,"Inventing Consciousness: Literature, Philosophy, Psychology"
+931,ENGL,12800,Theories of Media
+932,ENGL,13000,Academic and Professional Writing (The Little Red Schoolhouse
+933,ENGL,13720,Thinking with Race in Medieval England
+934,ENGL,15107,Some Versions of Apocalypse
+935,ENGL,15500,Chaucer: The Canterbury Tales
+936,ENGL,15806,Multilingual Literatures of Early Medieval Britain
+937,ENGL,16600,Shakespeare II: Tragedies and Romances
+938,ENGL,17501,Milton
+939,ENGL,17950,The Declaration of Independence
+940,ENGL,18500,American Horrors
+941,ENGL,18700,"Sexual Violence in America: Theory, Literature, and Activism"
+942,ENGL,19700,"Image, Text, Archive"
+943,ENGL,19800,"The Unincorporated: Modernism, Geography, and Race"
+944,CMLT,20109,Comparative Methods in the Humanities
+945,ENGL,20148,London Program: English Renaissance Verse and the Poetics of Place
+946,ENGL,20149,London Program: Literature and the Environment in Eighteenth-Century Britain
+947,ENGL,20150,London Program: Pagan London
+948,ENGL,20151,London from the Outside-In
+949,ENGL,20562,Freedom and Fate in the Renaissance
+950,ENGL,22110,Excrement and Ecstasy: The Devotional Body in Early Modern Literature
+951,ENGL,22130,Making Scents: A Literary History of Smell
+952,ENGL,22150,Luxury and Global Modernism
+953,ENGL,23170,The Beast Fable from Aesop to Zootopia
+954,ENGL,23190,Eco-consciousness: Climates and Ecologies of Eighteenth-Century Literature
+955,ENGL,23400,Virginia Woolf
+956,ENGL,23808,Sonnets from Wyatt to Yeats and Beyond
+957,ENGL,24102,The Idiot as Hero
+958,ENGL,24150,Melodrama and Film
+959,ENGL,24170,The Arts of Civil War
+960,ENGL,24400,Brecht and Beyond
+961,ENGL,25130,Ethnic Minority Poetry in the US
+962,ENGL,25150,Pop Psychology
+963,ENGL,25804,Signs of the Americas
+964,ENGL,25970,Alternate Reality Games: Theory and Production
+965,ENGL,26170,"London Underground: Environment, Industry, and the Making of the English Working Class"
+966,ENGL,26300,"The Literature of Disgust, Rabelais to Nausea"
+967,ENGL,27003,Woman/Native
+968,ENGL,27600,Cinema in Africa
+969,ENGL,28200,Narrating Migration
+970,ENGL,28404,Introduction to Old English
+971,ENGL,28505,Beowulf
+972,ENGL,28650,Outsider Writing
+973,ENGL,29505,"Joan Didion: Reporter, Novelist, Essayist, Memoirist"
+974,ENGL,29705,Incarcerated Life
+975,ENSC,13300,The Atmosphere
+976,ENSC,13400,Global Warming: Understanding the Forecast
+977,ENSC,20209,"An Environmental History of Africa, 1800-2016"
+978,ENSC,21100,"Energy: Science, Technology, and Human Usage"
+979,ENSC,23800,Global Biogeochemical Cycles
+980,ENSC,23820,Biogeochemical Analysis in Terrestrial and Aquatic Ecosystems  Marine Biological Laboratory
+981,ENSC,23900,Environmental Chemistry
+982,ENSC,24000,Geobiology
+983,ENSC,24100,Ecology - Marine Biological Laboratory
+984,ENSC,24200,Methods in Microbial Ecology - Marine Biological Laboratory
+985,ENSC,24300,Roles of Animals in Ecosystems  Marine Biological Laboratory
+986,ENSC,24400,Ecology and Conservation
+987,ENSC,24500,Environmental Microbiology
+988,ENSC,28100,Quantitative Environmental Analyses  Marine Biological Laboratory
+989,ENSC,29002,Field Course in Modern and Ancient Environments
+990,ENSC,29700,Reading and Research in Environmental Science. 3
+991,ENSC,29800,Independent Undergraduate Research in Environmental Sciences  Marine Biological Laboratory
+992,ENST,10001,Getting to Green: The Business Case for Sustainability
+993,ENST,10010,Architecture and Urban Design Towards Sustainable Cities
+994,ENST,12100,Chemistry & The Atmosphere
+995,ENST,12300,Global Warming: Understanding the Forecast
+996,ENST,12402,Life Through a Genomic Lens
+997,ENST,12520,"Climate Change in Literature, Art, and Film"
+998,ENST,13300,The Atmosphere
+999,ENST,20540,The Chicago Climate Change & Culture Institute-I
+1000,ENST,20805,Cities and Urban Space in the Ancient World
+1001,ENST,21201,Human Impact on the Environment
+1002,ENST,21301,Making the Natural World: Foundations of Human Ecology
+1003,ENST,21440,(Re)constructing Nature: Restoration Ecology in a Time of Climate Change
+1004,ENST,21500,Environmental Justice
+1005,ENST,22209,Philosophies of Environmentalism and Sustainability
+1006,ENST,22300,South Side Ecologies
+1007,ENST,22506,The Natures of the Factory Farm
+1008,ENST,22610,Paris and the French Revolution
+1009,ENST,22708,"Planetary Britain, 1600-1900"
+1010,ENST,23100,Environmental Law
+1011,ENST,23190,Eco-consciousness: Climates and Ecologies of Eighteenth-Century Literature
+1012,ENST,23289,Marine Ecology
+1013,ENST,23505,Environmental Ethics
+1014,ENST,23550,Urban Ecology and the Nature of Cities
+1015,ENST,23640,Fruited Plains and Scarred Mountains: The Environmental History of Work in the United States
+1016,ENST,23650,Revolutionizing Agriculture: Early Modern Technologies for the New Millennium
+1017,ENST,23900,Environmental Chemistry
+1018,ENST,24102,Environmental Politics
+1019,ENST,24190,Imagining Chicago's Common Buildings
+1020,ENST,24201,China's Eco-Environmental Challenges and Society's Responses
+1021,ENST,24600,Introduction to Urban Sciences
+1022,ENST,24660,Urban Geography
+1023,ENST,24680,Introduction to Urban Planning
+1024,ENST,24701,U.S. Environmental Policy
+1025,ENST,24705,"Energy: Science, Technology, and Human Usage"
+1026,ENST,24756,Exploring the Resilient City
+1027,ENST,24800,Complex Problem: World Hunger
+1028,ENST,25006,How Things Get Done in Cities and Why
+1029,ENST,25014,Introduction to Environmental History
+1030,ENST,25114,"Natural History and Empire, circa 1500-1800"
+1031,ENST,25115,Francis Bacon's Philosophy of Nature
+1032,ENST,25116,"Utopia, Dystopia, and the Apocalypse in Western Culture"
+1033,ENST,25117,Natural History of Humans/Human History of Nature
+1034,ENST,25460,Environmental Effects on Human Health
+1035,ENST,25500,Biogeography
+1036,ENST,25900,Cultural Geography
+1037,ENST,26100,Roots of the Modern American City
+1038,ENST,26433,Practicum in Environmental Management
+1039,ENST,26444,Practicum in Campus Athletics and Environment
+1040,ENST,26500,Environmental Economics
+1041,ENST,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+1042,ENST,26531,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+1043,ENST,27100,Integrative Research Seminar: Calumet
+1044,ENST,27201,Food Security and Agriculture: Calumet
+1045,ENST,27220,Environmental Management and Planning in the Calumet Region
+1046,ENST,27301,Restoration Ecology
+1047,ENST,27320,Topics in the Ecology of the Calumet Region
+1048,ENST,27120,Historical Ecology of the Calumet Region
+1049,ENST,27125,Voices of Alterity and the Languages of Immigration
+1050,ENST,27150,Urban Design with Nature: Assessing Social and Natural Realms in the Calumet Region
+1051,ENST,27155,Urban Design with Nature
+1052,ENST,27200,The Calumet Experience
+1053,ENST,27210,Approaches to the Second City: Materials and Methods
+1054,ENST,27221,Sustainable Urbanism
+1055,ENST,27300,Freshwater Ecosystems of the Calumet Region
+1056,ENST,27325,Urban Ecology in the Calumet Region
+1057,ENST,27330,Spaces of Hope: The City and Its Immigrants
+1058,ENST,27400,Epidemiology and Population Health
+1059,ENST,27420,"Urban Gardens: Therapeutic, Educational, and Community Building Practicum"
+1060,ENST,28601,Ideas of Nature I
+1061,ENST,28800,Readings in Spatial Analysis
+1062,ENST,28900,Environmental and Science Policy
+1063,ENST,28980,Readings in Urban Planning and Design
+1064,ENST,29000,Energy and Energy Policy
+1065,ENST,29525,The Global Life of Things
+1066,ENST,29700,Reading and Research
+1067,ENST,29701,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF"
+1068,ENST,29720,Reading and Research: Calumet
+1069,ENST,29801,BA Colloquium I
+1070,ENST,29802,BA Colloquium II
+1071,ENST,29900,B. A. Thesis (Reading and Research
+1072,FNDL,20200,Dostoevsky's Brothers Karamazov
+1073,FNDL,29901,Independent Study: Junior Paper
+1074,FNDL,29902,Independent Study: Senior Examination
+1075,FNDL,20200,Dostoevsky's Brothers Karamazov
+1076,FNDL,21908,Aristotle's Nicomachean Ethics
+1077,FNDL,22001,Foucault and The History of Sexuality
+1078,FNDL,23008,"Montesquieu's ""The Spirit of the Laws"
+1079,FNDL,24500,The Ethics of War: Reading Just and Unjust Wars: A Moral Argument with Historical Illustrations
+1080,FNDL,21404,Shakespeare II: Tragedies and Romances
+1081,FNDL,21804,Dante's Divine Comedy-3: Paradiso
+1082,FNDL,24011,Virginia Woolf
+1083,FNDL,24718,Longinus' On the Sublime
+1084,FNDL,24918,Early Traveling Writing: Pausanias in Roman Greece
+1085,FNDL,25700,Chaucer: The Canterbury Tales
+1086,FNDL,27301,Weimar Political Theology: Schmitt and Strauss
+1087,FNDL,27950,The Declaration of Independence
+1088,FNDL,28401,Pasolini
+1089,FNDL,21300,James Joyce: Ulysses
+1090,FNDL,21403,Shakespeare I: Histories and Comedies
+1091,FNDL,23405,Boethius: Consolation of Philosophy
+1092,FNDL,25220,Pour une sociologie de Rabelais
+1093,FNDL,25311,Pale Fire
+1094,FNDL,25331,Beauvoir: The Second Sex
+1095,FNDL,28102,Machiavelli's Political Thought
+1096,GNSE,10310,Theories of Gender and Sexuality
+1097,GNSE,11005,Problems in the Study of Gender and Sexuality: Media Wars
+1098,GNSE,11008,Problems in the Study of Gender and Sexuality: Gender and Religion
+1099,GNSE,11009,Problems in the Study of Gender and Sexuality: The Big Issues
+1100,GNSE,15002,Gender and Sexuality in World Civilizations I
+1101,GNSE,15003,Gender and Sexuality in World Civilizations II
+1102,GNSE,17001,Introduction to Women and Gender in the Ancient World
+1103,GNSE,18500,American Horrors
+1104,GNSE,20036,Making Sex and Race on the Renaissance Stage
+1105,GNSE,20072,Frankenstein at 200: Hideous Progeny
+1106,GNSE,20111,History of Death
+1107,GNSE,21001,Cultural Psychology
+1108,GNSE,21112,"Nudes, Princesses and Cyborgs : Gender, Violence, and Biblical Fiction"
+1109,GNSE,21310,"Our biopolitics, ourselves: feminist science fiction"
+1110,GNSE,21400,Advanced Theories of Gender and Sexuality
+1111,GNSE,21416,Reproduction and Motherhood in Multimedia (1800-present
+1112,GNSE,21505,"Sex, Gender and War"
+1113,GNSE,21601,Introduction to Political Philosophy
+1114,GNSE,22110,Excrement and Ecstasy: The Devotional Body in Early Modern Literature
+1115,GNSE,22204,Philosophies of Environmentalism and Sustainability
+1116,GNSE,23002,"Workshop: Regulation of Family, Sex, and Gender"
+1117,GNSE,23100,Foucault and The History of Sexuality
+1118,GNSE,23118,Gender and Sexuality in Jewish Society: Early Modernity through the Present
+1119,GNSE,23119,Transnational Queer Politics and Practices
+1120,GNSE,23120,Topics in Feminism and Psychoanalysis
+1121,GNSE,23121,The Politics of Life Itself
+1122,GNSE,23122,Taboo and Transgression
+1123,GNSE,23400,Virginia Woolf
+1124,GNSE,25302,Beauvoir: The Second Sex
+1125,GNSE,25600,Gender and Modernity in Colonial Korea
+1126,GNSE,27013,Woman/Native
+1127,GNSE,27100,Sociology of Human Sexuality
+1128,GNSE,28110,Queer Jewish Literature
+1129,GNSE,28202,United States Latinos: Origins and Histories
+1130,GNSE,28401,Gender in the Classroom
+1131,GNSE,28600,Pasolini
+1132,GNSE,29700,Readings in Gender Studies
+1133,GNSE,29800,B.A. Paper Seminar
+1134,GNSE,29900,BA Essay
+1135,GEOG,20100,Cultural Geography
+1136,GEOG,20273,Urban Spatial Archaeology I
+1137,GEOG,20274,Urban Spatial Archaeology II
+1138,GEOG,20500,Introduction to Spatial Data Science
+1139,GEOG,21900,Historical Geography of the United States
+1140,GEOG,22101,Changing America in the Last 100 Years
+1141,GEOG,22700,Urban Structure and Process
+1142,GEOG,23003,"Urban Europe, 1600-present"
+1143,GEOG,23500,Urban Geography
+1144,GEOG,23700,Geographical Issues in Housing and Community Development
+1145,GEOG,24100,Urban Design: The Chicago Experience
+1146,GEOG,24190,Imagining Chicago's Common Buildings
+1147,GEOG,24600,Introduction to Urban Sciences
+1148,GEOG,24700,Introduction to Urban Planning
+1149,GEOG,25400,Ancient Landscapes I
+1150,GEOG,25800,Ancient Landscapes II
+1151,GEOG,25500,Biogeography
+1152,GEOG,25900,Introduction to Location Analysis
+1153,GEOG,26100,Roots of the Modern American City
+1154,GEOG,26400,Frontiers and Borders in South Asia
+1155,GEOG,27155,Urban Design with Nature
+1156,GEOG,27325,Urban Ecology in the Calumet Region
+1157,GEOG,27600,Hist Coll: Chicago South Side
+1158,GEOG,27601,Colloquium: Hyde Park and Chicago's South Side as Historic Laboratory
+1159,GEOG,28000,GIScience Practicum
+1160,GEOG,28202,Geographic Information Science I
+1161,GEOG,28402,Geographic Information Science II
+1162,GEOG,28602,Geographic Information Science III
+1163,GEOG,28700,Readings in Spatial Analysis
+1164,GEOG,28702,Introduction to GIS and Spatial Analysis for Social Scientists
+1165,GEOG,28800,History of Cartography
+1166,GEOG,28900,Readings in Urban Planning and Design
+1167,GEOG,29100,Undergraduate Tutorial
+1168,GEOG,29700,Readings in Special Topics in Geography
+1169,GEOG,29800,Senior Seminar
+1170,GEOS,13100,Physical Geology
+1171,GEOS,13200,Earth History
+1172,GEOS,13300,The Atmosphere
+1173,GEOS,13400,Global Warming: Understanding the Forecast
+1174,GEOS,13606,"Natural Disasters: Science, Statistics, and Minimizing Risk"
+1175,GEOS,13900,Biological Evolution
+1176,GEOS,21000,Mineralogy
+1177,GEOS,21005,Mineral Science
+1178,GEOS,21100,Introduction to Petrology
+1179,GEOS,21200,Physics of the Earth
+1180,GEOS,21205,"Introduction to Seismology, Earthquakes, and Near-Surface Earth Seismicity"
+1181,GEOS,21400,Thermodynamics and Phase Change
+1182,GEOS,22040,Formation of Planetary Syst. in our Galaxy: From Dust to Planetesimals
+1183,GEOS,22050,Formation of Planetary Systems in our Galaxy: From Planetesimals to Planets
+1184,GEOS,22060,What Makes a Planet Habitable
+1185,GEOS,22200,Geochronology
+1186,GEOS,22600,Topics in Earth Science: The Accretion of Extraterrestrial Matter Throughout Earth's History
+1187,GEOS,22700,Analytical Techniques in Geochemistry
+1188,GEOS,23205,Introductory Glaciology
+1189,GEOS,23800,Global Biogeochemical Cycles
+1190,GEOS,23900,Environmental Chemistry
+1191,GEOS,24200,Fundamentals of Geophysical Fluid Dynamics
+1192,GEOS,24220,Climate Foundations
+1193,GEOS,24230,Geophysical Fluid Dynamics: Foundations
+1194,GEOS,24240,Geophysical Fluid Dynamics: Rotation and Stratification
+1195,GEOS,24250,Geophysical Fluid Dynamics: Understanding the Motions of the Atmosphere and Oceans
+1196,GEOS,24260,Radiation
+1197,GEOS,24705,"Energy: Science, Technology, and Human Usage"
+1198,GEOS,24750,"Earth and Human System Science: Food, Energy, and Water Cycles"
+1199,GEOS,25400,Intro to Numerical Techniques for Geophysical Sciences
+1200,GEOS,26100,Phylogenetics and the Fossil Record
+1201,GEOS,26300,Invertebrate Paleobiology and Evolution
+1202,GEOS,26600,Geobiology
+1203,GEOS,26650,Environmental Microbiology
+1204,GEOS,26905,Topics in Conservation Paleobiology
+1205,GEOS,27100,Biological Evolution and the History of Life
+1206,GEOS,28000,Intro To Structural Geology
+1207,GEOS,28100,Global Tectonics
+1208,GEOS,28300,Principles of Stratigraphy
+1209,GEOS,28600,Earth and Planetary Surface Processes
+1210,GEOS,29001,Field Course in Geology
+1211,GEOS,29002,Field Course in Modern and Ancient Environments
+1212,GEOS,29003,Field Course in Oceanography
+1213,GEOS,29700,Reading and Research in the Geophysical Sciences
+1214,GRMN,10100,Elementary German For Beginners-1
+1215,GRMN,10200,Elementary German For Beginners-2
+1216,GRMN,10300,Elementary German For Beginners-3
+1217,GRMN,10201,Elementary German 2
+1218,GRMN,12001,Intensive German I
+1219,GRMN,12002,Intensive German II
+1220,GRMN,12003,Intensive German III
+1221,GRMN,13100,Reading German
+1222,GRMN,20100,Deutsche Märchen
+1223,GRMN,20200,Deutsch-Amerikanische Themen
+1224,GRMN,20300,Kurzprosa aus dem 20. Jahrhundert
+1225,GRMN,21103,Erzaehlen
+1226,GRMN,21303,Gedichte
+1227,GRMN,21403,Philosophie
+1228,GRMN,21503,Film
+1229,GRMN,21603,Drama
+1230,GRMN,21703,Medien und Gesellschaft
+1231,GRMN,21203,Drama und Film
+1232,GRMN,22312,Reforming Religious Media: Martin Luther and the Protestant Reformation
+1233,GRMN,23715,Berlin in Fragments
+1234,GRMN,25005,The Pleasure of Literature: The Novella
+1235,GRMN,25019,The Letter in and as Literature
+1236,GRMN,25519,Gender and Language
+1237,GRMN,28150,Pragmatist Aesthetics
+1238,GRMN,28500,Comparative Fairy Tales
+1239,GRMN,29700,Reading and Research Course in German
+1240,GRMN,29900,BA Paper
+1241,GRMN,25005,The Pleasure of Literature: The Novella
+1242,NORW,10100,First Year Norwegian - I
+1243,NORW,10200,Elementary Norwegian-2
+1244,NORW,10300,First-Year Norwegian III
+1245,NORW,10400,Intermediate Norwegian I: Introduction to Literature
+1246,NORW,10500,Intermediate Norwegian II
+1247,NORW,29700,Reading and Research Course in Norwegian
+1248,YDDH,10100,Elementary Yiddish I
+1249,YDDH,10200,Elementary Yiddish for Beginners-II
+1250,YDDH,10300,Elementary Yiddish III
+1251,YDDH,22000,Yiddish Literature in America
+1252,YDDH,23333,Yiddish for Reading and Research
+1253,GLST,23101,Global Studies I
+1254,GLST,23102,Global Studies II
+1255,GLST,23403,"Borders, (Im)mobilities and Human Rights"
+1256,GLST,23406,Migration Trajectories: Ethnographies of Place and the Production of Diasporas
+1257,GLST,24110,"In the Beginning"": Origin Stories in Science and Religion"
+1258,GLST,24111,Medical Knowledge in the Islamicate World
+1259,GLST,24112,Taste and Technoscience
+1260,GLST,25310,"Extinction, Disaster, Dystopia: Environment and Ecology in the Indian Subcontinent"
+1261,GLST,26804,Frontiers and Borders in South Asia
+1262,GLST,27702,About Nature: From Science to Sense
+1263,GLST,27703,Earthbound Metaphysics: Speculations on Earths and Heavens
+1264,GLST,29524,Approaches to World History
+1265,GLST,29525,The Global Life of Things
+1266,GLST,29610,Cultures and Politics of Water
+1267,GLST,29700,Reading/Research: Global Studies
+1268,GLST,29800,BA Thesis Seminar I
+1269,GLST,29801,BA Thesis Seminar II
+1270,GLST,29900,BA Thesis: Global Studies
+1271,HIST,10101,Introduction to African Civilization I
+1272,HIST,10102,Introduction to African Civilization II
+1273,HIST,10103,Introduction to African Civilization III
+1274,HIST,10800,Introduction to the Civilizations of South Asia I
+1275,HIST,10900,Introduction to the Civilizations of South Asia II
+1276,HIST,12001,Medieval History: Theories & Methods
+1277,HIST,12203,"Italian Renaissance: Dante, Machiavelli, and the Wars of Popes and Kings"
+1278,HIST,12700,Music In Western Civilization I: To 1750
+1279,HIST,12800,Music In Western Civ II
+1280,HIST,13001,History of European Civilization I
+1281,HIST,13002,History of European Civilization II
+1282,HIST,13003,History of European Civilization III
+1283,HIST,13100,Western Civilization-1
+1284,HIST,13200,Western Civilization-2
+1285,HIST,13300,History of Western Civilization III
+1286,HIST,13500,America In World Civilization I
+1287,HIST,13600,America in World Civilization II
+1288,HIST,13700,America in World Civilization-III
+1289,HIST,13803,The Soviet Union
+1290,HIST,13900,Intro to Russian Civilization-1
+1291,HIST,14000,Intro Russian Civilization-2
+1292,HIST,14204,History of the Present
+1293,HIST,14701,Human Rights in Chinese History
+1294,HIST,15100,Intro To East Asian Civilization I
+1295,HIST,15200,Intro to East Asian Civilization II
+1296,HIST,15300,Intro to East Asian Civilization III
+1297,HIST,15602,Ancient Empires I
+1298,HIST,15603,Ancient Empires-II
+1299,HIST,15604,Ancient Empires-3
+1300,HIST,16101,Introduction to Latin American Civilization I
+1301,HIST,16102,Introduction to Latin American Civilization II
+1302,HIST,16103,Introduction to Latin American Civilization III
+1303,HIST,16700,Anc Mediterr World-1: Greece
+1304,HIST,16800,Anc Mediterr World-2: Rome
+1305,HIST,16900,Ancient Mediterranean World III
+1306,HIST,17300,"Science, Culture, and Society in Western Civilization I"
+1307,HIST,17400,"Science, Culture, and Society in Western Civilization II"
+1308,HIST,17402,"Science, Culture, and Society in Western Civilization II: History of Medicine I"
+1309,HIST,17403,"Science, Culture, and Society in Western Civilization II: Early Modern Period"
+1310,HIST,17500,Sci/Culture/Society In W Civ-3
+1311,HIST,17501,"Science, Culture, and Society in Western Civilization III"
+1312,HIST,17502,"Science, Culture, and Society in Western Civilization III"
+1313,HIST,17503,Sci/Cult/Soc in Western Civilization III - The History of Medicine Part II: 1900 -Present
+1314,HIST,17504,"Science, Culture, and Society in Western Civilization III: The Environment"
+1315,HIST,17704,The Old History of Capitalism
+1316,HIST,17805,America in the Twentieth Century
+1317,HIST,18101,Democracy in America
+1318,HIST,18301,Colonizations I
+1319,HIST,18302,Colonizations II
+1320,HIST,18303,Colonizations III
+1321,HIST,18702,"Race, Politics, and Sports in the United States"
+1322,HIST,19402,"Economic History II: The Early Modern World, circa 1300-1800"
+1323,HIST,20110,Trans-Saharan Africa
+1324,HIST,20111,History of Death
+1325,HIST,20210,History Lab: Migration and Mobility in Human History
+1326,HIST,21006,The Present Past in Greece Since 1769
+1327,HIST,21903,Medieval Christian Mythology
+1328,HIST,22102,Medieval Travelers
+1329,HIST,22203,"The Holy Roman Empire, 800-1500"
+1330,HIST,22610,Paris and the French Revolution
+1331,HIST,23008,"Montesquieu's ""The Spirit of the Laws"
+1332,HIST,23306,"Europe, 1914 to Present"
+1333,HIST,23610,"Modern German History I, 1740-1866"
+1334,HIST,23611,"Modern German History II, 1866-Present"
+1335,HIST,24310,China: Rise or Return? Historical Perspectives on Chinese Culture
+1336,HIST,24500,Reading Qing Documents
+1337,HIST,24612,"Chinese Frontier History, circa 1600-Present"
+1338,HIST,24803,Histories in Japan
+1339,HIST,25308,"Lab, Field, and Clinic: History and Anthropology of Medicine and the Life Sciences"
+1340,HIST,25425,"Censorship, Info Control, & Revolutions in Info Technology from the Printing Press to the Internet"
+1341,HIST,25704,Islamic History and Society I: The Rise of Islam and the Caliphate
+1342,HIST,25804,Islamic History and Society II: The Middle Period
+1343,HIST,25904,Islamic History and Society III:The Modern Middle East
+1344,HIST,26129,Paris Noir: African American Refuge in the City of Light
+1345,HIST,26515,Political and Cultural History of Modern Mexico
+1346,HIST,26516,"The United States and Latin America, a History from 1840s to Trump"
+1347,HIST,27006,Not Just the Facts: Telling About the American South
+1348,HIST,27508,Conspiracy Theory in American History
+1349,HIST,28000,United States Latinos: Origins and Histories
+1350,HIST,28607,"War, Diplomacy, and Empire in US History"
+1351,HIST,29000,"Latin American Religions, New and Old"
+1352,HIST,29324,Slavery and Capitalism
+1353,HIST,29325,A Transnational History of Reparative Justice
+1354,HIST,29412,The Face in Western Culture from the Mona Lisa to the Selfie
+1355,HIST,29413,The Politics of Memory in Modern France
+1356,HIST,29522,"Europe's Intellectual Transformations, Renaissance through Enlightenment"
+1357,HIST,29525,The Global Life of Things
+1358,HIST,29533,Economic History III: The Global Economy from Great Depression to Great Recession
+1359,HIST,29663,History Colloquium: The American Vigilante
+1360,HIST,29673,History Colloquium: The Politics of Housing
+1361,HIST,29674,History Colloquium: American Indian History
+1362,HIST,29675,History Colloquium: Urban History
+1363,HIST,29677,History Colloquium: Religion and History
+1364,HIST,29678,History Colloquium: Medicine and Society
+1365,HIST,29700,Readings in History
+1366,HIST,29801,BA Thesis Seminar I
+1367,HIST,29802,BA Thesis Seminar II
+1368,HIPS,14903,History of Information
+1369,HIPS,17300,"Science, Culture, and Society in Western Civilization I"
+1370,HIPS,17400,"Science, Culture, and Society in Western Civilization II"
+1371,HIPS,17402,"Science, Culture, and Society in Western Civilization II: History of Medicine I"
+1372,HIPS,17403,"Science, Culture, and Society in Western Civilization II: Early Modern Period"
+1373,HIPS,17500,Sci/Culture/Society In W Civ-3
+1374,HIPS,17501,"Science, Culture, and Society in Western Civilization III"
+1375,HIPS,17502,"Science, Culture, and Society in Western Civilization III"
+1376,HIPS,17503,Sci/Cult/Soc in Western Civilization III - The History of Medicine Part II: 1900 -Present
+1377,HIPS,17504,"Science, Culture, and Society in Western Civilization III: The Environment"
+1378,HIPS,20003,Discovering Anthropology: Reading Race
+1379,HIPS,20300,Scientific/Technological Change
+1380,HIPS,20401,Philosophy of Mind
+1381,HIPS,20500,Intermediate Logic
+1382,HIPS,20700,Elementary Logic
+1383,HIPS,20905,Advanced Logic
+1384,HIPS,21000,Introduction To Ethics
+1385,HIPS,21100,Celebrity and Science in Paleoanthropology
+1386,HIPS,21407,The Vocation of a Scientist
+1387,HIPS,21408,History of Medicine
+1388,HIPS,21409,History of Extraterrestrial Life
+1389,HIPS,21410,Politics of Technoscience in Africa
+1390,HIPS,21411,"Sex, Race, and Empire"
+1391,HIPS,21413,Sex and Enlightenment Science
+1392,HIPS,21414,What is Technology
+1393,HIPS,21428,Apes and Human Evolution
+1394,HIPS,21911,Medical Ethics: Who Decides and on What Basis
+1395,HIPS,22000,Intro: Philosophy of Science
+1396,HIPS,22001,Introduction to Science Studies
+1397,HIPS,22401,Darwinian Health
+1398,HIPS,22708,"Planetary Britain, 1600-1900"
+1399,HIPS,22709,"Introduction to Quantum Mechanics,Introduction to Philosophy of Quantum Mechanics"
+1400,HIPS,22800,Experiencing Madness: Empathic Methods in Cultural Psychiatry
+1401,HIPS,24300,Foucault and The History of Sexuality
+1402,HIPS,24401,Freud & Psychoan: Lec/Cse Stud
+1403,HIPS,24706,Science in the South: Decolonizing the Study of Knowledge in Latin America & the Caribbean
+1404,HIPS,25001,Kant: Critique of Pure Reason
+1405,HIPS,25014,Introduction to Environmental History
+1406,HIPS,25114,"Natural History and Empire, circa 1500-1800"
+1407,HIPS,25121,The Brazil-Argentina Nuclear Cooperation Agreement and Thermoelectric Transition in Brazil
+1408,HIPS,25205,"Computers, Minds, Intelligence & Data"
+1409,HIPS,25206,"Digital Culture: Artificial Intelligence, Algorithms, and the Web"
+1410,HIPS,25309,History of Perception
+1411,HIPS,25421,Censorship from the Inquisition to the Present
+1412,HIPS,25425,"Censorship, Info Control, & Revolutions in Info Technology from the Printing Press to the Internet"
+1413,HIPS,25600,History of Statistics
+1414,HIPS,25808,"Lab, Field, and Clinic: History and Anthropology of Medicine and the Life Sciences"
+1415,HIPS,26000,History of Philosophy II: Medieval and Early Modern Philosophy
+1416,HIPS,26121,"Nature, Science, and Empire in the Early Modern Iberian World, 1400-1800"
+1417,HIPS,26617,"Sciences as Solutions to Latin American Challenges, 1500-2000"
+1418,HIPS,27004,Babylon and the Origins of Knowledge
+1419,HIPS,27005,Secrecy and Science
+1420,HIPS,27301,Medical Anthropology
+1421,HIPS,27302,"Culture, Mental Health, and Psychiatry"
+1422,HIPS,27501,Freud: Human Dev/Personality
+1423,HIPS,27860,History of Evolutionary Behavioral Sciences
+1424,HIPS,28101,Psychoanalysis and Philosophy
+1425,HIPS,29400,Tutorial
+1426,HIPS,29500,Tut: Hist/Bio Of Emotions
+1427,HIPS,29412,The Face in Western Culture from the Mona Lisa to the Selfie
+1428,HIPS,29629,Tutorial: Romantic Bodies: Theater in the History of Science and Medicine
+1429,HIPS,29630,Tutorial: History and Philosophy of Social Science
+1430,HIPS,29631,Tutorial: History of Cryptography
+1431,HIPS,29632,Tutorial: The Poet's Scientist: A pre-disciplinary course in science & literature
+1432,HIPS,29678,History Colloquium: Medicine and Society
+1433,HIPS,29700,"Readings and Research in History, Philosophy, and Social Studies of Science and Medicine"
+1434,HIPS,29800,Junior Seminar: My Favorite Readings in the History and Philosophy of Science
+1435,HIPS,29810,Bachelor's Thesis Workshop
+1436,HIPS,29900,Bachelor's Thesis
+1437,HMRT,10100,Human Rights in World Civilizations I
+1438,HMRT,10200,Human Rights in World Civilizations II
+1439,HMRT,20101,Human Rights I in Vienna: Philosophical Foundations of Human Rights
+1440,HMRT,20201,Human Rights II in Vienna: History and Theory
+1441,HMRT,20301,Human Rights III in Vienna: Contemporary Issues in Human Rights
+1442,HMRT,20200,Human Rights II: History and Theory
+1443,HMRT,21001,Human Rights: Contemporary Issues
+1444,HMRT,21002,Human Rights: Philosophical Foundations
+1445,HMRT,21400,Health and Human Rights
+1446,HMRT,24701,Human Rights: Alien and Citizen
+1447,HMRT,25210,Anthropology of Disability
+1448,HMRT,27061,United States Legal History
+1449,HMRT,27306,U.S. Women and Gender
+1450,HMRT,28310,Vulnerability and Human Rights
+1451,HMRT,29120,Poverty Law and Policy Reform
+1452,ISHU,29802,The BA Colloquium
+1453,ISHU,29900,Preparation of the BA Project
+1454,ENGL,13000,Academic and Professional Writing (The Little Red Schoolhouse
+1455,JWSC,11000,Biblical Aramaic
+1456,JWSC,11100,Old Aramaic Inscriptions
+1457,JWSC,11200,Imperial Aramaic
+1458,JWSC,12000,Jewish Civilization I: Ancient Beginnings to Early Medieval Period
+1459,JWSC,12001,Jewish Civilization II: Late Medieval to Modern Period
+1460,JWSC,20120,Introduction to the Hebrew Bible
+1461,JWSC,20121,The Bible and Archaeology
+1462,JWSC,20300,Elementary Yiddish I
+1463,JWSC,20400,Elementary Yiddish for Beginners-II
+1464,JWSC,20500,Elementary Yiddish III
+1465,JWSC,20895,The Construction of Jewish History in Israel
+1466,JWSC,21107,Rdg: Maimonides' Guide of the Perplexed
+1467,JWSC,22000,Elementary Classical Hebrew I
+1468,JWSC,22100,Elementary Classical Hebrew II
+1469,JWSC,22200,Elementary Classical Hebrew-3
+1470,JWSC,22300,Intermediate Classical Hebrew I
+1471,JWSC,22400,Intermediate Classical Hebrew II
+1472,JWSC,22500,Intermediate Classical Hebrew III
+1473,JWSC,23118,Gender and Sexuality in Jewish Society: Early Modernity through the Present
+1474,JWSC,24105,Letters to Zion
+1475,JWSC,24650,Introduction to Kabbalah
+1476,JWSC,25000,Introductory Modern Hebrew-1
+1477,JWSC,25100,Introductory Modern Hebrew-II
+1478,JWSC,25200,Introductory Modern Hebrew III
+1479,JWSC,25149,Anthropology of Israel
+1480,JWSC,26210,Oedipus in Zion: The Oedipal Figure in Modern Hebrew Literature
+1481,JWSC,27650,Yiddish Literature in America
+1482,JWSC,28110,Queer Jewish Literature
+1483,JWSC,28139,"Society, Politics and Security in Israel"
+1484,JWSC,29550,Cinema and the Holocaust
+1485,JWSC,29560,Reckoning With the Holocaust
+1486,JWSC,29700,Reading/Research: Jewish Std
+1487,JWSC,29900,BA Preparation Course
+1488,LACS,16100,Introduction to Latin American Civilization I
+1489,LACS,16200,Introduction to Latin American Civilization II
+1490,LACS,16300,Introduction to Latin American Civilization III
+1491,LACS,24512,Intermediate Haitian Kreyol I
+1492,LACS,24513,Intermediate Haitian Kreyol II
+1493,LACS,24514,Intermediate Haitian Kreyol III
+1494,LACS,24706,Science in the South: Decolonizing the Study of Knowledge in Latin America & the Caribbean
+1495,LACS,25117,"The Audience, The Archaeologist, and the Art Historian"
+1496,LACS,25118,Historical Sociology of Racism Latin America
+1497,LACS,25120,"Territorial Identities, State Formation, and the Experience of Modernity in the Modern World"
+1498,LACS,25121,The Brazil-Argentina Nuclear Cooperation Agreement and Thermoelectric Transition in Brazil
+1499,LACS,26416,Latin American Extractivisms
+1500,LACS,26417,Toxic States: Corrupted Ecologies in Latin America and the Caribbean
+1501,LACS,29700,Reading and Research in Latin American Studies
+1502,LACS,29801,BA Colloquium
+1503,LACS,29900,Prep: BA Essay
+1504,LLSO,20019,Mesopotamian Law
+1505,LLSO,21001,Human Rights: Contemporary Issues
+1506,LLSO,21002,Human Rights: Philosophical Foundations
+1507,LLSO,22401,Topics in Judicial Studies
+1508,LLSO,22403,Free Speech and the First Amendment
+1509,LLSO,22612,Introduction to Political Philosophy
+1510,LLSO,23008,"Montesquieu's ""The Spirit of the Laws"
+1511,LLSO,23100,Environmental Law
+1512,LLSO,23262,International Human Rights
+1513,LLSO,23313,Democracy and Equality
+1514,LLSO,23900,Introduction to Constitutional Law
+1515,LLSO,23901,The Federalist Papers and Anti-Federalist Writings
+1516,LLSO,23915,Plato's Republic
+1517,LLSO,24102,Environmental Politics
+1518,LLSO,24200,Legal Reasoning
+1519,LLSO,24300,American Law and the Rhetoric of Race
+1520,LLSO,24711,"Lincoln: Slavery, War & the Constitution"
+1521,LLSO,24810,Politics of the U.S. Congress
+1522,LLSO,24901,U.S. Environmental Policy
+1523,LLSO,25005,Inequality at Work: The Changing Nature of Working Class Jobs and Prospects for Improvement
+1524,LLSO,25110,Empire and International Justice
+1525,LLSO,25205,Racial Justice and Injustice
+1526,LLSO,25206,"Digital Culture: Artificial Intelligence, Algorithms, and the Web"
+1527,LLSO,25215,The American Presidency
+1528,LLSO,25411,Not Just the Facts: Telling About the American South
+1529,LLSO,25902,Contemporary African American Politics
+1530,LLSO,25904,America in the Twentieth Century
+1531,LLSO,26615,Democracy's Life and Death
+1532,LLSO,26703,Political Parties in the United States
+1533,LLSO,26802,Public Opinion
+1534,LLSO,27100,Human Rights II: History and Theory
+1535,LLSO,27101,Democracy and the Information Technology Revolution
+1536,LLSO,27200,Human Rights III
+1537,LLSO,27250,Religious Trials
+1538,LLSO,27950,The Declaration of Independence
+1539,LLSO,28233,Machiavelli's Political Thought
+1540,LLSO,29050,Youth Law and Policy: Child Welfare and Juv. Just. in the U.S
+1541,LLSO,29060,Freedom of Religion and the U.S. Constitution
+1542,LLSO,29070,Church-State Relations from the Roman Empire to the Early Modern Period
+1543,LLSO,29120,Poverty Law and Policy Reform
+1544,LLSO,29122,Comparative Law and the Welfare State
+1545,LLSO,29133,Due Process
+1546,LLSO,29400,Research Seminar: LLSO
+1547,LING,20001,Introduction to Linguistics
+1548,LING,20101,Introduction to Phonetics and Phonology
+1549,LING,20150,Language and Communication
+1550,LING,20201,Introduction to Syntax
+1551,LING,20202,Advanced Syntax
+1552,LING,20301,Introduction to Semantics and Pragmatics
+1553,LING,21000,Morphology
+1554,LING,21310,Introduction to Indo-European Linguistics
+1555,LING,21920,The Evolution of Language
+1556,LING,22750,Laboratory Phonology
+1557,LING,23115,Old Church Slavonic
+1558,LING,23200,Topics in Semantics and Pragmatics
+1559,LING,23450,Language and Violence
+1560,LING,23920,The Language of Deception and Humor
+1561,LING,26020,Truth
+1562,LING,26030,"American Deaf Community: Language, Culture, and Society"
+1563,LING,26601,Intro Programming for Linguists
+1564,LING,27010,Psycholinguistics
+1565,LING,28355,A Linguistic Introduction to Swahili I
+1566,LING,28356,Linguistic Introduction to Swahili II
+1567,ASLG,10100,American Sign Language-1
+1568,ASLG,10200,American Sign Language II
+1569,ASLG,10300,American Sign Language-3
+1570,ASLG,10400,Intermediate ASL-1
+1571,ASLG,10500,Intermediate ASL-2
+1572,ASLG,10600,Intermediate American Sign Language III
+1573,BASQ,12000,Elementary Basque I
+1574,BASQ,12100,Elementary Basque II
+1575,BASQ,12200,Elementary Basque III
+1576,BASQ,24700,Introduction to Basque Culture
+1577,MOGK,10100,Elementary Modern Greek I
+1578,MOGK,10200,Elementary Modern Greek II
+1579,MOGK,10300,Elementary Modern Greek III
+1580,MOGK,20100,Intermediate Modern Greek-1
+1581,MOGK,20200,Intermediate Modern Greek II
+1582,MOGK,20300,Intermediate Modern Greek III
+1583,SWAH,25200,Swahili I
+1584,SWAH,25300,Swahili II
+1585,SWAH,25400,Swahili III
+1586,MATH,11200,Studies In Mathematics I
+1587,MATH,11300,Studies In Mathematics-2
+1588,MATH,13100,Elem Functions and Calculus I
+1589,MATH,13200,Elem Functions and Calculus II
+1590,MATH,13300,Elementary Functions and Calculus III
+1591,MATH,15100,Calculus I
+1592,MATH,15200,Calculus II
+1593,MATH,15300,Calculus III
+1594,MATH,15910,Introduction to Proofs in Analysis
+1595,MATH,16100,Honors Calculus I
+1596,MATH,16200,Honors Calculus II
+1597,MATH,16300,Honors Calculus III
+1598,MATH,16110,Honors Calculus I (IBL
+1599,MATH,16210,Honors Calculus II (IBL
+1600,MATH,16310,Honors Calculus III (IBL
+1601,MATH,17500,Basic Number Theory
+1602,MATH,17600,Basic Geometry
+1603,MATH,19520,Mathematical Methods for Social Sciences
+1604,MATH,19620,Linear Algebra
+1605,MATH,20000,Mathematical Methods for Physical Sciences I
+1606,MATH,20100,Mathematical Methods for Physical Sciences II
+1607,MATH,20250,Abstract Linear Algebra
+1608,MATH,20300,Analysis in Rn I
+1609,MATH,20400,Analysis in Rn II
+1610,MATH,20500,Analysis in Rn III
+1611,MATH,20310,Analysis in Rn I (accelerated
+1612,MATH,20410,Analysis in Rn II (accelerated
+1613,MATH,20510,Analysis in Rn III (accelerated
+1614,MATH,20700,Honors Analysis in Rn I
+1615,MATH,20800,Honors Analysis in Rn II
+1616,MATH,20900,Honors Analysis in Rn III
+1617,MATH,21100,Basic Numerical Analysis
+1618,MATH,21200,Advanced Numerical Analysis
+1619,MATH,23500,"Markov Chains, Martingales, and Brownian Motion"
+1620,MATH,24100,Topics in Geometry
+1621,MATH,24200,Algebraic Number Theory
+1622,MATH,24300,Intro To Algebraic Curves
+1623,MATH,24400,Introduction to Algebraic Geometry
+1624,MATH,25400,Basic Algebra-1
+1625,MATH,25500,Basic Algebra II
+1626,MATH,25700,Honors Basic Algebra I
+1627,MATH,25800,Honors Basic Algebra II
+1628,MATH,25900,Honors Basic Algebra III
+1629,MATH,26200,Point-Set Topology
+1630,MATH,26300,Introduction to Algebraic Topology
+1631,MATH,26700,Introduction to Representation Theory of Finite Groups
+1632,MATH,26800,Introduction to Commutative Algebra
+1633,MATH,27000,Basic Complex Variables
+1634,MATH,27100,Measure and Integration
+1635,MATH,27200,Basic Functional Analysis
+1636,MATH,27300,Basic Theory of Ordinary Differential Equations
+1637,MATH,27400,Introduction to Differentiable Manifolds and Integration on Manifolds
+1638,MATH,27500,Basic Theory of Partial Differential Equations
+1639,MATH,27700,Mathematical Logic-1
+1640,MATH,27800,Mathematical Logic II
+1641,MATH,28000,Introduction to Formal Languages
+1642,MATH,28100,Introduction to Complexity Theory
+1643,MATH,28410,Honors Combinatorics
+1644,MATH,29520,Introduction to Error-Correcting Codes
+1645,MATH,29700,Proseminar in Mathematics
+1646,MAAD,11005,Problems in the Study of Gender and Sexuality: Media Wars
+1647,MAAD,11320,Philippe Parreno's Media Temporalities
+1648,MAAD,11730,"Science, Technology and Media via Japan"
+1649,MAAD,12320,Critical Videogame Studies
+1650,MAAD,12800,Theories of Media
+1651,MAAD,14110,Digital Cinema
+1652,MAAD,14205,"Computers, Minds, Intelligence & Data"
+1653,MAAD,15425,"Censorship, Info Control, & Revolutions in Info Technology from the Printing Press to the Internet"
+1654,MAAD,16600,Chance in Performance
+1655,MAAD,16718,Approaches to Live Electronics
+1656,MAAD,17304,Photo/Modernism/Esthetic
+1657,MAAD,20700,Alternate Reality Games: Theory and Production
+1658,MAAD,20900,Computers for Learning
+1659,MAAD,21500,Metamedia Design Studio
+1660,MAAD,22502,Data and Algorithm in Art
+1661,MAAD,22911,Augmented Reality Production
+1662,MAAD,23801,Video
+1663,MAAD,23809,Experimental Animation: Digital and Camera-less Production
+1664,MAAD,23930,Documentary Production I
+1665,MAAD,23931,Documentary Production II
+1666,MAAD,24410,Transmedia Puzzle Design & Performance
+1667,MAAD,24415,Games & Performance
+1668,MAAD,24530,Staging the Internet
+1669,MAAD,24817,Electronic Music II: Introduction to Computer Music
+1670,MAAD,24910,Short Form Digital Storytelling: Creating a Web Series
+1671,MAAD,24920,Virtual Reality Production
+1672,MAAD,25010,Anthropology of the Future
+1673,MAAD,26819,Video Game Music as Play and D
+1674,MAAD,29400,Media Arts and Design Capstone Colloquium
+1675,ARTH,16709,"Islamic Art & Architecture, 1100-1500"
+1676,FREN,21700,Le Roman De La Rose
+1677,FREN,23217,Merveilleux et vraisemblable du moyen âge au XVIIe siècle
+1678,HIST,22407,Medieval England
+1679,ITAL,23900,"Marsilio Ficino's ""On Love"
+1680,ITAL,26002,Philosophical Petrarchism
+1681,ITAL,26401,Torquato Tasso
+1682,NEAA,20522,Archaeology of Islamic Syria-Palestine
+1683,NEHC,20501,Islamic History and Society I: The Rise of Islam and the Caliphate
+1684,NEHC,20502,Islamic History and Society II: The Middle Period
+1685,NEHC,20503,Islamic History and Society III:The Modern Middle East
+1686,NEHC,20601,Islamic Thought and Literature I
+1687,NEHC,20602,Islamic Thought and Literature II
+1688,NEHC,20603,Islamic Thought and Literature III
+1689,NEHC,20840,Radical Islamic Pieties: 1200 to 1600
+1690,SPAN,21703,Introducción a las literaturas hispánicas: textos españoles clásicos
+1691,MENG,20000,Introduction to Emerging Technologies
+1692,MENG,20200,Introduction to Materials Science and Engineering
+1693,MENG,21100,Molecular Science and Engineering of Water
+1694,MENG,21400,Introduction to Applications of Quantum Mechanical Methods to Materials Design
+1695,MENG,21600,Bioengineering Kinetics
+1696,MENG,21900,Biological Physics
+1697,MENG,22100,Chemical Kinetics and Reaction Engineering
+1698,MENG,22500,Introduction to Polymer Science and Engineering
+1699,MENG,22530,Advanced Polymer Physics
+1700,MENG,23100,Applied Numerical Methods in Molecular Engineering
+1701,MENG,23110,Applied Mathematical Methods for Pattern Formation in Soft Matter
+1702,MENG,23310,Experimental Techniques and Advanced Instrumentation
+1703,MENG,23330,Physics of Solid-State Nano-electronic Devices
+1704,MENG,23400,Applied Probability For Engineers
+1705,MENG,23500,Foundations of Quantum Optics
+1706,MENG,23700,Quantum Computation
+1707,MENG,23800,Introduction to Nanofabrication
+1708,MENG,24100,Selec Tpcs Molec Engineering: Molecular/Materials Modelling I
+1709,MENG,24200,Selected Topics in Molecular Engineering: Molecular/Materials Modelling II
+1710,MENG,24300,The Engineering and Biology of Tissue Repair
+1711,MENG,24310,Cellular Engineering
+1712,MENG,24400,Nanomedicine
+1713,MENG,24500,Microfluidics and Its Applications
+1714,MENG,24600,Quantitative Systems Biology
+1715,MENG,24700,Biodiagnostics and Biosensors
+1716,MENG,24800,Quantitative Immunobiology
+1717,MENG,25000,Introduction to the Design Process
+1718,MENG,25100,Electrochemical Principles and Methods
+1719,MENG,26010,Engineering Principles of Conservation
+1720,MENG,26020,Engineering Electrodynamics
+1721,MENG,26030,Introduction to Engineering Analysis
+1722,MENG,26101,Transport Phenomena I: Forces and Flows
+1723,MENG,26102,Transport Phenomena II
+1724,MENG,26201,Thermodynamics and Statistical Mechanics I
+1725,MENG,26202,Thermodynamics and Statistical Mechanics II
+1726,MENG,27100,Biological Materials
+1727,MENG,27200,Electronic and Quantum Materials for Technology
+1728,MENG,27320,Polymer Synthesis
+1729,MENG,29500,Engineering Design
+1730,MENG,29511,Engineering Design I
+1731,MENG,29512,Engineering Design II
+1732,MENG,29700,Undergraduate Research for Molecular Engineering
+1733,MUSI,10100,Introduction to Western Art Music
+1734,MUSI,10200,Introduction to World Music
+1735,MUSI,10300,Introduction to Music: Materials and Design
+1736,MUSI,10400,Introduction to Music: Analysis and Criticism
+1737,MUSI,12100,Music In Western Civilization I: To 1750
+1738,MUSI,12200,Music In Western Civ II
+1739,MUSI,14300,Music Theory Fundamentals
+1740,MUSI,15100,Harmony and Voice Leading I
+1741,MUSI,15200,Harmony and Voice Leading II
+1742,MUSI,15300,Harmony and Voice Leading III
+1743,MUSI,17000,University Chorus
+1744,MUSI,17001,Motet Choir
+1745,MUSI,17002,Women's Ensemble
+1746,MUSI,17003,Rockefeller Chapel Choir
+1747,MUSI,17010,University Symphony Orchestra
+1748,MUSI,17011,University Chamber Orchestra
+1749,MUSI,17012,University Wind Ensemble
+1750,MUSI,17020,Early Music Ensemble
+1751,MUSI,17021,Jazz X-tet
+1752,MUSI,17022,Jazz Combo
+1753,MUSI,17023,Middle East Music Ensemble
+1754,MUSI,17024,New Music Ensemble
+1755,MUSI,17025,South Asian Music Ensemble
+1756,MUSI,20918,Listening to Movies
+1757,MUSI,23300,Introduction to the Social and Cultural Study of Music
+1758,MUSI,23509,Eurovision Song Contest
+1759,MUSI,25100,Analysis of Music of the Classical Period
+1760,MUSI,25200,Analysis of Nineteenth-Century Music
+1761,MUSI,25300,Analysis of Twentieth-Century Music
+1762,MUSI,26100,Introduction to Composition
+1763,MUSI,26818,History of Electronic Instruments
+1764,MUSI,27100,Topics in the History of Western Music I
+1765,MUSI,27200,Topics in the History of Western Music II
+1766,MUSI,27300,Topics in the History of Western Music III
+1767,MUSI,28500,Musicianship Skills
+1768,MUSI,29500,Undergraduate Honors Seminar
+1769,MUSI,29700,Independent Study in Music
+1770,MUSI,29900,Senior Essay or Composition
+1771,AKKD,10501,Introduction to Babylonian I
+1772,AKKD,10502,Introduction to Babylonian II
+1773,AKKD,10503,Introduction to Babylonian III
+1774,AKKD,20603,Intermediate Akkadian: Neo-Assyrian Royal Inscriptions
+1775,AKKD,20801,Reforms and Edicts of the Old Babylonian Kings
+1776,AANL,10101,Elementary Hittite I
+1777,AANL,10102,Elementary Hittite II
+1778,AANL,10103,Elementary Hittite III
+1779,AANL,20126,Literary Analysis of Hittite Texts
+1780,ARAB,10101,Elementary Arabic-1
+1781,ARAB,10102,Elementary Arabic-II
+1782,ARAB,10103,Elementary Arabic-III
+1783,ARAB,10123,Summer Intensive Arabic Level 1
+1784,ARAB,10250,Colloquial Levantine Arabic
+1785,ARAB,10251,Colloquial Egyptian Arabic: Language and Culture
+1786,ARAB,10257,Colloquial Levantine Arabic II
+1787,ARAB,10456,Summer Intensive Arabic Level 1.5
+1788,ARAB,15001,Elementary Arabic in Jerusalem
+1789,ARAB,15002,Elementary Arabic in Jerusalem
+1790,ARAB,15003,Intermediate Arabic in Jerusalem
+1791,ARAB,15004,Intermediate Arabic in Jerusalem
+1792,ARAB,15005,Advanced Arabic in Jerusalem
+1793,ARAB,15006,Advanced Arabic in Jerusalem
+1794,ARAB,15013,Elementary Arabic in Morocco
+1795,ARAB,15014,Elementary Arabic in Morocco
+1796,ARAB,15015,Intermediate Arabic in Morocco
+1797,ARAB,15016,Intermediate Arabic in Morocco
+1798,ARAB,15017,Advanced Arabic in Morocco
+1799,ARAB,15018,Advanced Arabic in Morocco
+1800,ARAB,15019,Elementary Arabic in Granada
+1801,ARAB,15020,Elementary Arabic in Granada
+1802,ARAB,15021,Intermediate Arabic in Granada
+1803,ARAB,15022,Intermediate Arabic in Granada
+1804,ARAB,15023,Advanced Arabic in Granada
+1805,ARAB,15024,Advanced Arabic in Granada
+1806,ARAB,20100,Intermediate Modern Arabic for CPS Students
+1807,ARAB,20101,Intermediate Arabic I
+1808,ARAB,20102,Intermediate Arabic II
+1809,ARAB,20103,Intermediate Arabic III
+1810,ARAB,20123,Summer Intensive Introductory Arabic Level 2
+1811,ARAB,20588,Media Arabic
+1812,ARAB,29001,Arabic Through Film
+1813,ARAM,10101,Biblical Aramaic
+1814,ARAM,10102,Old Aramaic Inscriptions
+1815,ARAM,10103,Imperial Aramaic
+1816,ARME,10101,Elementary Modern Armenian I
+1817,ARME,10102,Elementary Modern Armenian II
+1818,ARME,10103,Elementary Modern Armenian III
+1819,ARME,10501,Intro To Classical Armenian
+1820,ARME,20101,Intermediate Modern Armenian i
+1821,ARME,20102,Intermediate Modern Armenian II
+1822,ARME,20103,Intermediate Modern Armenian III
+1823,ARME,29700,Rdg/Rsch: Armenian
+1824,EGPT,10101,Introduction to Middle Egyptian Hieroglyphs I
+1825,EGPT,10102,Introduction to Middle Egyptian Hieroglyphs II
+1826,EGPT,10103,Middle Egyptian Texts I
+1827,EGPT,10201,Introduction to Coptic
+1828,EGPT,10202,Coptic Texts
+1829,EGPT,20006,Ancient Near Eastern Thought & Literature-3
+1830,EGPT,20101,Middle Egyptian Texts II
+1831,EGPT,20102,Introduction to Hieratic
+1832,EGPT,20110,Introduction to Old Egyptian
+1833,HEBR,10101,Elementary Classical Hebrew I
+1834,HEBR,10102,Elementary Classical Hebrew II
+1835,HEBR,10103,Elementary Classical Hebrew-3
+1836,HEBR,10501,Introductory Modern Hebrew-1
+1837,HEBR,10502,Introductory Modern Hebrew-II
+1838,HEBR,10503,Introductory Modern Hebrew III
+1839,HEBR,15001,Elementary Hebrew in Jerusalem
+1840,HEBR,15002,Elementary Hebrew in Jerusalem
+1841,HEBR,15003,Intermediate Hebrew in Jerusalem
+1842,HEBR,15004,Intermediate Hebrew in Jerusalem
+1843,HEBR,15005,Advanced Hebrew in Jerusalem
+1844,HEBR,15006,Advanced Hebrew in Jerusalem
+1845,HEBR,20104,Intermediate Classical Hebrew I
+1846,HEBR,20105,Intermediate Classical Hebrew II
+1847,HEBR,20106,Intermediate Classical Hebrew III
+1848,HEBR,20521,Lower Intermediate-Hebrew through Israeli Media
+1849,HEBR,29700,Rdg/Rsch: Hebrew
+1850,KAZK,10101,Elementary Kazakh-1
+1851,KAZK,10102,Elementary Kazakh-2
+1852,KAZK,29700,Independent Study: Kazakh
+1853,KAZK,29701,Independent Study: Intermediate Kazakh
+1854,NEAA,20002,Archaeology of the Ancient Near East II: Anatolia
+1855,NEAA,20061,Ancient Landscapes I
+1856,NEAA,20062,Ancient Landscapes II
+1857,NEAA,20071,Texts in Context: Documents and Archaeology
+1858,NEAA,20512,Egypt after the Pharaohs: Archaeology of Coptic and Islamic Egy
+1859,NEAA,20532,Problems in Islamic Archaeology: The Islamic City
+1860,NEAA,20535,Problems in Islamic Archaeology: Archaeology of Travel
+1861,NEHC,10101,Introduction to the Middle East
+1862,NEHC,19043,Study Abroad in Istanbul
+1863,NEHC,20004,Ancient Near Eastern Thought and Literature I: Mesopotamian Literature
+1864,NEHC,20005,Ancient Near Eastern Thought & Literature-2: Anatolian Lit
+1865,NEHC,20006,Ancient Near Eastern Thought & Literature-3
+1866,NEHC,20011,Ancient Empires I
+1867,NEHC,20012,Ancient Empires-II
+1868,NEHC,20013,Ancient Empires-3
+1869,NEHC,20019,Mesopotamian Law
+1870,NEHC,20025,Introduction to Islamic Law
+1871,NEHC,20032,Imagining the Text: Books and Manuscripts in the Ancient ME
+1872,NEHC,20091,Al-Ghazali
+1873,NEHC,20121,The Bible and Archaeology
+1874,NEHC,20165,Religious Minorities in the Islamic Middle East
+1875,NEHC,20212,Introduction to Egyptian Religion and Magic
+1876,NEHC,20215,Babylon and the Origins of Knowledge
+1877,NEHC,20287,Egypt in Late Antiquity
+1878,NEHC,20464,"Climate, Culture, and Society in the Ancient Near East"
+1879,NEHC,20470,Fashioning Identities in Ancient Egypt
+1880,NEHC,20491,Jews and Judaism in the Classical Era and Late Antiquity: From
+1881,NEHC,20501,Islamic History and Society I: The Rise of Islam and the Caliphate
+1882,NEHC,20502,Islamic History and Society II: The Middle Period
+1883,NEHC,20503,Islamic History and Society III:The Modern Middle East
+1884,NEHC,20504,Introduction to the Hebrew Bible
+1885,NEHC,20550,"Scandal as Historical Document, 17th-21st Centuries"
+1886,NEHC,20568,Balkan Folklore
+1887,NEHC,20570,Mughal India: Tradition & Transition
+1888,NEHC,20573,The Burden of History: The Nation and Its Lost Paradise
+1889,NEHC,20601,Islamic Thought and Literature I
+1890,NEHC,20602,Islamic Thought and Literature II
+1891,NEHC,20603,Islamic Thought and Literature III
+1892,NEHC,20605,Colloquium: Sources for the Study of Islamic History
+1893,NEHC,20615,Drawn Together: Comics Culture in the Middle East
+1894,NEHC,20645,History of the Fatimid Caliphate
+1895,NEHC,20677,Beyond Genocide & Diaspora: Armenians in the Middle East
+1896,NEHC,20735,Persia: The First World Empire
+1897,NEHC,20745,A Social History of the Poet in the Arab and Islamic World
+1898,NEHC,20765,Introduction to the Musical Folklore of Central Asia
+1899,NEHC,20802,Empires and Peoples: Ethnicity in Late Antiquity
+1900,NEHC,20840,Radical Islamic Pieties: 1200 to 1600
+1901,NEHC,20884,The Brighter Side of the Balkans: Humor & Satire in Lit & Film
+1902,NEHC,20885,Returning the Gaze: The Balkans and Western Europe
+1903,NEHC,20895,The Construction of Jewish History in Israel
+1904,NEHC,20896,The Mizrahi Discourse in Israel
+1905,NEHC,20901,"Orality, Literature and Popular Culture of Afghanistan and Pakistan"
+1906,NEHC,20911,Prophets in Jewish and Islamic Traditions
+1907,NEHC,20937,Nationalism & Colonialism in the Middle East
+1908,NEHC,21000,Before the Zodiac: Astronomy and Mathematics as Ancient Culture
+1909,NEHC,21010,"The Age of Innovation - Famous Firsts 5,000 Years Ago"
+1910,NEHC,22010,Jewish Civilization I: Ancient Beginnings to Early Medieval Period
+1911,NEHC,22011,Jewish Civilization II: Late Medieval to Modern Period
+1912,NEHC,23010,Introduction to the History and Civilizations of Central Eurasia I: Pre-1500s
+1913,NEHC,23613,Popular Culture in the Middle East and North Africa
+1914,NEHC,24118,Coptic Bible
+1915,NEHC,25147,Anthropology of Israel
+1916,NEHC,25148,Israel in Film and Ethnography
+1917,NEHC,26903,History and Literature of Pakistan: Postcolonial Representations
+1918,NEHC,28002,Islamic Art and Architecture of the Medieval Perso-Turkic Courts
+1919,NEHC,29023,Returning the Gaze: The West and the Rest
+1920,NEHC,29502,"South India 1300-1700: Persons, Politics, Perceptions"
+1921,NEHC,29800,BA Paper Seminar
+1922,NEHC,29999,BA Paper Preparation
+1923,NELG,10200,Elementary Modern Greek II
+1924,NELG,20200,Intermediate Modern Greek II
+1925,NELG,20301,Introduction to Comparative Semitics
+1926,NELG,20901,Advanced Seminar: Comparative Semitic Linguistics
+1927,PERS,10101,Elementary Persian-1
+1928,PERS,10102,Elementary Persian-2
+1929,PERS,10103,Elementary Persian-III
+1930,PERS,20101,Intermediate Persian I
+1931,PERS,20102,Intermediate Persian II
+1932,PERS,20103,Intermediate Persian III
+1933,PERS,20123,Summer Intensive Intermediate Persian
+1934,SUMR,10102,Elementary Sumerian II
+1935,TURK,10101,Elementary Turkish-1
+1936,TURK,10102,Elementary Turkish-2
+1937,TURK,10103,Elementary Turkish III
+1938,TURK,15001,Elementary Turkish in Istanbul
+1939,TURK,15002,Elementary Turkish in Istanbul
+1940,TURK,15003,Intermediate Turkish in Istanbul
+1941,TURK,15004,Intermediate Turkish in Istanbul
+1942,TURK,15005,Advanced Turkish in Istanbul
+1943,TURK,15006,Advanced Turkish in Istanbul
+1944,TURK,15007,Elementary Turkish in Vienna
+1945,TURK,15008,Elementary Turkish in Vienna
+1946,TURK,15009,Intermediate Turkish in Vienna
+1947,TURK,15010,Intermediate Turkish in Vienna
+1948,TURK,15011,Advanced Turkish in Vienna
+1949,TURK,15012,Advanced Turkish in Vienna
+1950,TURK,20101,Intermediate Turkish I
+1951,TURK,20102,Intermediate Turkish II
+1952,TURK,20103,Intermediate Turkish III
+1953,TURK,20123,Summer Intensive Intermediate Turkish
+1954,TURK,29701,Independent Study: Old Turkic
+1955,UZBK,29700,Independent Study: Uzbek
+1956,NSCI,292,Neuroscience Honors Thesis Research
+1957,NSCI,20100,Neuroscience Laboratory
+1958,NSCI,20110,Fundamental Neuroscience
+1959,NSCI,20120,Cellular Neuroscience
+1960,NSCI,20130,Systems Neuroscience
+1961,NSCI,20140,Sensation and Perception
+1962,NSCI,20500,Neuroanatomy
+1963,NSCI,20510,Evolution and the Nervous System
+1964,NSCI,21000,Social Neuroscience
+1965,NSCI,21100,Photons to Consciousness: Cellular and Integrative Brain Functions
+1966,NSCI,21500,Epigenetics in Brain and Behavior
+1967,NSCI,21600,Attention and Working Memory in the Mind and Brain
+1968,NSCI,21700,Cell and Molecular Biology of the Neuron
+1969,NSCI,21800,Perspectives in Drug Abuse
+1970,NSCI,21900,Neuropharmacology
+1971,NSCI,22000,Gazing into the Black Box: Neocortex
+1972,NSCI,22100,Molecular Neuroscience
+1973,NSCI,22300,Molecular Principles of Nervous System Development
+1974,NSCI,22400,Neuroscience of Seeing
+1975,NSCI,23400,Synaptic Physiology
+1976,NSCI,23500,Survey of Systems Neuroscience
+1977,NSCI,23600,Computational Approaches to Cognitive Neuroscience
+1978,NSCI,23800,Neurons and Glia: Advanced Cellular and Molecular Topics
+1979,NSCI,24000,Modeling and Signal Analysis for Neuroscientists
+1980,NSCI,29100,Neuroscience Thesis Research
+1981,NSCI,29101,Neuroscience Thesis Research
+1982,NSCI,29102,Neuroscience Thesis Research
+1983,NSCI,29200,Neuroscience Honors Thesis Research
+1984,NSCI,29201,Neuroscience Honors Thesis Research
+1985,NSCI,29202,Neuroscience Honors Thesis Research
+1986,NSCI,29700,Reading and Research in Neuroscience
+1987,NCDV,29700,Reading Course
+1988,NCDV,29800,Reading Course
+1989,NCDV,29900,Independent Study
+1990,PHIL,20000,Introduction to Philosophy of Science
+1991,PHIL,20100,Elementary Logic
+1992,PHIL,20102,"Changing, Resting, Living: Aristotle's Natural Philosophy"
+1993,PHIL,21000,Introduction To Ethics
+1994,PHIL,21002,Human Rights: Philosophical Foundations
+1995,PHIL,21600,Introduction to Political Philosophy
+1996,PHIL,21620,The Problem of Evil
+1997,PHIL,21720,Aristotle's Nicomachean Ethics
+1998,PHIL,21834,Self-Creation as a Literary and Philosophical Problem
+1999,PHIL,21901,Feminist Philosophy
+2000,PHIL,22001,Teaching Precollegiate Philosophy
+2001,PHIL,22209,Philosophies of Environmentalism and Sustainability
+2002,PHIL,22709,"Introduction to Quantum Mechanics,Introduction to Philosophy of Quantum Mechanics"
+2003,PHIL,23000,Intro:Metaphysics/Epistemology
+2004,PHIL,23205,Intro to Phenomenology
+2005,PHIL,24599,Introduction to Frege
+2006,PHIL,24800,Foucault and The History of Sexuality
+2007,PHIL,25000,Ancient Philos/Hist Philos-1
+2008,PHIL,26000,History of Philosophy II: Medieval and Early Modern Philosophy
+2009,PHIL,27000,History of Philosophy III: Kant and the 19th Century
+2010,PHIL,29200,Junior Tutorial
+2011,PHIL,29300,Senior Tutorial
+2012,PHIL,29411,Consequentialism from Bentham to Singer
+2013,PHIL,29601,Intensive Track Seminar
+2014,PHIL,29700,Reading and Research
+2015,PHIL,29901,Senior Seminar I
+2016,PHIL,29902,"BA Essay Preparation,Senior Seminar II"
+2017,PHYS,12100,General Physics I
+2018,PHYS,12200,General Physics II
+2019,PHYS,12300,General Physics III
+2020,PHYS,13100,Mechanics
+2021,PHYS,13200,Electricity and Magnetism
+2022,PHYS,13300,"Waves, Optics, and Heat"
+2023,PHYS,14100,Honors Mechanics
+2024,PHYS,14200,Honors Electricity and Magnetism
+2025,PHYS,14300,"Honors Waves, Optics, and Heat"
+2026,PHYS,15400,Modern Physics
+2027,PHYS,18500,Intermediate Mechanics
+2028,PHYS,19700,Statistical and Thermal Physics
+2029,PHYS,20900,Fundamentals of Accelerator Physics and Technology
+2030,PHYS,21101,Experimental Physics I
+2031,PHYS,21102,Experimental Physics II
+2032,PHYS,21103,Experimental Physics III
+2033,PHYS,22000,Introduction to Mathematical Methods in Physics
+2034,PHYS,22100,Mathematical Methods in Physics
+2035,PHYS,22300,Topics in Mathematical Physics
+2036,PHYS,22500,Intermediate Electricity and Magnetism I
+2037,PHYS,22700,Intermediate Electricity and Magnetism II
+2038,PHYS,22600,Electronics
+2039,PHYS,23400,Quantum Mechanics I
+2040,PHYS,23500,Quantum Mechanics II
+2041,PHYS,23600,Solid State Physics
+2042,PHYS,23700,Nuclei and Elementary Particles
+2043,PHYS,23800,Modern Atomic Physics
+2044,PHYS,24300,Advanced Quantum Mechanics
+2045,PHYS,24500,Relativistic Quantum Mechanics and Introduction to String Theory
+2046,PHYS,25000,Computational Physics
+2047,PHYS,26400,Spacetime and Black Holes
+2048,PHYS,29100,Bachelor's Thesis I
+2049,PHYS,29200,Bachelor's Thesis II
+2050,PHYS,29300,Bachelor's Thesis III
+2051,PHYS,29700,Participation in Research
+2052,PLSC,20235,Computing for Social Sciences
+2053,PLSC,20280,The Politics of Popular Sovereignty: Participation and Protest
+2054,PLSC,21104,Disability: A Democratic Dilemma
+2055,PLSC,21109,Our Political World in Data
+2056,PLSC,21390,Philosophy of Poverty
+2057,PLSC,21410,Advanced Theories of Gender and Sexuality
+2058,PLSC,21499,Philosophy and Philanthropy
+2059,PLSC,21505,"Sex, Gender and War"
+2060,PLSC,21820,Global Justice and the Ethics of Immigration
+2061,PLSC,22150,Contemporary African American Politics
+2062,PLSC,22202,Philosophies of Environmentalism and Sustainability
+2063,PLSC,22300,American Law and the Rhetoric of Race
+2064,PLSC,22400,Public Opinion
+2065,PLSC,22600,Introduction to Political Philosophy
+2066,PLSC,22700,Happiness
+2067,PLSC,22819,Philosophy of Education
+2068,PLSC,22913,The Practice of Social Science Research
+2069,PLSC,23100,Democracy and the Information Technology Revolution
+2070,PLSC,23113,Black Feminism in a Transnational Perspective
+2071,PLSC,23313,Democracy and Equality
+2072,PLSC,23900,Thucydides
+2073,PLSC,23901,The Federalist Papers and Anti-Federalist Writings
+2074,PLSC,24201,Liberalism
+2075,PLSC,24807,Positive Political Theory
+2076,PLSC,24810,Politics of the U.S. Congress
+2077,PLSC,25101,"Three Erotic Dialogues: Plato, Xenophon, Plutarch"
+2078,PLSC,25110,Empire and International Justice
+2079,PLSC,25205,Racial Justice and Injustice
+2080,PLSC,25215,The American Presidency
+2081,PLSC,25501,Race and Imperialism in the 20th Century
+2082,PLSC,25818,Stoic Ethics Through Roman Eyes
+2083,PLSC,26005,International Relations of South Asia
+2084,PLSC,26152,A Right to Belong
+2085,PLSC,26300,Comparative Politics of the Middle East and North Africa
+2086,PLSC,26615,Democracy's Life and Death
+2087,PLSC,26703,Political Parties in the United States
+2088,PLSC,26920,"Freedom, Justice and Legitimacy"
+2089,PLSC,27216,Machiavelli's Political Thought
+2090,PLSC,27301,Weimar Political Theology: Schmitt and Strauss
+2091,PLSC,27500,Organizational Decision Making
+2092,PLSC,27510,Latino Politics
+2093,PLSC,27818,Philosophical Foundations of Public Policy
+2094,PLSC,28006,Intro to Social Choice and Electoral Systems
+2095,PLSC,28300,Seminar on Realism
+2096,PLSC,28400,American Grand Strategy
+2097,PLSC,28620,The Intelligible Self
+2098,PLSC,28701,Introduction to Political Theory
+2099,PLSC,28800,Introduction to Constitutional Law
+2100,PLSC,28801,Introduction to American Politics
+2101,PLSC,28850,Chinese Foreign and Global Policy
+2102,PLSC,28900,Strategy
+2103,PLSC,28901,Introduction to Comparative Politics
+2104,PLSC,29000,Introduction to International Relations
+2105,PLSC,29102,Game Theory I
+2106,PLSC,29411,Consequentialism from Bentham to Singer
+2107,PLSC,29700,Independent Study
+2108,PLSC,29800,BA Colloquium
+2109,PLSC,29900,BA Thesis Supervision
+2110,PSYC,20000,Fundamentals of Psychology
+2111,PSYC,20100,Psychological Statistics
+2112,PSYC,20200,Psychological Research Methods
+2113,PSYC,20209,Adolescent Development
+2114,PSYC,20300,Biological Psychology
+2115,PSYC,20400,Cognitive Psychology
+2116,PSYC,20500,Developmental Psychology
+2117,PSYC,20600,Social Psychology
+2118,PSYC,20700,Sensation and Perception
+2119,PSYC,20850,Introduction to Human Development
+2120,PSYC,21100,Human Development Research Designs in Social Sciences
+2121,PSYC,21135,Zero to Infinity: The Psychology of Numbers
+2122,PSYC,21510,Neuroscience of Communication
+2123,PSYC,21750,Biological Clocks and Behavior
+2124,PSYC,21950,"Language, Culture, and Thought"
+2125,PSYC,22350,Social Neuroscience
+2126,PSYC,22580,Child Development in the Classroom
+2127,PSYC,23000,Cultural Psychology
+2128,PSYC,23200,Introduction to Language Development
+2129,PSYC,23820,Attention and Working Memory in the Mind and Brain
+2130,PSYC,23860,Beyond Good and Evil: The Psychology of Morality
+2131,PSYC,24055,The Psychological Foundations of Wisdom
+2132,PSYC,24133,Neuroscience of Seeing
+2133,PSYC,24231,Methods in Computational Neuroscience
+2134,PSYC,24280,The Psychology and Neurobiology of Emotion
+2135,PSYC,25101,The Psychology of Decision Making
+2136,PSYC,25120,Child Development and Public Policy
+2137,PSYC,25280,The Psychology of Close Relationships
+2138,PSYC,25300,"Social Context, Biology, and Health"
+2139,PSYC,25700,The Psychology of Negotiation
+2140,PSYC,25750,The Psychology and Neurobiology of Stress
+2141,PSYC,25901,Psychology for Citizens
+2142,PSYC,26350,Clinical Cognitive Neuroscience: Function and Dysfunction
+2143,PSYC,26665,Epigenetics in Brain and Behavior
+2144,PSYC,27010,Psycholinguistics
+2145,PSYC,27950,Evolution and Economics of Human Behavior
+2146,PSYC,28401,Gender in the Classroom
+2147,PSYC,28791,Behavioral Science and Public Policy
+2148,PSYC,28810,From Fossils to Fermi's Paradox: Origin and Evolution of Intelligent Life
+2149,PSYC,28850,The Biological Nature of Psychological Problems
+2150,PSYC,28910,Animal Models in the Study of Cognition
+2151,PSYC,29200,Undergrad Rdgs: Psychology
+2152,PSYC,29700,Undergraduate Research in Psychology
+2153,PSYC,29800,Honors Seminar: Psychology
+2154,PBPL,20000,Economics for Public Policy
+2155,PBPL,20235,Computing for Social Sciences
+2156,PBPL,20305,Inequality in Urban Spaces
+2157,PBPL,21390,Philosophy of Poverty
+2158,PBPL,21425,Health in a Changing America: Social Context and Human Rights
+2159,PBPL,21501,Environmental Justice
+2160,PBPL,22100,Politics and Policy
+2161,PBPL,22200,Public Policy Analysis
+2162,PBPL,22300,Policy Implementation
+2163,PBPL,23000,Organizational Analysis
+2164,PBPL,23100,Environmental Law
+2165,PBPL,23200,The Economics of Crime
+2166,PBPL,23550,Urban Ecology and the Nature of Cities
+2167,PBPL,23606,"Political Culture, Social Capital, and The Arts"
+2168,PBPL,23650,Revolutionizing Agriculture: Early Modern Technologies for the New Millennium
+2169,PBPL,23700,Geographical Issues in Housing and Community Development
+2170,PBPL,24102,Environmental Politics
+2171,PBPL,24105,Urban Design: The Chicago Experience
+2172,PBPL,24308,Reproductive Worlds
+2173,PBPL,24605,Introduction to Urban Sciences
+2174,PBPL,24701,U.S. Environmental Policy
+2175,PBPL,24751,The Business of Non-Profits: The Evolving Social Sector
+2176,PBPL,24756,Exploring the Resilient City
+2177,PBPL,24901,"Trade, Development and Poverty in Mexico"
+2178,PBPL,25003,"Immigration, Law and Society"
+2179,PBPL,25004,Punishment and Social Theory
+2180,PBPL,25005,Inequality at Work: The Changing Nature of Working Class Jobs and Prospects for Improvement
+2181,PBPL,25120,Child Development and Public Policy
+2182,PBPL,25216,The American Presidency
+2183,PBPL,25220,Constructing a Society of Human Rights: A Psychological Framework
+2184,PBPL,25370,Social Justice and Social Policy
+2185,PBPL,25405,Child Poverty and Chicago Schools
+2186,PBPL,25630,"Poverty, Work, and Family Policy"
+2187,PBPL,25663,Urban Studies: Placemaking
+2188,PBPL,25831,Comparative Politics and Policy
+2189,PBPL,25832,Early Human Capital Development
+2190,PBPL,25833,Comparative Social Policy Analysis
+2191,PBPL,25840,Odyssey Engaged Nonprofit Practicum
+2192,PBPL,25860,"Crime, Justice, and Inequality in the American City"
+2193,PBPL,26075,Police and Citizen
+2194,PBPL,26200,Field Rsch Proj-1: Pubpol
+2195,PBPL,26300,Field Research Project in Public Policy II
+2196,PBPL,26205,Big Art - Little Art
+2197,PBPL,26301,Field Research Project in Public Policy
+2198,PBPL,26400,Quantitative Methods in Public Policy
+2199,PBPL,26416,Latin American Extractivisms
+2200,PBPL,26433,Practicum in Environmental Management
+2201,PBPL,26444,Practicum in Campus Athletics and Environment
+2202,PBPL,26501,Social Demography
+2203,PBPL,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+2204,PBPL,26531,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+2205,PBPL,26690,The Politics of Health Care
+2206,PBPL,26705,Economics of Education
+2207,PBPL,26836,Labor Economics for Public Policy
+2208,PBPL,26885,Women in the Labor Market
+2209,PBPL,26988,The Politics of Organizational Ethics
+2210,PBPL,27000,International Economics
+2211,PBPL,27040,Public Finance and Public Policy
+2212,PBPL,27070,Philanthropy: Private Acts and Public Goods
+2213,PBPL,27150,China's Economic Development & Transition
+2214,PBPL,27156,Urban Design with Nature
+2215,PBPL,27325,Urban Ecology in the Calumet Region
+2216,PBPL,27809,Violence in the Early Years
+2217,PBPL,27818,Philosophical Foundations of Public Policy
+2218,PBPL,27821,Urban Schools and Communities
+2219,PBPL,27905,Global Health Metrics
+2220,PBPL,28050,Remaking Chicago: The City That Works on Social Change
+2221,PBPL,28139,"Society, Politics and Security in Israel"
+2222,PBPL,28150,U.S. Foreign Policy: Inst & Decision making 21st Century
+2223,PBPL,28300,Health Economics and Public Policy
+2224,PBPL,28310,Healthcare and Healthcare Reform
+2225,PBPL,28350,Education and Development: Policy and Research
+2226,PBPL,28375,Political Economy of Development
+2227,PBPL,28401,Gender in the Classroom
+2228,PBPL,28425,Strategic Behavior and Regulation of Firms
+2229,PBPL,28488,Politics and Public Policy in Latin America
+2230,PBPL,28501,Process and Policy in State and City Government
+2231,PBPL,28510,Bombay/Mumbai: Urban Life/Urban Politics
+2232,PBPL,28525,Missing Markets: The Economics of the Environment
+2233,PBPL,28528,Household Finance: Theory and Applications
+2234,PBPL,28538,Political Economy of Natural Resources
+2235,PBPL,28550,Social Experiments: Design and Experimentation
+2236,PBPL,28605,Economic Analysis of Law
+2237,PBPL,28640,Mixed Methods Approaches to Policy Research
+2238,PBPL,28678,Massive Change: Finance & Economics
+2239,PBPL,28702,Electoral Politics
+2240,PBPL,28730,Insurgency in South and Southeast Asia
+2241,PBPL,28747,The Modern Welfare State
+2242,PBPL,28750,"Conflict: Root Causes, Consequences, and Solutions for the Future"
+2243,PBPL,28775,Poverty and Economic Development
+2244,PBPL,28780,The Art and Science of Negotiations and Persuasion
+2245,PBPL,28791,Behavioral Science and Public Policy
+2246,PBPL,28805,Behavioral Economics and Policy
+2247,PBPL,28820,Machine Learning and Policy
+2248,PBPL,28829,Artificial Intelligence for Public Policy
+2249,PBPL,28871,Constitutional Law
+2250,PBPL,28891,The Supreme Court and Public Policy
+2251,PBPL,28900,Environmental and Science Policy
+2252,PBPL,28920,"Inequality: Origins, Dimensions, and Policy"
+2253,PBPL,28923,Health Impacts of Transportation Systems
+2254,PBPL,28957,The Social Psychology of Behavior in Organizations
+2255,PBPL,29000,Energy and Energy Policy
+2256,PBPL,29050,Youth Law and Policy: Child Welfare and Juv. Just. in the U.S
+2257,PBPL,29120,Poverty Law and Policy Reform
+2258,PBPL,29355,Leading Complex Organizations
+2259,PBPL,29404,"Inequality, Household Finance, and Tax Policy"
+2260,PBPL,29411,"Mediation, Moderation, and Spillover Effects"
+2261,PBPL,29600,Internship: Public Policy
+2262,PBPL,29700,Reading and Research: Public Policy
+2263,PBPL,29701,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF"
+2264,PBPL,29702,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF) II"
+2265,PBPL,29800,BA Seminar: Public Policy I (credit
+2266,PBPL,29801,BA Seminar: Public Policy II (no credit
+2267,PBPL,29900,BA Paper Preparation: Public Policy
+2268,RLST,10100,Introduction to Religious Studies
+2269,RLST,11004,Introduction to the Hebrew Bible
+2270,RLST,11030,Introduction to the Qur'an
+2271,RLST,12000,Introduction to the New Testament: Texts and Contexts
+2272,RLST,20111,History of Death
+2273,RLST,20401,Islamic Thought and Literature I
+2274,RLST,20402,Islamic Thought and Literature II
+2275,RLST,20403,Islamic Thought and Literature III
+2276,RLST,20501,Islamic History and Society I: The Rise of Islam and the Caliphate
+2277,RLST,20505,Pagans and Christians: Greek Backgrounds to Early Christianity
+2278,RLST,21107,Rdg: Maimonides' Guide of the Perplexed
+2279,RLST,21303,"Christianity and Slavery in America, 1619-1865"
+2280,RLST,21450,Coptic Bible
+2281,RLST,22010,Jewish Civilization I: Ancient Beginnings to Early Medieval Period
+2282,RLST,21600,Early Monasticism
+2283,RLST,22011,Jewish Civilization II: Late Medieval to Modern Period
+2284,RLST,23026,"Suffering, Tragedy, and the Human Condition"
+2285,RLST,22800,African American Religion: Themes and Issues
+2286,RLST,23100,Introduction to Christian Thought
+2287,RLST,23905,Is Buddhism a Religion
+2288,RLST,23505,Environmental Ethics
+2289,RLST,24110,The Ethics of War: Reading Just and Unjust Wars: A Moral Argument with Historical Illustrations
+2290,RLST,24201,Indian Philosophy I: Origins and Orientations
+2291,RLST,24202,Indian Philosophy II: The Classical Traditions
+2292,RLST,25105,Readings in Ibn Tufayl's Hayy b. Yaqzan
+2293,RLST,26002,Literature and Hunger
+2294,RLST,27250,Religious Trials
+2295,RLST,27614,Problems in the Study of Gender and Sexuality: Gender and Religion
+2296,RLST,27650,Anthropology of Religion
+2297,RLST,28206,Dostoevsky's Brothers Karamazov
+2298,RLST,28511,Star Wars and Religion
+2299,RLST,28900,"Magic, Science, and Religion"
+2300,RLST,29700,Reading/Research: Rlst
+2301,RLST,29800,BA Paper Seminar I
+2302,RLST,29900,BA Paper II
+2303,CATA,12200,Catalan for Speakers of Romance Languages I
+2304,CATA,12300,Catalan for Speakers of Romance Languages II
+2305,CATA,21100,"Llengua, societat i cultura I"
+2306,CATA,21200,"Llengua, Societat i Cultura II"
+2307,CATA,21600,"Catalan Culture and Society: Art, Music, and Cinema"
+2308,CATA,21900,Contemporary Catalan Literature
+2309,CATA,24019,The Translation Zone: Languages in Catalan-Speaking Territories
+2310,CATA,29700,Readings in Special Topics
+2311,FREN,10100,Beginning Elementary French I
+2312,FREN,10200,Beginning Elementary French II
+2313,FREN,10300,Beginning Elementary French III
+2314,FREN,10123,Summer Intensive Elementary French
+2315,FREN,14100,French for Romance Language Speakers
+2316,FREN,20100,"Language, History, and Culture I"
+2317,FREN,20200,"Language, History, and Culture II"
+2318,FREN,20300,"Language, History, and Culture III"
+2319,FREN,20500,Ecrire en français
+2320,FREN,20601,Expression orale et phonétique
+2321,FREN,20602,Expression orale : Décrire l'art moderne et contemporain en français
+2322,FREN,23333,Reading French for Research Purposes
+2323,FREN,21903,Introduction à la littérature française III: Littérature à l'Age des Révolutions
+2324,FREN,22619,Paris and the French Revolution
+2325,FREN,22818,Figures du poète au XXème siècle (1900-1950
+2326,FREN,22910,Medieval Beasts
+2327,FREN,23219,The Medieval Mediterranean
+2328,FREN,23404,French Cinema of the 1930s
+2329,FREN,23500,Caribbean Fiction: Self-Understanding and Exoticism
+2330,FREN,23660,Baudelaire et Flaubert: la vie littéraire en l'an 1857
+2331,FREN,23810,Memory and Identity in French Literature: Proust to the Present
+2332,FREN,24110,L'écriture du quotidien au XXe siècle
+2333,FREN,25000,Molière
+2334,FREN,25220,Pour une sociologie de Rabelais
+2335,FREN,26043,"Versailles: Art, Power, Resistance and the Sun King's Palace"
+2336,FREN,27400,Autobiographies Maghrébines: de l'Ecriture de Soi à l'Ecriture de l'Histoire
+2337,FREN,29100,Pascal and Simone Weil
+2338,FREN,29322,"Europe's Intellectual Transformations, Renaissance through Enlightenment"
+2339,FREN,29700,Readings in Special Topics
+2340,FREN,29900,BA Paper Preparation: French
+2341,RLLT,38800,"Foreign Language Acquisition, Research and Teaching"
+2342,SOSC,27501,Civilisation Européenne I
+2343,SOSC,27601,Civilisation Europeenne-2
+2344,SOSC,27701,Civilisation Europeenne-3
+2345,ITAL,10100,Beginning Elementary Italian I
+2346,ITAL,10200,Beginning Elementary Italian II
+2347,ITAL,10300,Beginning Elementary Italian III
+2348,ITAL,12200,Italian for Speakers of Romance Languages
+2349,ITAL,20100,"Language, History, and Culture I"
+2350,ITAL,20200,"Language, History, and Culture II"
+2351,ITAL,20300,"Language, History, and Culture III"
+2352,ITAL,20400,Corso di perfezionamento
+2353,ITAL,16000,"Italian Renaissance: Dante, Machiavelli, and the Wars of Popes and Kings"
+2354,ITAL,22101,Dante's Divine Comedy-3: Paradiso
+2355,ITAL,22900,Vico's New Science
+2356,ITAL,23101,Early Italian Lyric: Dante and His Rivals
+2357,ITAL,24218,Unveiling Chivalry: Chivalric literature in Medieval and Early Modern Europe (1100-1600
+2358,ITAL,25218,Reading Nonhuman Animals: A Challenge to Anthropocentrism
+2359,ITAL,26500,Renaissance Demonology
+2360,ITAL,27500,Women and the Mafia in Contemporary Italian Cinema
+2361,ITAL,27700,The (Auto)Biography of a Nation: Francesco De Sanctis and Benedetto Croce
+2362,ITAL,28219,"Negative Empathy, Catharsis, Fear: An Intermedial Approach to Tragedy and Its Transformations"
+2363,ITAL,28400,Pasolini
+2364,ITAL,29600,The Worlds of Harlequin: Commedia Dell'arte
+2365,ITAL,29700,Readings in Special Topics
+2366,ITAL,29900,BA Paper Preparation: Italian
+2367,PORT,10100,Beginning Elementary Portuguese I
+2368,PORT,10200,Beginning Elementary Portuguese II
+2369,PORT,10300,Beginning Elementary Portuguese III
+2370,PORT,12200,Portuguese For Spanish Speakers
+2371,PORT,13120,Accelerated Portuguese for Speakers of Romance Languages
+2372,PORT,14100,Portuguese for Speakers of Romance Languages
+2373,PORT,14500,Portuguese for the Professions: Intensive Business Portuguese
+2374,PORT,20100,Intermediate Portuguese
+2375,PORT,20200,Advanced Portuguese
+2376,PORT,21500,Curso de Aperfeiçoamento
+2377,PORT,27200,Introduction to Brazilian Culture
+2378,PORT,29700,Readings in Special Topics
+2379,SPAN,10100,Beginning Elementary Spanish I
+2380,SPAN,10200,Beginning Elementary Spanish II
+2381,SPAN,10300,Beginning Elementary Spanish III
+2382,SPAN,10123,Summer Intensive Elementary Spanish
+2383,SPAN,20100,"Language, History, and Culture I"
+2384,SPAN,20200,"Language, History, and Culture II"
+2385,SPAN,20300,"Language, History, and Culture III"
+2386,SPAN,20102,"Language, History, and Culture for Heritage Speakers I"
+2387,SPAN,20202,Intermediate Spanish for Heritage Speakers
+2388,SPAN,20302,"Language, History, and Culture for Heritage Speakers III"
+2389,SPAN,20304,Spanish for the Professions
+2390,SPAN,20400,Composición y conversación avanzada I
+2391,SPAN,20500,Composición y conversación avanzada II
+2392,SPAN,20602,Discurso académico para hablantes nativos
+2393,SPAN,23333,Reading Spanish for Research Purposes
+2394,SPAN,21100,Las regiones del español
+2395,SPAN,21703,Introducción a las literaturas hispánicas: textos españoles clásicos
+2396,SPAN,21803,Introducción a las literaturas hispánicas: textos españoles contemporáneos
+2397,SPAN,21903,Intro. a las lit. hispánicas: textos hispanoamericanos desde la colonia a la independencia
+2398,SPAN,21910,Contemporary Catalan Literature
+2399,SPAN,22003,Introducción a las literaturas hispánicas: del modernismo al presente
+2400,SPAN,22218,De capa y espada: Martial Arts Culture in the Spanish Golden Age
+2401,SPAN,23201,"Art, Ekphrasis, and Myth in Early Modern Spanish Theater"
+2402,SPAN,23219,Leyes del deseo: miradas queer en España y Latinoamérica
+2403,SPAN,23619,Music and Ethnic Authenticity in Mexico and Cuba
+2404,SPAN,24019,The Translation Zone: Languages in Catalan-Speaking Territories
+2405,SPAN,24202,Don Quixote
+2406,SPAN,25818,Signs of the Americas
+2407,SPAN,26555,Self-determination and Democracy in Spain: The Case of Catalonia
+2408,SPAN,29117,Theater and Performance in Latin America
+2409,SPAN,29700,Readings in Special Topics
+2410,SPAN,29900,BA Paper Preparation: Spanish
+2411,BCSN,10103,First-Year Bosnian/Croatian/Serbian I
+2412,BCSN,10203,First-Year Bosnian/Croatian/Serbian II
+2413,BCSN,10303,First-Year Bosnian/Croatian/Serbian III
+2414,BCSN,20103,Second-Year Bosnian/Croatian/Serbian I
+2415,BCSN,20203,Second-Year Bosnian/Croatian/Serbian II
+2416,BCSN,20303,Second-Year Bosnian/Croatian/Serbian III
+2417,BCSN,21100,Advanced BCS: Literary Readings
+2418,BCSN,21101,Advanced Bosnian/Croatian/Serbian: Language through Fiction
+2419,BCSN,21200,Advanced Bosnian/Croatian/Serbian: Language Through Film
+2420,BCSN,21300,(Re)Branding the Balkan City: Comtemp. Belgrade/Sarajevo/Zagreb
+2421,BCSN,21400,Advanced BCS: Language through Art and Architecture
+2422,BCSN,29701,Intensive BCS Language and Culture Study
+2423,CZEC,10203,First-Year Czech-2
+2424,CZEC,10303,First Year Czech-3
+2425,CZEC,20103,Second Year Czech-1
+2426,CZEC,29700,Reading and Research Course
+2427,CZEC,29900,BA Paper
+2428,POLI,10103,First-Year Polish I
+2429,POLI,10203,First-Year Polish II
+2430,POLI,10303,First Year Polish-3
+2431,POLI,20103,Second-Year Polish I
+2432,POLI,20203,Second-Year Polish II
+2433,POLI,20303,Second-Year Polish-3
+2434,POLI,20403,Third Year Polish-1
+2435,POLI,20503,Third-Year Polish - 1
+2436,POLI,20603,Third-Year Polish-3
+2437,POLI,20700,Third-Year Polish III
+2438,POLI,24300,Polish Through Literary Readings III
+2439,POLI,27100,From Poland to Popland
+2440,POLI,29700,Reading/Research: Polish
+2441,RUSS,10103,First-Year Russian-1
+2442,RUSS,10123,Summer Intensive Introductory Russian
+2443,RUSS,10203,First-Year Russian-2
+2444,RUSS,10303,First-Year Russian-3
+2445,RUSS,10400,Russian Through Pushkin I
+2446,RUSS,10500,Russian through Pushkin II
+2447,RUSS,10600,Russian through Pushkin III
+2448,RUSS,20103,Second-Year Russian-1
+2449,RUSS,20104,Second-Year Russian Studies-1
+2450,RUSS,20203,Second-Year Russian-2
+2451,RUSS,20204,Second-Year Russian Studies - 2
+2452,RUSS,20303,Second-Year Russian-3
+2453,RUSS,20304,Second-Year Russian Studies III
+2454,RUSS,20702,Third-Year Russian through Culture I
+2455,RUSS,20802,Third-Year Russian through Culture II
+2456,RUSS,20902,Third-Year Russian through Culture III
+2457,RUSS,21302,Advanced Russian Thru Media-1
+2458,RUSS,21402,Adv Russian Through Media-2
+2459,RUSS,21502,Adv Russian Through Media-3
+2460,RUSS,21600,Russian For Heritage Learners
+2461,RUSS,23333,Reading Russian for Research Purposes
+2462,RUSS,26900,Strangers to Ourselves: Twentieth Century Émigré Literature from Russia and SE Europe
+2463,RUSS,29910,Special Topics in Advanced Russian
+2464,RUSS,29911,Special Topics in Advanced Russian
+2465,RUSS,29912,Special Topics in Advanced Russian
+2466,REES,13803,The Soviet Union
+2467,REES,20004,Nabokov: Lolita
+2468,REES,20007,Pushkin and His Age
+2469,REES,20011,Gogol
+2470,REES,20013,Dostoevsky
+2471,REES,20020,Pale Fire
+2472,REES,20021,Dostoyevsky's Crime and Punishment
+2473,REES,20200,Dostoevsky's Brothers Karamazov
+2474,REES,21000,Gombrowicz: The Writer as Philosopher
+2475,REES,21006,"Joseph Conrad's Secret Agent: (In)action, Surveillance, Terrorism"
+2476,REES,21101,Advanced Bosnian/Croatian/Serbian: Language through Fiction
+2477,REES,21300,(Re)Branding the Balkan City: Comtemp. Belgrade/Sarajevo/Zagreb
+2478,REES,21502,Adv Russian Through Media-3
+2479,REES,22007,Milan Kundera
+2480,REES,22008,The Fact of the Prague Spring: 1949-1989
+2481,REES,22402,Fate and Duty: European Tragedy from Aeschylus to Brecht
+2482,REES,23005,Russia's 3 Cinemas: BETW Politics and Cultures
+2483,REES,23015,Cinema and Poetry: The Modern City
+2484,REES,23019,"Europe Betw Black & Baltic Seas, Betw Russ & EU"
+2485,REES,23020,When Moscow was Paris
+2486,REES,23108,Contact Linguistics
+2487,REES,23115,Old Church Slavonic
+2488,REES,23119,Language/Power/Identity in South East Europe
+2489,REES,23137,Narratives Suspense in European/Russian Lit/Film
+2490,REES,23141,Avant-Garde in East Central Europe
+2491,REES,23153,Modern Central European Literature
+2492,REES,23157,Central Asian Cinema
+2493,REES,24002,The Non-Aligned Movement: From Bandung to Belgrade and Beyond
+2494,REES,24401,"Vampires, Villains, & Magic: The Supernatural in Eastern Euro"
+2495,REES,24403,Puppet Theory
+2496,REES,24410,Animation in the Eastern Bloc
+2497,REES,24414,Soviet Science Fiction
+2498,REES,24415,The Intelligentsia: On Slavic Social Thought
+2499,REES,24416,Russian Literature in the Composer's Ear
+2500,REES,25001,Introduction to the Musical Folklore of Central Asia
+2501,REES,25003,Philosophy of Architecture
+2502,REES,25005,History of International Cinema II: Sound Era to 1960
+2503,REES,25600,Realism in Russia
+2504,REES,25603,Media and Power in the Age of Putin and Trump
+2505,REES,25701,Memoir in Modernism
+2506,REES,26011,Intro to Russian Civilization-1
+2507,REES,26012,Intro Russian Civilization-2
+2508,REES,26017,The Soviet Visual Experience
+2509,REES,26019,Symbolism and Cinema
+2510,REES,26047,Pushkin and Gogol
+2511,REES,26064,Revolution
+2512,REES,26068,"The Underground: Alienation, Mobilization, Resistance"
+2513,REES,26071,Film and Revolution
+2514,REES,26075,For Science Fiction in Eastern Europe and Russia
+2515,REES,26076,Russian Modernist Poetry
+2516,REES,26077,Russian Modernist Theater
+2517,REES,26660,The Rise of the Global New Right
+2518,REES,27026,Kieslowski: The Decalogue
+2519,REES,27027,Cinema and the Holocaust
+2520,REES,27028,David Bergelson's Strange New World
+2521,REES,29007,The Brighter Side of the Balkans: Humor & Satire in Lit & Film
+2522,REES,29009,Balkan Folklore
+2523,REES,29010,20th Century Russian & South East European Emigre Literature
+2524,REES,29012,Returning the Gaze: The Balkans and Western Europe
+2525,REES,29013,The Burden of History: The Nation and Its Lost Paradise
+2526,REES,29016,"Gender in the Balkans: Wounded Men, Sworn Virgins, Eternal Mothers"
+2527,REES,29018,Imaginary Worlds: The Fantastic and Magic Realism in Russia and Southeastern Europe
+2528,REES,29021,The Shadows of Living Things: The Writings of Mikhail Bulgakov
+2529,REES,29023,Returning the Gaze: The West and the Rest
+2530,REES,29024,States of Surveillance
+2531,REES,29700,Reading/Research: Russian and Eastern European Studies
+2532,REES,29701,Reading/Research: Russian and Eastern European Studies II
+2533,REES,29702,Studies III
+2534,REES,29800,Reading/Research: Czech
+2535,REES,29801,Intercultural Adaptation: Kurosawa and His Russian Sources
+2536,REES,29811,The Novel-Essay and its Past
+2537,REES,29900,BA Paper Workshop
+2538,REES,29912,Special Topics in Advanced Russian
+2539,SOCI,20000,Invitation to Sociology
+2540,SOCI,20001,Sociological Methods
+2541,SOCI,20002,Social Structure and Change
+2542,SOCI,20004,Statistical Methods of Research
+2543,SOCI,20005,Sociological Theory
+2544,SOCI,20101,Organizational Analysis
+2545,SOCI,20103,Social Stratification
+2546,SOCI,20104,Urban Structure and Process
+2547,SOCI,20107,Sociology of Human Sexuality
+2548,SOCI,20125,Rational Foundations of Social Theory
+2549,SOCI,20126,Japanese Society: Functional/Cultural Explanations
+2550,SOCI,20140,Qualitative Field Methods
+2551,SOCI,20157,Mathematical Models
+2552,SOCI,20175,The Sociology of Deviant Behavior
+2553,SOCI,20192,The Effects of Schooling
+2554,SOCI,20226,Urban Schools and Communities
+2555,SOCI,20233,Race in Contemporary American Society
+2556,SOCI,20242,"States, Markets, and Bodies"
+2557,SOCI,20251,"Trade, Development and Poverty in Mexico"
+2558,SOCI,20253,Introduction to Spatial Data Science
+2559,SOCI,20263,Human Migration
+2560,SOCI,20264,Wealth
+2561,SOCI,20268,"Health, Medicine, and Human Rights"
+2562,SOCI,20274,Urban Spatial Archaeology II
+2563,SOCI,20280,The Politics of Popular Sovereignty: Participation and Protest
+2564,SOCI,20281,Library Methods for the Social Sciences
+2565,SOCI,20282,Immigrant America
+2566,SOCI,20284,Survey Research Practicum
+2567,SOCI,28080,Sociology of Medicine
+2568,SOCI,28081,The Social Life of the Law
+2569,SOCI,28082,Sociology of Higher Education
+2570,SOCI,29997,Readings in Sociology
+2571,SOCI,29998,Sociology BA Thesis Seminar
+2572,BANG,10100,First-Year Bangla (Bengali) I
+2573,BANG,10200,First-Year Bangla-2
+2574,BANG,10300,First-Year Bangla-3
+2575,BANG,20100,Second-Year Bangla (Bengali) I
+2576,BANG,20200,Second-Year Bangla-2
+2577,BANG,20300,Second-Year Bangla-3
+2578,HIND,10100,First-Year Hindi I
+2579,HIND,10200,First-Year Hindi II
+2580,HIND,10300,First-Year Hindi-3
+2581,HIND,15001,Elementary Hindi in India
+2582,HIND,15002,Elementary Hindi in India
+2583,HIND,15003,Intermediate Hindi in India
+2584,HIND,15004,Intermediate Hindi in India
+2585,HIND,15005,Advanced Hindi in India
+2586,HIND,15006,Advanced Hindi in India
+2587,HIND,20100,Second-Year Hindi I
+2588,HIND,20200,Second-Year Hindi II
+2589,HIND,20300,Second-Year Hindi-3
+2590,MARA,10100,First -Year Marathi-1
+2591,MARA,10200,First-Year Marathi-2
+2592,MARA,10300,First Year Marathi-3
+2593,MARA,15001,Elementary Marathi in India
+2594,MARA,15002,Elementary Marathi in India
+2595,MARA,15003,Intermediate Marathi in India
+2596,MARA,15004,Intermediate Marathi in India
+2597,MARA,15005,Advanced Marathi in India
+2598,MARA,15006,Advanced Marathi in India
+2599,MARA,20100,Second Year Marathi-1
+2600,MARA,20200,Second-Year Marathi-2
+2601,MARA,20300,Second-Year Marathi-3
+2602,PALI,20100,Second-Year Pali-1
+2603,PALI,20200,Second-Year Pali-2
+2604,PALI,20300,Second-Year Pali-3
+2605,SANS,10100,First-Year Sanskrit-I
+2606,SANS,10200,First-Year Sanskrit-2
+2607,SANS,10300,First-Year Sanskrit-3
+2608,SANS,20100,Second-Year Sanskrit I
+2609,SANS,20200,Second-year Sanskirt: Rdgs. in the Mahabharata
+2610,SANS,20300,Second-Year Sanskrit-3
+2611,SALC,20100,Introduction to the Civilizations of South Asia I
+2612,SALC,20200,Introduction to the Civilizations of South Asia II
+2613,SALC,20509,Bombay to Bollywood
+2614,SALC,20511,Screening India: Bollywood and Beyond
+2615,SALC,20608,Beginning Panjabi Studies
+2616,SALC,20702,Colonizations III
+2617,SALC,20722,"Colonialisms and Literature: Adventures, Exoticisms, East and West"
+2618,SALC,20800,Music of South Asia
+2619,SALC,20901,Indian Philosophy I: Origins and Orientations
+2620,SALC,20902,Indian Philosophy II: The Classical Traditions
+2621,SALC,22603,"Intro to Premodern South Asian Lit: Courts, Poets, Power"
+2622,SALC,22604,"A Poem in Every House"": An Introduction to Premodern South Asian Literatures 2"
+2623,SALC,23103,Problems In the Study of Gender
+2624,SALC,23104,"Problems in the Study of Gender: Gender, Citizenship, Violence"
+2625,SALC,25304,Introduction to Hinduism
+2626,SALC,25306,Sex and Censorship in South Asia
+2627,SALC,25310,"Extinction, Disaster, Dystopia: Environment and Ecology in the Indian Subcontinent"
+2628,SALC,25311,"The Harem: Gender, Family and Power in Early Modern and Modern South Asia"
+2629,SALC,25312,"India between Empires: Regions, Remembrance, and Representation"
+2630,SALC,25314,"Missionaries, Merchants and Saints: Christianity and Islam in the Indian Ocean, 15th-18th centuries"
+2631,SALC,25706,Problems in the Study of Gender and Sexuality: Inequality
+2632,SALC,26600,Asian Identities: 1890-1945
+2633,SALC,26611,"Empires, Imperialism, and Islam"
+2634,SALC,26709,Revolutionary Indian in a Global Context
+2635,SALC,26804,Frontiers and Borders in South Asia
+2636,SALC,26901,"Orality, Literature and Popular Culture of Afghanistan and Pakistan"
+2637,SALC,26903,History and Literature of Pakistan: Postcolonial Representations
+2638,SALC,27000,Survey/Lang/Lit of Pakistan
+2639,SALC,27301,Buddhism in South Asia
+2640,SALC,27515,"Race, Ethnicity, and Identity in and beyond South Asia"
+2641,SALC,27701,Mughal India: Tradition & Transition
+2642,SALC,27904,"Wives, Widows, and Prostitutes: Hindi Literature and the ""Women's Question"
+2643,SALC,28510,Bombay/Mumbai: Urban Life/Urban Politics
+2644,SALC,29000,Introduction To Tibetan Civilization
+2645,SALC,29002,"Tibet: Culture, Art, and History"
+2646,SALC,29300,"South Asian Aesthetics: Rasa to Rap, Kamasutra to Kant"
+2647,SALC,29502,"South India 1300-1700: Persons, Politics, Perceptions"
+2648,SALC,29503,Deccan Days: Exploring South Indian Frontiers
+2649,SALC,29700,Introduction to Buddhism
+2650,SALC,29800,BA Paper I
+2651,SALC,29801,BA Paper II
+2652,SALC,29802,B.A. Paper III
+2653,SALC,29900,Informal Course: South Asia
+2654,TAML,10100,First-Year Tamil-1
+2655,TAML,10200,First-Year Tamil-2
+2656,TAML,10300,First-Year Tamil-3
+2657,TAML,20100,Second-Year Tamil-1
+2658,TAML,20200,Second-Year Tamil-2
+2659,TAML,20300,Second-Year Tamil-3
+2660,TBTN,10100,First-Year Tibetan-1
+2661,TBTN,10200,First-Year Tibetan-2
+2662,TBTN,10300,First-Year Tibetan-3
+2663,TBTN,20100,Second-Year Tibetan-1
+2664,TBTN,20200,Second-Year Tibetan-2
+2665,TBTN,20300,Second-Year Tibetan-3
+2666,URDU,10100,First-Year Urdu I
+2667,URDU,10200,First-Year Urdu-2
+2668,URDU,10300,First-Year Urdu-3
+2669,URDU,20100,Second-Year Urdu-1
+2670,URDU,20200,Second-Year Urdu-2
+2671,URDU,20300,Second-Year Urdu III
+2672,STAT,11800,Introduction to Data Science - I
+2673,STAT,11900,Introduction to Data Science II
+2674,STAT,20000,Elementary Statistics
+2675,STAT,22000,Statistical Methods and Applications
+2676,STAT,22200,Linear Models And Experimental Design
+2677,STAT,22400,Applied Regression Analysis
+2678,STAT,22600,Analysis of Categorical Data
+2679,STAT,22700,Biostatistical Methods
+2680,STAT,22810,Epidemiology and Population Health
+2681,STAT,23400,Statistical Models and Methods
+2682,STAT,24300,Numerical Linear Algebra
+2683,STAT,24400,Statistical Theory and Methods I
+2684,STAT,24500,Statistical Theory and Methods II
+2685,STAT,24410,Statistical Theory and Methods Ia
+2686,STAT,24510,Statistical Theory and Methods IIa
+2687,STAT,24620,Multivariate Statistical Analysis: Applications and Techniques
+2688,STAT,25100,Introduction to Mathematical Probability
+2689,STAT,25150,Introduction to Mathematical Probability-A
+2690,STAT,25300,Introduction to Probability Models
+2691,STAT,26100,Time Dependent Data
+2692,STAT,26300,Introduction to Statistical Genetics
+2693,STAT,26700,History of Statistics
+2694,STAT,27400,Nonparametric Inference
+2695,STAT,27725,Machine Learning
+2696,STAT,27850,"Multiple Testing, Modern Inference, and Replicability"
+2697,STAT,28000,Optimization
+2698,STAT,28200,Dynamical Systems with Applications
+2699,STAT,29700,Undergraduate Research
+2700,STAT,29900,Bachelor's Paper
+2701,TAPS,10100,Drama: Embodiment and Transformation
+2702,TAPS,10200,Acting Fundamentals
+2703,TAPS,10300,Text and Performance
+2704,TAPS,10500,Staging Terror
+2705,TAPS,10600,Staging Desire
+2706,TAPS,10700,Introduction to Stage Design
+2707,TAPS,15500,Beginning Screenwriting
+2708,TAPS,20100,Twentieth-Century American Drama
+2709,TAPS,20600,Adapting the Unadaptable
+2710,TAPS,20610,Adaptation & Translation in Theater-Making
+2711,TAPS,20700,Dramaturgy and Dramatic Criticism
+2712,TAPS,21440,Court Theater Artist Master Class
+2713,TAPS,21600,Acting Workshop
+2714,TAPS,21700,An Actor Observes
+2715,TAPS,21730,Movement for Actors
+2716,TAPS,22300,Performance Art Installation: The Dreamer and the Dream
+2717,TAPS,22880,Theorizing Performance
+2718,TAPS,22900,Introduction to Theater & Performance Studies
+2719,TAPS,23000,Introduction to Directing
+2720,TAPS,23100,Advanced Directing
+2721,TAPS,23110,Directing Study
+2722,TAPS,23410,Camp and Theatre of the Ridiculous
+2723,TAPS,23600,Improv and Sketch
+2724,TAPS,23610,Fundamentals of Musical Improv
+2725,TAPS,23700,Playwriting: Creating Natural Dialogue for the Stage
+2726,TAPS,23910,Advanced Playwriting Workshop
+2727,TAPS,24410,Transmedia Puzzle Design & Performance
+2728,TAPS,24500,Chicago Theater: Budgets and Buildings
+2729,TAPS,24902,Performance Lab: Non-Fiction Sources
+2730,TAPS,25500,Advanced Screenwriting
+2731,TAPS,25515,Contemporary Political Strategies in Performance
+2732,TAPS,25910,Short Form Digital Storytelling: Creating a Web Series
+2733,TAPS,26100,Dance Composition
+2734,TAPS,26400,Post-Dramatic Theater
+2735,TAPS,26530,Staging the Internet
+2736,TAPS,27100,Scene Painting
+2737,TAPS,27500,Costume Design for the Stage
+2738,TAPS,27700,Introduction to Puppetry
+2739,TAPS,28000,Scenic Design
+2740,TAPS,28100,Lighting Design for the Stage
+2741,TAPS,28320,The Mind as Stage: Podcasting
+2742,TAPS,28466,Alternate Reality Games: Theory and Production
+2743,TAPS,29900,Reading and Research
+2744,TAPS,29800,Theater and Performance Studies BA Colloquium
+2745,ARTV,10100,Visual Language: On Images
+2746,ARTV,10200,Visual Language: On Objects
+2747,ARTV,10300,Visual Language: On Time and Space
+2748,ARTV,15500,A Curating History: The Documenta Case
+2749,ARTV,15650,Art Since 1900
+2750,ARTV,16210,Media Art and Design Practice
+2751,ARTV,20002,History of International Cinema I: Silent Era
+2752,ARTV,20003,History of International Cinema II: Sound Era to 1960
+2753,ARTV,20006,Contemporary Art
+2754,ARTV,20008,Ways of Curating and Collecting
+2755,ARTV,20010,Contemporary Art in Paris
+2756,ARTV,20012,A Curating Case-Study: The Hut
+2757,ARTV,20210,Imagining Chicago's Common Buildings
+2758,ARTV,20211,Adaptation & Translation in Theater-Making
+2759,ARTV,20300,Introduction to Film Analysis
+2760,ARTV,20400,Theories of Media
+2761,ARTV,20500,Introduction to Genres: Writing the Visual Arts
+2762,ARTV,20663,Urban Studies: Placemaking
+2763,ARTV,20700,Alternate Reality Games: Theory and Production
+2764,ARTV,20704,Photo/Modernism/Esthetic
+2765,ARTV,20805,"Framing, Re-framing, and Un-framing Cinema"
+2766,ARTV,21002,Life Drawing
+2767,ARTV,21501,Introduction to Printmaking
+2768,ARTV,21701,Conceptual Drawing
+2769,ARTV,21702,Drawing Concepts
+2770,ARTV,21800,Studio Practice
+2771,ARTV,21801,Repetitive Acts
+2772,ARTV,21902,Color: Theory and Experience
+2773,ARTV,22000,Introduction to Painting I
+2774,ARTV,22002,Introduction to Painting II
+2775,ARTV,22200,Introduction to Sculpture
+2776,ARTV,22305,Performing Tableware
+2777,ARTV,22306,Hybridity and the Multiple: A Course on Moldmaking
+2778,ARTV,22312,Material as Performance
+2779,ARTV,22502,Data and Algorithm in Art
+2780,ARTV,23801,Video
+2781,ARTV,23804,Experimental Animation: Exploring Manual Techniques
+2782,ARTV,23808,Introduction to 16mm Filmmaking
+2783,ARTV,23809,Experimental Animation: Digital and Camera-less Production
+2784,ARTV,23905,Creative Thesis Workshop
+2785,ARTV,23930,Documentary Production I
+2786,ARTV,23931,Documentary Production II
+2787,ARTV,24000,Introduction to Black and White Film Photography
+2788,ARTV,24004,Introduction to Color Photography
+2789,ARTV,24112,Advanced Problems in Sculpture
+2790,ARTV,24121,Adopted Strategies
+2791,ARTV,24201,Collage
+2792,ARTV,24203,"Synthesis, Procedure and Objecthood"
+2793,ARTV,24301,Writing for Performance
+2794,ARTV,24403,Advanced Photography
+2795,ARTV,24550,Shopcraft: Methods and Materials
+2796,ARTV,24554,Costume Design and Technology for the Stage
+2797,ARTV,24706,Drawing Through the World: Relational Ways of Seeing
+2798,ARTV,25117,"The Audience, The Archaeologist, and the Art Historian"
+2799,ARTV,25401,Transmedia Game
+2800,ARTV,25402,Metamedia Design Studio
+2801,ARTV,26205,Big Art - Little Art
+2802,ARTV,26218,Gods of the 21st Century and Beyond: Religion and Parallel Activity in Contemporary Art
+2803,ARTV,27200,Painting
+2804,ARTV,27210,Intermediate/Advanced Painting
+2805,ARTV,27920,Virtual Reality Production
+2806,ARTV,27921,Augmented Reality Production
+2807,ARTV,27922,Sound / Image Mapping
+2808,ARTV,27923,Experimental Captures
+2809,ARTV,29600,Junior Seminar
+2810,ARTV,29700,Independent Study in Visual Arts
+2811,ARTV,29850,Senior Seminar
+2812,ARTV,29900,Senior Project
+2813,BIOS,10130,Core Biology
+2814,BIOS,11125,Life Through a Genomic Lens
+2815,BIOS,11125,Life Through a Genomic Lens
+2816,BIOS,11140,Biotechnology for the 21st Century
+2817,BIOS,12114,Nutritional Science
+2818,BIOS,12115,Responses of Cardiopulmonary System to Stress
+2819,BIOS,12116,The Human Body in Health and Disease
+2820,BIOS,12117,The 3.5 Billion Year History of the Human Body
+2821,BIOS,13111,Natural History of North American Deserts
+2822,BIOS,13112,Natural History of North American Desert
+2823,BIOS,13123,Biological Evolution
+2824,BIOS,13126,Tropical Ecology: Biodiversity and Human Impacts
+2825,BIOS,13128,Plant-Animal Interactions
+2826,BIOS,13133,Resolving the Environmental Crisis
+2827,BIOS,13140,The Public and Private Lives of Insects
+2828,BIOS,13141,The Mathematics of Evolution
+2829,BIOS,13253,Apes and Human Evolution
+2830,BIOS,14112,Workings of the Human Brain: From Brain to Behavior
+2831,BIOS,14114,Drugs Galore: What They Are and What They Do to You
+2832,BIOS,14116,Introduction to Social Neuroscience
+2833,BIOS,15115,Cancer Biology: How Good Cells Go Bad
+2834,BIOS,15124,The Principles of Microbiology/Global Infectious Diseases
+2835,BIOS,16120,The Biological Nature of Psychological Problems
+2836,BIOS,10450,Pharmacological Perspectives in Cell and Molecular Biology
+2837,BIOS,10450,Pharmacological Perspectives in Cell and Molecular Biology
+2838,BIOS,10451,Pharmacological Perspectives II
+2839,BIOS,10500,Metabolism and Exercise
+2840,BIOS,10501,Metabolism and Nutrition
+2841,BIOS,10602,Multiscale Modeling of Biological Systems I
+2842,BIOS,10603,Multiscale Modeling of Biological Systems II
+2843,BIOS,20170,Microbial and Human Cell Biology
+2844,BIOS,20171,Human Genetics and Developmental Biology
+2845,BIOS,20151,Introduction to Quantitative Modeling in Biology (Basic
+2846,BIOS,20152,Introduction to Quantitative Modeling in Biology (Advanced
+2847,BIOS,20153,Fundamentals of Ecology and Ev
+2848,CRES,24001,Colonizations I
+2849,CRES,24002,Colonizations II
+2850,CRES,24003,Colonizations III
+2851,EALC,10800,Intro To East Asian Civilization I
+2852,EALC,10900,Intro to East Asian Civilization II
+2853,EALC,11000,Intro to East Asian Civilization III
+2854,GNSE,15002,Gender and Sexuality in World Civilizations I
+2855,GNSE,15003,Gender and Sexuality in World Civilizations II
+2856,HIST,10101,Introduction to African Civilization I
+2857,HIST,10102,Introduction to African Civilization II
+2858,HIST,10103,Introduction to African Civilization III
+2859,HIST,13001,History of European Civilization I
+2860,HIST,13002,History of European Civilization II
+2861,HIST,13003,History of European Civilization III
+2862,HIST,13100,Western Civilization-1
+2863,HIST,13200,Western Civilization-2
+2864,HIST,13300,History of Western Civilization III
+2865,HIST,13500,America In World Civilization I
+2866,HIST,13600,America in World Civilization II
+2867,HIST,13700,America in World Civilization-III
+2868,HIST,13900,Intro to Russian Civilization-1
+2869,HIST,14000,Intro Russian Civilization-2
+2870,HIST,16700,Anc Mediterr World-1: Greece
+2871,HIST,16800,Anc Mediterr World-2: Rome
+2872,HIST,16900,Ancient Mediterranean World III
+2873,HMRT,10100,Human Rights in World Civilizations I
+2874,HMRT,10200,Human Rights in World Civilizations II
+2875,JWSC,12000,Jewish Civilization I: Ancient Beginnings to Early Medieval Period
+2876,JWSC,12001,Jewish Civilization II: Late Medieval to Modern Period
+2877,LACS,16100,Introduction to Latin American Civilization I
+2878,LACS,16200,Introduction to Latin American Civilization II
+2879,LACS,16300,Introduction to Latin American Civilization III
+2880,MUSI,12100,Music In Western Civilization I: To 1750
+2881,MUSI,12200,Music In Western Civ II
+2882,NEHC,20001,Ancient Near Eastern History and Society I: Egypt
+2883,NEHC,20002,Ancient Near Eastern History and Society II
+2884,NEHC,20003,Ancient Near Eastern History and Society III
+2885,NEHC,20004,Ancient Near Eastern Thought and Literature I: Mesopotamian Literature
+2886,NEHC,20005,Ancient Near Eastern Thought & Literature-2: Anatolian Lit
+2887,NEHC,20006,Ancient Near Eastern Thought & Literature-3
+2888,NEHC,20011,Ancient Empires I
+2889,NEHC,20012,Ancient Empires-II
+2890,NEHC,20013,Ancient Empires-3
+2891,NEHC,20416,"Semitic Languages, Cultures, and Civilizations I"
+2892,NEHC,20417,"Semitic Languages, Cultures, and Civilizations II"
+2893,NEHC,20418,"Semitic Languages, Cultures, and Civilizations III"
+2894,NEHC,20501,Islamic History and Society I: The Rise of Islam and the Caliphate
+2895,NEHC,20502,Islamic History and Society II: The Middle Period
+2896,NEHC,20503,Islamic History and Society III:The Modern Middle East
+2897,NEHC,20601,Islamic Thought and Literature I
+2898,NEHC,20602,Islamic Thought and Literature II
+2899,NEHC,20603,Islamic Thought and Literature III
+2900,SALC,20100,Introduction to the Civilizations of South Asia I
+2901,SALC,20200,Introduction to the Civilizations of South Asia II
+2902,HUMA,11000,Readings in World Literature I
+2903,HUMA,11100,Readings in World Literature II
+2904,HUMA,11200,Readings in World Literature III
+2905,HUMA,11500,Philosophical Perspectives I
+2906,HUMA,11600,Philosophical Perspectives II
+2907,HUMA,11700,Philosophical Perspectives III
+2908,HUMA,12050,"Greece and Rome: Texts, Traditions, Transformations I"
+2909,HUMA,12150,"Greece and Rome: Texts, Traditions, Transformations II"
+2910,HUMA,12250,"Greece and Rome: Texts, Traditions, Transformations III"
+2911,HUMA,12300,Human Being and Citizen I
+2912,HUMA,12400,Human Being and Citizen II
+2913,HUMA,12500,Human Being and Citizen III
+2914,HUMA,13500,Introduction to the Humanities I
+2915,HUMA,13600,Introduction to the Humanities II
+2916,HUMA,13700,Introduction to the Humanities III
+2917,HUMA,14000,"Reading Cultures: Collection, Travel, Exchange I"
+2918,HUMA,14100,"Reading Cultures: Collection, Travel, Exchange II"
+2919,HUMA,14200,"Reading Cultures: Collection, Travel, Exchange III"
+2920,HUMA,16000,"Media Aesthetics: Image, Text, Sound I"
+2921,HUMA,16100,"Media Aesthetics: Image, Text, Sound II"
+2922,HUMA,16200,"Media Aesthetics: Image, Text, Sound III"
+2923,HUMA,17000,Language and the Human I
+2924,HUMA,17100,Language and the Human II
+2925,HUMA,17200,Language and the Human III
+2926,HUMA,18000,Poetry and the Human I
+2927,HUMA,18100,Poetry and the Human II
+2928,HUMA,18200,Poetry and the Human III
+2929,HUMA,19100,Humanities Writing Seminars
+2930,HUMA,2980,Practicum
+2931,HUMA,20710,At the Piano-I: Keyboard Studies for Non-Music Majors
+2932,HUMA,20711,At the Piano II: Keyboard Studies for Non-Music Majors
+2933,HUMA,20712,At the Piano III: Keyboard Studies for Non-Music Majors
+2934,HUMA,20713,At the Piano IV: Keyboard Studies for Non-Music Majors
+2935,HUMA,25202,Media Ecology: Embodiment & Software
+2936,HUMA,25206,"Digital Culture: Artificial Intelligence, Algorithms, and the Web"
+2937,HUMA,29700,Reading Course
+2938,PHSC,10100,Origin and Evolution of the Solar System and the Earth
+2939,PHSC,10800,Earth as a Planet: Exploring Our Place in the Universe
+2940,PHSC,11000,Environmental History of the Earth
+2941,PHSC,11100,Modern Physics I: Modern Physics in the Everyday World
+2942,PHSC,11200,Modern Physics II: Paradoxes in Modern Physics
+2943,PHSC,11300,Everyday Physics
+2944,PHSC,11600,Physics for Future Presidents: Fundamental Concepts and Applications
+2945,PHSC,11700,Physics for Future Presidents: Energy and Sustainability
+2946,PHSC,12300,Chemistry for an Alternative Energy Economy
+2947,PHSC,12400,The Chemistry of Big Problems
+2948,PHSC,12500,Molecular Mechanisms of Human Disease
+2949,PHSC,12600,"Matter, Energy, Space, and Time"
+2950,PHSC,12610,Black Holes
+2951,PHSC,12620,The Big Bang
+2952,PHSC,12700,Stars
+2953,PHSC,12710,Galaxies
+2954,PHSC,12720,Exoplanets
+2955,PHSC,13400,Global Warming: Understanding the Forecast
+2956,PHSC,13500,Chemistry & The Atmosphere
+2957,PHSC,13600,Natural Hazards
+2958,PHSC,18100,The Milky Way
+2959,PHSC,18200,The Origin and Evolution of the Universe
+2960,PHSC,18300,Searching Between the Stars
+2961,PHSC,18800,Philosophical Problems in Cosmology
+2962,SOSC,11400,"Power, Identity, Resistance I"
+2963,SOSC,11500,"Power, Identity, Resistance II"
+2964,SOSC,11600,"Power, Identity, Resistance III"
+2965,SOSC,12400,"Self, Culture, and Society I"
+2966,SOSC,12500,"Self, Culture, and Society II"
+2967,SOSC,12600,"Self, Culture, and Society III"
+2968,SOSC,13100,Social Science Inquiry I
+2969,SOSC,13200,Social Science Inquiry II
+2970,SOSC,13300,Social Science Inquiry III
+2971,SOSC,13110,Social Science Inquiry: Formal Theory I
+2972,SOSC,13210,Social Science Inquiry: Formal Theory II
+2973,SOSC,13310,Social Science Inquiry: Formal Theory III
+2974,SOSC,13120,Social Science Inquiry: Spatial Analysis I
+2975,SOSC,13220,Social Science Inquiry: Spatial Analysis II
+2976,SOSC,13320,Social Science Inquiry: Spatial Analysis III
+2977,SOSC,14100,Mind I
+2978,SOSC,14200,Mind II
+2979,SOSC,14300,Mind III
+2980,SOSC,15100,Classics of Social and Political Thought I
+2981,SOSC,15200,Classics of Social and Political Thought II
+2982,SOSC,15300,Classics of Social and Political Thought III
+2983,SOSC,16100,Global Society I
+2984,SOSC,16200,Global Society II
+2985,SOSC,16300,Global Society III
+2986,SOSC,2980,Practicum
+2987,SOSC,21100,Music In Western Civilization I: To 1750
+2988,SOSC,21200,Music In Western Civ II
+2989,SOSC,22000,Islamic Thought and Literature I
+2990,SOSC,22100,Islamic Thought and Literature II
+2991,SOSC,22200,Islamic Thought and Literature III
+2992,SOSC,23000,Introduction to the Civilizations of South Asia I
+2993,SOSC,23100,Introduction to the Civilizations of South Asia II
+2994,SOSC,23500,Intro To East Asian Civilization I
+2995,SOSC,23600,Intro to East Asian Civilization II
+2996,SOSC,23700,Intro to East Asian Civilization III
+2997,SOSC,24000,Intro to Russian Civilization-1
+2998,SOSC,24100,Intro Russian Civilization-2
+2999,SOSC,24001,Colonizations I
+3000,SOSC,24002,Colonizations II
+3001,SOSC,24003,Colonizations III
+3002,SOSC,25090,Anthropology of Olympic Sport
+3003,SOSC,25100,Urban Structure and Process
+3004,SOSC,26100,Introduction to Latin American Civilization I
+3005,SOSC,26200,Introduction to Latin American Civilization II
+3006,SOSC,26300,Introduction to Latin American Civilization III
+3007,SOSC,26004,History of City Planning
+3008,SOSC,29700,Rdgs: Social Sciences
+3009,SOSC,29900,BA Paper in Russian Civilization
+3010,SOSC,34500,Anthropology Of Museums-1
+3011,SOSC,34600,Anthropology Of Museum-2
+3012,PHSC,10100,Origin and Evolution of the Solar System and the Earth
+3013,PHSC,10800,Earth as a Planet: Exploring Our Place in the Universe
+3014,PHSC,11000,Environmental History of the Earth
+3015,PHSC,11100,Modern Physics I: Modern Physics in the Everyday World
+3016,PHSC,11200,Modern Physics II: Paradoxes in Modern Physics
+3017,PHSC,11300,Everyday Physics
+3018,PHSC,11600,Physics for Future Presidents: Fundamental Concepts and Applications
+3019,PHSC,11700,Physics for Future Presidents: Energy and Sustainability
+3020,PHSC,12300,Chemistry for an Alternative Energy Economy
+3021,PHSC,12400,The Chemistry of Big Problems
+3022,PHSC,12500,Molecular Mechanisms of Human Disease
+3023,PHSC,12600,"Matter, Energy, Space, and Time"
+3024,PHSC,12610,Black Holes
+3025,PHSC,12620,The Big Bang
+3026,PHSC,12700,Stars
+3027,PHSC,12710,Galaxies
+3028,PHSC,12720,Exoplanets
+3029,PHSC,13400,Global Warming: Understanding the Forecast
+3030,PHSC,13500,Chemistry & The Atmosphere
+3031,PHSC,13600,Natural Hazards
+3032,PHSC,18100,The Milky Way
+3033,PHSC,18200,The Origin and Evolution of the Universe
+3034,PHSC,18300,Searching Between the Stars
+3035,PHSC,18800,Philosophical Problems in Cosmology
+3036,BIOS,10130,Core Biology
+3037,BIOS,11125,Life Through a Genomic Lens
+3038,BIOS,11125,Life Through a Genomic Lens
+3039,BIOS,11140,Biotechnology for the 21st Century
+3040,BIOS,12114,Nutritional Science
+3041,BIOS,12115,Responses of Cardiopulmonary System to Stress
+3042,BIOS,12116,The Human Body in Health and Disease
+3043,BIOS,12117,The 3.5 Billion Year History of the Human Body
+3044,BIOS,13111,Natural History of North American Deserts
+3045,BIOS,13112,Natural History of North American Desert
+3046,BIOS,13123,Biological Evolution
+3047,BIOS,13126,Tropical Ecology: Biodiversity and Human Impacts
+3048,BIOS,13128,Plant-Animal Interactions
+3049,BIOS,13133,Resolving the Environmental Crisis
+3050,BIOS,13140,The Public and Private Lives of Insects
+3051,BIOS,13141,The Mathematics of Evolution
+3052,BIOS,13253,Apes and Human Evolution
+3053,BIOS,14112,Workings of the Human Brain: From Brain to Behavior
+3054,BIOS,14114,Drugs Galore: What They Are and What They Do to You
+3055,BIOS,14116,Introduction to Social Neuroscience
+3056,BIOS,15115,Cancer Biology: How Good Cells Go Bad
+3057,BIOS,15124,The Principles of Microbiology/Global Infectious Diseases
+3058,BIOS,16120,The Biological Nature of Psychological Problems
+3059,BIOS,10450,Pharmacological Perspectives in Cell and Molecular Biology
+3060,BIOS,10450,Pharmacological Perspectives in Cell and Molecular Biology
+3061,BIOS,10451,Pharmacological Perspectives II
+3062,BIOS,10500,Metabolism and Exercise
+3063,BIOS,10501,Metabolism and Nutrition
+3064,BIOS,10602,Multiscale Modeling of Biological Systems I
+3065,BIOS,10603,Multiscale Modeling of Biological Systems II
+3066,BIOS,20170,Microbial and Human Cell Biology
+3067,BIOS,20171,Human Genetics and Developmental Biology
+3068,BIOS,20151,Introduction to Quantitative Modeling in Biology (Basic
+3069,BIOS,20152,Introduction to Quantitative Modeling in Biology (Advanced
+3070,BIOS,20153,Fundamentals of Ecology and Ev
+3071,JWSC,11000,Biblical Aramaic
+3072,JWSC,11100,Old Aramaic Inscriptions
+3073,JWSC,11200,Imperial Aramaic
+3074,JWSC,12000,Jewish Civilization I: Ancient Beginnings to Early Medieval Period
+3075,JWSC,12001,Jewish Civilization II: Late Medieval to Modern Period
+3076,JWSC,20120,Introduction to the Hebrew Bible
+3077,JWSC,20121,The Bible and Archaeology
+3078,JWSC,20300,Elementary Yiddish I
+3079,JWSC,20400,Elementary Yiddish for Beginners-II
+3080,JWSC,20500,Elementary Yiddish III
+3081,JWSC,20895,The Construction of Jewish History in Israel
+3082,JWSC,21107,Rdg: Maimonides' Guide of the Perplexed
+3083,JWSC,22000,Elementary Classical Hebrew I
+3084,JWSC,22100,Elementary Classical Hebrew II
+3085,JWSC,22200,Elementary Classical Hebrew-3
+3086,JWSC,22300,Intermediate Classical Hebrew I
+3087,JWSC,22400,Intermediate Classical Hebrew II
+3088,JWSC,22500,Intermediate Classical Hebrew III
+3089,JWSC,23118,Gender and Sexuality in Jewish Society: Early Modernity through the Present
+3090,JWSC,24105,Letters to Zion
+3091,JWSC,24650,Introduction to Kabbalah
+3092,JWSC,25000,Introductory Modern Hebrew-1
+3093,JWSC,25100,Introductory Modern Hebrew-II
+3094,JWSC,25200,Introductory Modern Hebrew III
+3095,JWSC,25149,Anthropology of Israel
+3096,JWSC,26210,Oedipus in Zion: The Oedipal Figure in Modern Hebrew Literature
+3097,JWSC,27650,Yiddish Literature in America
+3098,JWSC,28110,Queer Jewish Literature
+3099,JWSC,28139,"Society, Politics and Security in Israel"
+3100,JWSC,29550,Cinema and the Holocaust
+3101,JWSC,29560,Reckoning With the Holocaust
+3102,JWSC,29700,Reading/Research: Jewish Std
+3103,JWSC,29900,BA Preparation Course
+3104,BIOS,20151,Introduction to Quantitative Modeling in Biology (Basic
+3105,BIOS,20152,Introduction to Quantitative Modeling in Biology (Advanced
+3106,BIOS,20153,Fundamentals of Ecology and Ev
+3107,BIOS,20170,Microbial and Human Cell Biology
+3108,BIOS,20171,Human Genetics and Developmental Biology
+3109,BIOS,20172,Mathematical Modeling for Pre-Med Students
+3110,BIOS,20173,Perspectives of Human Physiology
+3111,BIOS,20175,Biochemistry and Metabolism
+3112,BIOS,20186,Fundamentals of Cell and Molecular Biology
+3113,BIOS,20187,Fundamentals of Genetics
+3114,BIOS,20188,Fundamentals of Physiology
+3115,BIOS,20189,Fundamentals of Developmental Biology
+3116,BIOS,20190,Principles of Developmental Biology
+3117,BIOS,20191,Integrative Physiology
+3118,BIOS,20196,Ecology and Conservation
+3119,BIOS,20198,Biodiversity
+3120,BIOS,20234,Molecular Biology of the Cell
+3121,BIOS,20235,Biological Systems
+3122,BIOS,20236,Biological Dynamics
+3123,BIOS,20242,Principles of Physiology
+3124,BIOS,20200,Introduction to Biochemistry
+3125,BIOS,21216,Intro Statistical Genetics
+3126,BIOS,21229,Genome Informatics: How Cells Reorganize Genomes
+3127,BIOS,21236,Genetics of Model Organisms
+3128,BIOS,21237,Developmental Mechanisms
+3129,BIOS,21238,Cell Biology II
+3130,BIOS,21249,"Organization, Expression, and Transmission of Genome Information"
+3131,BIOS,21306,Human Genetics and Evolution
+3132,BIOS,21317,Topics in Biological Chemistry
+3133,BIOS,21328,Biophysics of Biomolecules
+3134,BIOS,21349,Protein Structure and Functions in Medicine
+3135,BIOS,21356,Vertebrate Development
+3136,BIOS,21358,"Simulation, Modeling, and Computation in Biophysics"
+3137,BIOS,21360,Advanced Molecular Biology
+3138,BIOS,21407,Image Processing in Biology
+3139,BIOS,21415,Stem Cells in Development and Diseases
+3140,BIOS,21416,Stem Cells and Regeneration
+3141,BIOS,21417,Systems Biology: Molecular Regulatory Logic of Networks
+3142,BIOS,21418,Historical and Conceptual Foundations of DevoEvo
+3143,BIOS,21506,Biological Physics
+3144,BIOS,21507,The Engineering and Biology of Tissue Repair
+3145,BIOS,22226,Human Developmental Biology
+3146,BIOS,22233,Comparative Vertebrate Anatomy
+3147,BIOS,22236,Reproductive Biology of Primates
+3148,BIOS,22245,Biomechanics: How Life Works
+3149,BIOS,22249,Principles of Toxicology
+3150,BIOS,22250,Chordates: Evolution and Comparative Anatomy
+3151,BIOS,22260,Vertebrate Structure and Function
+3152,BIOS,22265,Human Origins: Milestones in Human Evolution and the Fossil Record
+3153,BIOS,22306,Evolution and Development
+3154,BIOS,23100,Dinosaur Science
+3155,BIOS,23232,Ecology and Evolution in the Southwest
+3156,BIOS,23233,Ecology and Evolution in the Southwest:Field School
+3157,BIOS,23242,Primate Evolution and the Roots of Human Biology
+3158,BIOS,23247,Bioarchaeology and the Human Skeleton
+3159,BIOS,23249,Animal Behavior
+3160,BIOS,23252,Field Ecology
+3161,BIOS,23254,Mammalian Ecology
+3162,BIOS,23258,Molecular Evolution I: Fundamentals and Principles
+3163,BIOS,23261,Invertebrate Paleobiology and Evolution
+3164,BIOS,23262,Mammalian Evolutionary Biology
+3165,BIOS,23266,Evolutionary Adaptation
+3166,BIOS,23289,Marine Ecology
+3167,BIOS,23299,Plant Development and Molecular Genetics
+3168,BIOS,23365,Evolutionary and Genomic Medicine I
+3169,BIOS,23404,Reconstructing the Tree of Life: An Introduction to Phylogenetics
+3170,BIOS,23406,Biogeography
+3171,BIOS,23409,The Ecology and Evolution of Infectious Diseases
+3172,BIOS,23410,"Complex Interactions: Coevolution, Parasites, Mutualists, and Cheaters"
+3173,BIOS,24110,Fundamental Neuroscience
+3174,BIOS,24120,Cellular Neuroscience
+3175,BIOS,24130,Systems Neuroscience
+3176,BIOS,24131,Molecular Neuroscience
+3177,BIOS,24208,Survey of Systems Neuroscience
+3178,BIOS,24217,Conquest of Pain
+3179,BIOS,24231,Methods in Computational Neuroscience
+3180,BIOS,24232,Computational Approaches to Cognitive Neuroscience
+3181,BIOS,24248,Biological Clocks and Behavior
+3182,BIOS,24408,Modeling and Signal Analysis for Neuroscientists
+3183,BIOS,25108,Cancer Biology
+3184,BIOS,25109,Topics in Reproduction and Cancer
+3185,BIOS,25126,Animal Models of Human Disease
+3186,BIOS,25206,Fundamentals of Bacterial Physiology
+3187,BIOS,25216,Molecular Basis of Bacterial Disease
+3188,BIOS,25226,Endocrinology I: Cell Signaling
+3189,BIOS,25227,Endocrinology II: Systems and Physiology
+3190,BIOS,25228,Endocrinology III: Human Disease
+3191,BIOS,25256,Immunobiology
+3192,BIOS,25258,Immunopathology
+3193,BIOS,25260,Host Pathogen Interactions
+3194,BIOS,25266,Molecular Immunology
+3195,BIOS,25267,Mucosal Immunology
+3196,BIOS,25287,Introduction to Virology
+3197,BIOS,25308,Heterogeneity in Human Cancer: Etiology and Treatment
+3198,BIOS,25326,Tumor Microenvironment and Metastasis
+3199,BIOS,25327,Health Disparities in Breast Cancer
+3200,BIOS,25407,Organ Transplantation
+3201,BIOS,26120,An Introduction to Bioinformatics and Proteomics
+3202,BIOS,26210,Mathematical Methods for Biological Sciences I
+3203,BIOS,26211,Mathematical Methods for Biological Sciences II
+3204,BIOS,26318,Fundamentals of Biological Data Analysis
+3205,BIOS,27710,Ecology - Marine Biological Laboratory
+3206,BIOS,27711,Biogeochemical Analysis in Terrestrial and Aquatic Ecosystems  Marine Biological Laboratory
+3207,BIOS,27712,Independent Undergraduate Research in Environmental Sciences  Marine Biological Laboratory
+3208,BIOS,27713,Quantitative Environmental Analyses  Marine Biological Laboratory
+3209,BIOS,27714,Methods in Microbial Ecology - Marine Biological Laboratory
+3210,BIOS,27715,Roles of Animals in Ecosystems  Marine Biological Laboratory
+3211,BIOS,27720,Microbiomes Across Environments
+3212,BIOS,27721,Observing Proteins in Action: How to Design and Build Your Own Instruments
+3213,BIOS,27723,Biodiversity and Genomics: Exploring the Marine Animal Diversity of Woods Hole Using Molecular Tools
+3214,BIOS,27810,Epidemiology and Population Health: Global Health Sciences I
+3215,BIOS,27811,Global Health Sciences II: Microbiology
+3216,BIOS,28700,Biodiagnostics and Biosensors
+3217,BIOS,28407,Genomics and Systems Biology
+3218,BIOS,2280,Drinking Alcohol: Social Problem or Normal Cultural Practice
+3219,BIOS,2490,Biology and Sociology of AIDS
+3220,BIOS,29100,Biology of Toxoplasma
+3221,BIOS,29265,Evolution and Economics of Human Behavior
+3222,BIOS,29271,The Psychology and Neurobiology of Stress
+3223,BIOS,29294,Introduction to Global Health
+3224,BIOS,29300,Biological Psychology
+3225,BIOS,29314,Medical Ethics: Central Topics
+3226,BIOS,29323,Health Care and the Limits of State Action
+3227,BIOS,29326,Introduction to Medical Physics and Medical Imaging
+3228,BIOS,29327,Topics in Clinical Research
+3229,BIOS,29812,Global Health Sciences III: Topics in Global Health
+3230,BIOS,199,Undergraduate Research
+3231,BIOS,206,Readings: Biology
+3232,BIOS,296,Undergraduate Honors Research
+3233,BIOS,299,Advanced Research: Biological Sciences
+3234,ECON,10000,Principles of Microeconomics
+3235,ECON,10200,Principles of Macroeconomics
+3236,ECON,11020,Introduction to Econometrics
+3237,ECON,12210,"Economic History II: The Early Modern World, circa 1300-1800"
+3238,ECON,12220,Economic History III: The Global Economy from Great Depression to Great Recession
+3239,ECON,13000,Introduction to Money and Banking
+3240,ECON,14810,Evolution and Economics of Human Behavior
+3241,ECON,19000,Economics for Everyone
+3242,ECON,19100,Economics for Everyone: Macro
+3243,ECON,19800,Introduction to Microeconomics
+3244,ECON,19900,Intro To Macroeconomics
+3245,ECON,20000,The Elements of Economic Analysis I
+3246,ECON,20100,The Elements of Economic Analysis II
+3247,ECON,20200,The Elements of Economic Analysis III
+3248,ECON,20300,Elements of Economic Analysis IV
+3249,ECON,20010,The Elements of Economic Analysis I Honors
+3250,ECON,20110,The Elements of Economic Analysis II Honors
+3251,ECON,20210,The Elements of Economic Analysis III Honors
+3252,ECON,20520,Formal Models of Political Economics
+3253,ECON,20700,Game Theory and Economic Applications
+3254,ECON,20770,Decision and Strategy
+3255,ECON,20780,Decision and Strategy II
+3256,ECON,20800,Theory of Auctions
+3257,ECON,21010,Statistical Methods in Economics
+3258,ECON,21020,Econometrics
+3259,ECON,21030,Econometrics - Honors
+3260,ECON,21110,Applied Microeconometrics
+3261,ECON,21130,Topics in Microeconometrics
+3262,ECON,21150,Topics in Applied Econometrics
+3263,ECON,21300,Data Construction and Interpretation in Economic Applications
+3264,ECON,21320,Applications of Econometric and Data Science Methods
+3265,ECON,21330,Econometrics and Machine Learning
+3266,ECON,21410,Computational Methods in Economics
+3267,ECON,21730,Applied Behavioral Economics
+3268,ECON,21800,Experimental Economics
+3269,ECON,21830,Social Neuroscience
+3270,ECON,22200,Topics in American Economic History
+3271,ECON,22410,UChicago Economics: The People and the Seminal Ideas
+3272,ECON,22600,Innovators
+3273,ECON,22650,Creativity
+3274,ECON,23000,Money and Banking
+3275,ECON,23040,Cryptocurrencies
+3276,ECON,23200,Topics in Macroeconomics
+3277,ECON,23230,Macroeconomic Crises
+3278,ECON,23330,Introduction to Dynamic Economic Modeling
+3279,ECON,23410,Economic Growth
+3280,ECON,23950,Economic Policy Analysis
+3281,ECON,24000,Labor Economics
+3282,ECON,24450,"Inequality and the Social Safety Net: Theory, Empirics, and Policies"
+3283,ECON,24720,"Inequality: Origins, Dimensions, and Policy"
+3284,ECON,25000,Introduction To Finance
+3285,ECON,25100,Financial Economic
+3286,ECON,25130,Behavioral Finance
+3287,ECON,25710,China's Economic Development & Transition
+3288,ECON,26010,Public Finance
+3289,ECON,26020,Public Sector Economics
+3290,ECON,26500,Environmental Economics
+3291,ECON,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+3292,ECON,26540,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+3293,ECON,26700,Economics of Education
+3294,ECON,26800,Energy and Energy Policy
+3295,ECON,26920,Behavioral Economics and Policy
+3296,ECON,27000,International Economics
+3297,ECON,27700,Health Economics and Public Policy
+3298,ECON,27720,Economics and Regulation of Health Care Markets: Theory and Empirics
+3299,ECON,28060,The Economics of Organizations: An Experimental Perspective
+3300,ECON,28100,The Economics of Sports
+3301,ECON,28600,Economic Analysis of Law
+3302,ECON,28620,Crony Capitalism
+3303,ECON,28700,The Economics of Crime
+3304,ECON,29700,Undergrad Rdg/Rsch: Economics
+3305,ECON,29800,Undergraduate Honors Workshop
+3306,BUSN,20100,Financial Accounting
+3307,BUSN,20101,Managerial Accounting
+3308,BUSN,20150,Financial Statement Analysis
+3309,BUSN,20330,Building the New Venture
+3310,BUSN,20340,Developing a New Venture
+3311,BUSN,20160,Accounting for Entrepreneurship
+3312,BUSN,20410,Corporation Finance
+3313,BUSN,20400,Investments
+3314,BUSN,20702,Managerial Decision Making
+3315,BUSN,20710,Behavioral Economics
+3316,BUSN,20701,Managing in Organizations
+3317,BUSN,20600,Marketing Management
+3318,BUSN,20610,Pricing Strategy
+3319,BUSN,20620,Data Science for Marketing
+3320,BUSN,20500,Operations Management
+3321,BUSN,20510,Managerial Decision Modeling
+3322,BUSN,20800,Big Data
+3323,BUSN,20810,Machine Learning
+3324,BUSN,20820,Financial Econometrics
+3325,BUSN,20900,Competitive Strategy
+3326,BUSN,20230,International Financial Policy
+3327,PBPL,20000,Economics for Public Policy
+3328,PBPL,20235,Computing for Social Sciences
+3329,PBPL,20305,Inequality in Urban Spaces
+3330,PBPL,21390,Philosophy of Poverty
+3331,PBPL,21425,Health in a Changing America: Social Context and Human Rights
+3332,PBPL,21501,Environmental Justice
+3333,PBPL,22100,Politics and Policy
+3334,PBPL,22200,Public Policy Analysis
+3335,PBPL,22300,Policy Implementation
+3336,PBPL,23000,Organizational Analysis
+3337,PBPL,23100,Environmental Law
+3338,PBPL,23200,The Economics of Crime
+3339,PBPL,23550,Urban Ecology and the Nature of Cities
+3340,PBPL,23606,"Political Culture, Social Capital, and The Arts"
+3341,PBPL,23650,Revolutionizing Agriculture: Early Modern Technologies for the New Millennium
+3342,PBPL,23700,Geographical Issues in Housing and Community Development
+3343,PBPL,24102,Environmental Politics
+3344,PBPL,24105,Urban Design: The Chicago Experience
+3345,PBPL,24308,Reproductive Worlds
+3346,PBPL,24605,Introduction to Urban Sciences
+3347,PBPL,24701,U.S. Environmental Policy
+3348,PBPL,24751,The Business of Non-Profits: The Evolving Social Sector
+3349,PBPL,24756,Exploring the Resilient City
+3350,PBPL,24901,"Trade, Development and Poverty in Mexico"
+3351,PBPL,25003,"Immigration, Law and Society"
+3352,PBPL,25004,Punishment and Social Theory
+3353,PBPL,25005,Inequality at Work: The Changing Nature of Working Class Jobs and Prospects for Improvement
+3354,PBPL,25120,Child Development and Public Policy
+3355,PBPL,25216,The American Presidency
+3356,PBPL,25220,Constructing a Society of Human Rights: A Psychological Framework
+3357,PBPL,25370,Social Justice and Social Policy
+3358,PBPL,25405,Child Poverty and Chicago Schools
+3359,PBPL,25630,"Poverty, Work, and Family Policy"
+3360,PBPL,25663,Urban Studies: Placemaking
+3361,PBPL,25831,Comparative Politics and Policy
+3362,PBPL,25832,Early Human Capital Development
+3363,PBPL,25833,Comparative Social Policy Analysis
+3364,PBPL,25840,Odyssey Engaged Nonprofit Practicum
+3365,PBPL,25860,"Crime, Justice, and Inequality in the American City"
+3366,PBPL,26075,Police and Citizen
+3367,PBPL,26200,Field Rsch Proj-1: Pubpol
+3368,PBPL,26300,Field Research Project in Public Policy II
+3369,PBPL,26205,Big Art - Little Art
+3370,PBPL,26301,Field Research Project in Public Policy
+3371,PBPL,26400,Quantitative Methods in Public Policy
+3372,PBPL,26416,Latin American Extractivisms
+3373,PBPL,26433,Practicum in Environmental Management
+3374,PBPL,26444,Practicum in Campus Athletics and Environment
+3375,PBPL,26501,Social Demography
+3376,PBPL,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+3377,PBPL,26531,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+3378,PBPL,26690,The Politics of Health Care
+3379,PBPL,26705,Economics of Education
+3380,PBPL,26836,Labor Economics for Public Policy
+3381,PBPL,26885,Women in the Labor Market
+3382,PBPL,26988,The Politics of Organizational Ethics
+3383,PBPL,27000,International Economics
+3384,PBPL,27040,Public Finance and Public Policy
+3385,PBPL,27070,Philanthropy: Private Acts and Public Goods
+3386,PBPL,27150,China's Economic Development & Transition
+3387,PBPL,27156,Urban Design with Nature
+3388,PBPL,27325,Urban Ecology in the Calumet Region
+3389,PBPL,27809,Violence in the Early Years
+3390,PBPL,27818,Philosophical Foundations of Public Policy
+3391,PBPL,27821,Urban Schools and Communities
+3392,PBPL,27905,Global Health Metrics
+3393,PBPL,28050,Remaking Chicago: The City That Works on Social Change
+3394,PBPL,28139,"Society, Politics and Security in Israel"
+3395,PBPL,28150,U.S. Foreign Policy: Inst & Decision making 21st Century
+3396,PBPL,28300,Health Economics and Public Policy
+3397,PBPL,28310,Healthcare and Healthcare Reform
+3398,PBPL,28350,Education and Development: Policy and Research
+3399,PBPL,28375,Political Economy of Development
+3400,PBPL,28401,Gender in the Classroom
+3401,PBPL,28425,Strategic Behavior and Regulation of Firms
+3402,PBPL,28488,Politics and Public Policy in Latin America
+3403,PBPL,28501,Process and Policy in State and City Government
+3404,PBPL,28510,Bombay/Mumbai: Urban Life/Urban Politics
+3405,PBPL,28525,Missing Markets: The Economics of the Environment
+3406,PBPL,28528,Household Finance: Theory and Applications
+3407,PBPL,28538,Political Economy of Natural Resources
+3408,PBPL,28550,Social Experiments: Design and Experimentation
+3409,PBPL,28605,Economic Analysis of Law
+3410,PBPL,28640,Mixed Methods Approaches to Policy Research
+3411,PBPL,28678,Massive Change: Finance & Economics
+3412,PBPL,28702,Electoral Politics
+3413,PBPL,28730,Insurgency in South and Southeast Asia
+3414,PBPL,28747,The Modern Welfare State
+3415,PBPL,28750,"Conflict: Root Causes, Consequences, and Solutions for the Future"
+3416,PBPL,28775,Poverty and Economic Development
+3417,PBPL,28780,The Art and Science of Negotiations and Persuasion
+3418,PBPL,28791,Behavioral Science and Public Policy
+3419,PBPL,28805,Behavioral Economics and Policy
+3420,PBPL,28820,Machine Learning and Policy
+3421,PBPL,28829,Artificial Intelligence for Public Policy
+3422,PBPL,28871,Constitutional Law
+3423,PBPL,28891,The Supreme Court and Public Policy
+3424,PBPL,28900,Environmental and Science Policy
+3425,PBPL,28920,"Inequality: Origins, Dimensions, and Policy"
+3426,PBPL,28923,Health Impacts of Transportation Systems
+3427,PBPL,28957,The Social Psychology of Behavior in Organizations
+3428,PBPL,29000,Energy and Energy Policy
+3429,PBPL,29050,Youth Law and Policy: Child Welfare and Juv. Just. in the U.S
+3430,PBPL,29120,Poverty Law and Policy Reform
+3431,PBPL,29355,Leading Complex Organizations
+3432,PBPL,29404,"Inequality, Household Finance, and Tax Policy"
+3433,PBPL,29411,"Mediation, Moderation, and Spillover Effects"
+3434,PBPL,29600,Internship: Public Policy
+3435,PBPL,29700,Reading and Research: Public Policy
+3436,PBPL,29701,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF"
+3437,PBPL,29702,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF) II"
+3438,PBPL,29800,BA Seminar: Public Policy I (credit
+3439,PBPL,29801,BA Seminar: Public Policy II (no credit
+3440,PBPL,29900,BA Paper Preparation: Public Policy
+3441,ENST,10001,Getting to Green: The Business Case for Sustainability
+3442,ENST,10010,Architecture and Urban Design Towards Sustainable Cities
+3443,ENST,12100,Chemistry & The Atmosphere
+3444,ENST,12300,Global Warming: Understanding the Forecast
+3445,ENST,12402,Life Through a Genomic Lens
+3446,ENST,12520,"Climate Change in Literature, Art, and Film"
+3447,ENST,13300,The Atmosphere
+3448,ENST,20540,The Chicago Climate Change & Culture Institute-I
+3449,ENST,20805,Cities and Urban Space in the Ancient World
+3450,ENST,21201,Human Impact on the Environment
+3451,ENST,21301,Making the Natural World: Foundations of Human Ecology
+3452,ENST,21440,(Re)constructing Nature: Restoration Ecology in a Time of Climate Change
+3453,ENST,21500,Environmental Justice
+3454,ENST,22209,Philosophies of Environmentalism and Sustainability
+3455,ENST,22300,South Side Ecologies
+3456,ENST,22506,The Natures of the Factory Farm
+3457,ENST,22610,Paris and the French Revolution
+3458,ENST,22708,"Planetary Britain, 1600-1900"
+3459,ENST,23100,Environmental Law
+3460,ENST,23190,Eco-consciousness: Climates and Ecologies of Eighteenth-Century Literature
+3461,ENST,23289,Marine Ecology
+3462,ENST,23505,Environmental Ethics
+3463,ENST,23550,Urban Ecology and the Nature of Cities
+3464,ENST,23640,Fruited Plains and Scarred Mountains: The Environmental History of Work in the United States
+3465,ENST,23650,Revolutionizing Agriculture: Early Modern Technologies for the New Millennium
+3466,ENST,23900,Environmental Chemistry
+3467,ENST,24102,Environmental Politics
+3468,ENST,24190,Imagining Chicago's Common Buildings
+3469,ENST,24201,China's Eco-Environmental Challenges and Society's Responses
+3470,ENST,24600,Introduction to Urban Sciences
+3471,ENST,24660,Urban Geography
+3472,ENST,24680,Introduction to Urban Planning
+3473,ENST,24701,U.S. Environmental Policy
+3474,ENST,24705,"Energy: Science, Technology, and Human Usage"
+3475,ENST,24756,Exploring the Resilient City
+3476,ENST,24800,Complex Problem: World Hunger
+3477,ENST,25006,How Things Get Done in Cities and Why
+3478,ENST,25014,Introduction to Environmental History
+3479,ENST,25114,"Natural History and Empire, circa 1500-1800"
+3480,ENST,25115,Francis Bacon's Philosophy of Nature
+3481,ENST,25116,"Utopia, Dystopia, and the Apocalypse in Western Culture"
+3482,ENST,25117,Natural History of Humans/Human History of Nature
+3483,ENST,25460,Environmental Effects on Human Health
+3484,ENST,25500,Biogeography
+3485,ENST,25900,Cultural Geography
+3486,ENST,26100,Roots of the Modern American City
+3487,ENST,26433,Practicum in Environmental Management
+3488,ENST,26444,Practicum in Campus Athletics and Environment
+3489,ENST,26500,Environmental Economics
+3490,ENST,26530,"Environment, Agriculture, and Food: Economic and Policy Analysis"
+3491,ENST,26531,"Environment, Agriculture, and Food: Advanced Economic and Policy Analysis"
+3492,ENST,27100,Integrative Research Seminar: Calumet
+3493,ENST,27201,Food Security and Agriculture: Calumet
+3494,ENST,27220,Environmental Management and Planning in the Calumet Region
+3495,ENST,27301,Restoration Ecology
+3496,ENST,27320,Topics in the Ecology of the Calumet Region
+3497,ENST,27120,Historical Ecology of the Calumet Region
+3498,ENST,27125,Voices of Alterity and the Languages of Immigration
+3499,ENST,27150,Urban Design with Nature: Assessing Social and Natural Realms in the Calumet Region
+3500,ENST,27155,Urban Design with Nature
+3501,ENST,27200,The Calumet Experience
+3502,ENST,27210,Approaches to the Second City: Materials and Methods
+3503,ENST,27221,Sustainable Urbanism
+3504,ENST,27300,Freshwater Ecosystems of the Calumet Region
+3505,ENST,27325,Urban Ecology in the Calumet Region
+3506,ENST,27330,Spaces of Hope: The City and Its Immigrants
+3507,ENST,27400,Epidemiology and Population Health
+3508,ENST,27420,"Urban Gardens: Therapeutic, Educational, and Community Building Practicum"
+3509,ENST,28601,Ideas of Nature I
+3510,ENST,28800,Readings in Spatial Analysis
+3511,ENST,28900,Environmental and Science Policy
+3512,ENST,28980,Readings in Urban Planning and Design
+3513,ENST,29000,Energy and Energy Policy
+3514,ENST,29525,The Global Life of Things
+3515,ENST,29700,Reading and Research
+3516,ENST,29701,"Readings and Research: Working Group in Environment, Agriculture, and Food (EAF"
+3517,ENST,29720,Reading and Research: Calumet
+3518,ENST,29801,BA Colloquium I
+3519,ENST,29802,BA Colloquium II
+3520,ENST,29900,B. A. Thesis (Reading and Research
+3521,BPRO,28200,Narrating Migration
+3522,BPRO,28300,Disability and Design
+3523,BPRO,28400,Thinking Psychoanalytically: From the Sciences to the Arts
+3524,BPRO,28700,Alternate Reality Games: Theory and Production
+3525,BPRO,28800,From Fossils to Fermi's Paradox: Origin and Evolution of Intelligent Life
+3526,BPRO,28900,"Inequality: Origins, Dimensions, and Policy"
+3527,BPRO,29000,Energy and Energy Policy
+3528,BPRO,21500,What is Civic Knowledge
+3529,BPRO,22200,"Boundaries, Modules, and Levels"
+3530,BPRO,22300,Empire
+3531,BPRO,22400,The Ugly American Comes Home
+3532,BPRO,22500,"Medicine and Society: Things, Bodies, Persons"
+3533,BPRO,22600,Autonomy & Medical Paternalism
+3534,BPRO,22612,Medical Ethics: Central Topics
+3535,BPRO,22800,Drinking Alcohol: Social Problem or Normal Cultural Practice
+3536,BPRO,23000,Cosmos and Conscience: Looking for Ourselves Elsewhere
+3537,BPRO,23400,Is Development Sustainable
+3538,BPRO,23500,The Organization of Knowledge
+3539,BPRO,23600,"Social Context, Biology, and Health"
+3540,BPRO,23760,The Social Brain: Social Isolation and Loneliness
+3541,BPRO,23800,The Affect System
+3542,BPRO,23900,Biological and Cultural Evolution
+3543,BPRO,24000,Understanding Wisdom
+3544,BPRO,24100,Science and Religion
+3545,BPRO,24150,"Romantic Love: Cultural, Philosophical, and Psychological Aspects"
+3546,BPRO,24160,Love and Tragedy in Tolstoy's Anna Karenina
+3547,BPRO,24200,Psychoneuroimmunology
+3548,BPRO,24300,Globalization and Neo-Liberalism
+3549,BPRO,24400,Concepts of the Self from Antiquity to the Present
+3550,BPRO,24500,Language and Globalization
+3551,BPRO,24600,Moments in Atheism
+3552,BPRO,24700,From Neo-Liberalism to Neo-Imperialism
+3553,BPRO,24800,Complex Problem: World Hunger
+3554,BPRO,24900,Biology and Sociology of AIDS
+3555,BPRO,25000,Images of Time: Japanese History Through Film
+3556,BPRO,25100,Evolutionary Theory and Its Role in the Human Sciences
+3557,BPRO,25200,Body and Soul: Approaches to Prayer
+3558,BPRO,25400,Jews and Christians in the Middle East
+3559,BPRO,25500,Art and Human Rights
+3560,BPRO,26030,The Nuclear Age
+3561,BPRO,26050,"Memory, Commemoration & Mourning"
+3562,BPRO,26102,War
+3563,BPRO,26300,Globalization: History and Theory
+3564,BPRO,26400,Movies and Madness
+3565,BPRO,26500,Picturing Words/Writing Images (Studio
+3566,BPRO,26600,Antonioni's Films: Reality and Ambiguity
+3567,BPRO,26700,"Mythical History, Paradigmatic Figures: Caesar, Augustus, Charlemagne, Napoleon"
+3568,BPRO,26750,Anxiety
+3569,BPRO,27000,Perspectives on Imaging
+3570,BPRO,27600,Creation and Creativity
+3571,BPRO,28000,"Terror, Religion, and Aesthetics"
+3572,BPRO,28100,What is Enlightenment
+3573,BPRO,28500,Sex and Ethics
+3574,BPRO,28600,Health Care and the Limits of State Action
+3575,BPRO,29100,What Genomes Teach About Evolution
+3576,BPRO,29200,"Global Energy & Climate Challenge: Economics, Science & Policy"
+3577,BPRO,29660,Colloquium: Digital Humanities/Digital History
+3578,CCTS,21003,Topics in Clinical Research
+3579,CCTS,21004,Christian Traditions and Medicine in the Late Modern World
+3580,CCTS,20400,Health Disparities in Breast Cancer
+3581,CCTS,20400,Health Disparities in Breast Cancer
+3582,CCTS,21005,"The Making of the ""Good Physician"": Virtue Ethics and the Development of Moral Character in Medicine"
+3583,CCTS,40006,Pharmacogenomics: Discovery and Implementation
+3584,CCTS,43100,Topics in Global Health
+3585,KNOW,12203,"Italian Renaissance: Dante, Machiavelli, and the Wars of Popes and Kings"
+3586,KNOW,15013,Medicine and Society in America
+3587,KNOW,17403,"Science, Culture, and Society in Western Civilization II: Early Modern Period"
+3588,KNOW,21415,Evolution Before Darwin
+3589,KNOW,21416,Reproduction and Motherhood in Multimedia (1800-present
+3590,KNOW,22709,"Introduction to Quantum Mechanics,Introduction to Philosophy of Quantum Mechanics"
+3591,KNOW,24112,Screening India: Bollywood and Beyond
+3592,KNOW,25308,"Lab, Field, and Clinic: History and Anthropology of Medicine and the Life Sciences"
+3593,KNOW,25425,"Censorship, Info Control, & Revolutions in Info Technology from the Printing Press to the Internet"
+3594,KNOW,27004,Babylon and the Origins of Knowledge
+3595,KNOW,27860,History of Evolutionary Behavioral Sciences
+3596,KNOW,28900,"Magic, Science, and Religion"
+3597,KNOW,29629,Tutorial: Romantic Bodies: Theater in the History of Science and Medicine
+3598,KNOW,29630,Tutorial: History and Philosophy of Social Science
+3599,KNOW,35000,Winckelmann: Enlightenment Art Historian and Philosopher
+3600,CCTS,21003,Topics in Clinical Research
+3601,CCTS,21004,Christian Traditions and Medicine in the Late Modern World
+3602,CCTS,20400,Health Disparities in Breast Cancer
+3603,CCTS,20400,Health Disparities in Breast Cancer
+3604,CCTS,21005,"The Making of the ""Good Physician"": Virtue Ethics and the Development of Moral Character in Medicine"
+3605,CCTS,40006,Pharmacogenomics: Discovery and Implementation
+3606,CCTS,43100,Topics in Global Health
+3607,CCTS,43100,Topics in Global Health
